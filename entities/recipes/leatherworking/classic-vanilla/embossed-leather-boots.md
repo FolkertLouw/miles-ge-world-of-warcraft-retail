@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2161
-- Output item: [Embossed Leather Boots](../../../items/embossed-leather-boots.md)
+- Output item: [Embossed Leather Boots](../../../items/armor/leather/embossed-leather-boots.md)
 - Output item ID: 2309
 - Source: Trainer
 - Skill required: 85
