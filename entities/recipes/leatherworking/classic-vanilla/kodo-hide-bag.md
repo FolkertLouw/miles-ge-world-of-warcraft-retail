@@ -15,9 +15,9 @@
 
 | Item | Quantity |
 |---|---:|
-| [Thin Kodo Leather](../../../items/thin-kodo-leather.md) | 3 |
-| [Light Leather](../../../items/light-leather.md) | 4 |
-| [Coarse Thread](../../../items/coarse-thread.md) | 1 |
+| [Thin Kodo Leather](../../../items/trade-goods/leather/thin-kodo-leather.md) | 3 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 4 |
+| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 1 |
 
 ## Tags
 
