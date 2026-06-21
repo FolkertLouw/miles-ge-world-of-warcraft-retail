@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2881
-- Output item: [Light Leather](../../../items/light-leather.md)
+- Output item: [Light Leather](../../../items/trade-goods/leather/light-leather.md)
 - Output item ID: 2318
 - Source: Starter
 - Skill required: 20
@@ -15,7 +15,7 @@
 
 | Item | Quantity |
 |---|---:|
-| [Ruined Leather Scraps](../../../items/ruined-leather-scraps.md) | 3 |
+| [Ruined Leather Scraps](../../../items/trade-goods/leather/ruined-leather-scraps.md) | 3 |
 
 ## Tags
 
