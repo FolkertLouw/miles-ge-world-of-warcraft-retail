@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2149
-- Output item: [Handstitched Leather Boots](../../../items/handstitched-leather-boots.md)
+- Output item: [Handstitched Leather Boots](../../../items/armor/leather/handstitched-leather-boots.md)
 - Output item ID: 2302
 - Source: Starter
 - Skill required: 40
