@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2163
-- Output item: [White Leather Jerkin](../../../items/white-leather-jerkin.md)
+- Output item: [White Leather Jerkin](../../../items/armor/leather/white-leather-jerkin.md)
 - Output item ID: 2311
 - Source: Drop, Fished, Pickpocketed
 - Skill required: 90
