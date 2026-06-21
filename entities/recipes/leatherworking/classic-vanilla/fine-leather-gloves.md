@@ -15,9 +15,9 @@
 
 | Item | Quantity |
 |---|---:|
-| [Cured Light Hide](../../../items/cured-light-hide.md) | 1 |
-| [Light Leather](../../../items/light-leather.md) | 4 |
-| [Coarse Thread](../../../items/coarse-thread.md) | 2 |
+| [Cured Light Hide](../../../items/trade-goods/leather/cured-light-hide.md) | 1 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 4 |
+| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
 
 ## Tags
 
