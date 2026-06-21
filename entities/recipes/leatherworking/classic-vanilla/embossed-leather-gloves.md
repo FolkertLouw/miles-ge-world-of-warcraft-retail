@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 3756
-- Output item: [Embossed Leather Gloves](../../../items/embossed-leather-gloves.md)
+- Output item: [Embossed Leather Gloves](../../../items/armor/leather/embossed-leather-gloves.md)
 - Output item ID: 4239
 - Source: Trainer
 - Skill required: 85
