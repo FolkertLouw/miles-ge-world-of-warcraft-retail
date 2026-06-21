@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 9064
-- Output item: [Rugged Leather Pants](../../../items/rugged-leather-pants.md)
+- Output item: [Rugged Leather Pants](../../../items/armor/leather/rugged-leather-pants.md)
 - Output item ID: 7280
 - Source: Drop, Pickpocketed
 - Skill required: 65
