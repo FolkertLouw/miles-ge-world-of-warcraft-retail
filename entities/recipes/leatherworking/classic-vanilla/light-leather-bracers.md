@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 9065
-- Output item: [Light Leather Bracers](../../../items/light-leather-bracers.md)
+- Output item: [Light Leather Bracers](../../../items/armor/leather/light-leather-bracers.md)
 - Output item ID: 7281
 - Source: Trainer
 - Skill required: 100
