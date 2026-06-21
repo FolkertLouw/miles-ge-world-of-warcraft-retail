@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 5244
-- Output item: [Kodo Hide Bag](../../../items/kodo-hide-bag.md)
+- Output item: [Kodo Hide Bag](../../../items/containers/bags/kodo-hide-bag.md)
 - Output item ID: 5081
 - Source: Quest
 - Skill required: 70
