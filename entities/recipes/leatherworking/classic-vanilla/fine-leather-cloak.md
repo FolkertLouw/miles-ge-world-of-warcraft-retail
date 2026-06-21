@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Light Leather](../../../items/light-leather.md) | 10 |
-| [Fine Thread](../../../items/fine-thread.md) | 2 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 10 |
+| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 2 |
 
 ## Tags
 
