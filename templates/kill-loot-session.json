@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1.0",
+  "game": "world-of-warcraft-retail",
+  "session_id": "YYYY-MM-DD-character-zone",
+  "character": {
+    "name": "",
+    "realm": "",
+    "region": "eu"
+  },
+  "started_at": "",
+  "ended_at": "",
+  "zone": "",
+  "subzone": "",
+  "observations": [
+    {
+      "timestamp": "",
+      "event_type": "kill",
+      "mob": {
+        "id": null,
+        "name": "",
+        "level": null,
+        "classification": "normal"
+      },
+      "location": {
+        "map_id": null,
+        "x": null,
+        "y": null
+      },
+      "loot": [
+        {
+          "item_id": null,
+          "item_name": "",
+          "quantity": 1,
+          "source": "loot"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "source_type": "addon_observation",
+    "source_name": "MILES GE WoW addon/export",
+    "confidence": "medium"
+  }
+}
