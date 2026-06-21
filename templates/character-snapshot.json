@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "game": "world-of-warcraft-retail",
+  "snapshot_type": "character",
+  "character": {
+    "name": "",
+    "realm": "",
+    "region": "eu",
+    "class": "",
+    "spec": "",
+    "role": "",
+    "level": null,
+    "professions": []
+  },
+  "equipment": [
+    {
+      "slot": "main_hand",
+      "item_id": null,
+      "item_name": "",
+      "item_level": null,
+      "enchant": null,
+      "gems": []
+    }
+  ],
+  "inventory_summary": [],
+  "source": {
+    "source_type": "manual_entry",
+    "source_name": "manual MVP entry",
+    "observed_at": "",
+    "confidence": "medium"
+  }
+}
