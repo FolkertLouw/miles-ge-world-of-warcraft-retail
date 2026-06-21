@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 226106
-- Output item: [Light Scale Bracers](../../../items/light-scale-bracers.md)
+- Output item: [Light Scale Bracers](../../../items/armor/mail/light-scale-bracers.md)
 - Output item ID: 132491
 - Source: Trainer
 - Skill required: 100
