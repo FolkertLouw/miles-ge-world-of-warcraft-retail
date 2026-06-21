@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2160
-- Output item: [Embossed Leather Vest](../../../items/embossed-leather-vest.md)
+- Output item: [Embossed Leather Vest](../../../items/armor/leather/embossed-leather-vest.md)
 - Output item ID: 2300
 - Source: Trainer
 - Skill required: 70
