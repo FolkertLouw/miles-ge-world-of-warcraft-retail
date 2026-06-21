@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2153
-- Output item: [Handstitched Leather Pants](../../../items/handstitched-leather-pants.md)
+- Output item: [Handstitched Leather Pants](../../../items/armor/leather/handstitched-leather-pants.md)
 - Output item ID: 2303
 - Source: Trainer
 - Skill required: 45
