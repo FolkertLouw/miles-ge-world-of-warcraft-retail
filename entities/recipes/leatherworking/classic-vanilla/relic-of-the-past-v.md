@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Rugged Leather](../../../items/rugged-leather.md) | 5 |
-| [Curing Salt](../../../items/curing-salt.md) | 12 |
+| [Rugged Leather](../../../items/trade-goods/leather/rugged-leather.md) | 5 |
+| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 12 |
 
 ## Tags
 
