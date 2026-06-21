@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 3753
-- Output item: [Handstitched Leather Belt](../../../items/handstitched-leather-belt.md)
+- Output item: [Handstitched Leather Belt](../../../items/armor/leather/handstitched-leather-belt.md)
 - Output item ID: 4237
 - Source: Trainer
 - Skill required: 55
