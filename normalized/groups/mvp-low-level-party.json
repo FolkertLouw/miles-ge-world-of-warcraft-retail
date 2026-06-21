@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.1.0",
+  "entity_type": "group",
+  "id": "mvp-low-level-party",
+  "name": "MVP Low-Level Party",
+  "game": "world-of-warcraft-retail",
+  "status": "placeholder",
+  "goal": {
+    "primary": "dungeon_recommendation_mvp",
+    "secondary": ["gear_upgrades", "leveling", "profession_value"]
+  },
+  "members": [
+    {
+      "slot": 1,
+      "character_ref": null,
+      "class": null,
+      "spec": null,
+      "role": null,
+      "level": null,
+      "gear_snapshot_ref": null
+    },
+    {
+      "slot": 2,
+      "character_ref": null,
+      "class": null,
+      "spec": null,
+      "role": null,
+      "level": null,
+      "gear_snapshot_ref": null
+    },
+    {
+      "slot": 3,
+      "character_ref": null,
+      "class": null,
+      "spec": null,
+      "role": null,
+      "level": null,
+      "gear_snapshot_ref": null
+    },
+    {
+      "slot": 4,
+      "character_ref": null,
+      "class": null,
+      "spec": null,
+      "role": null,
+      "level": null,
+      "gear_snapshot_ref": null
+    },
+    {
+      "slot": 5,
+      "character_ref": null,
+      "class": null,
+      "spec": null,
+      "role": null,
+      "level": null,
+      "gear_snapshot_ref": null
+    }
+  ],
+  "source": {
+    "source_type": "manual_entry",
+    "source_name": "Initial MILES MVP placeholder",
+    "observed_at": "2026-06-21T00:00:00+02:00",
+    "confidence": "low",
+    "notes": "Anonymized placeholder. Replace with actual party data when available."
+  }
+}
