@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Heavy Leather](../../../items/heavy-leather.md) | 5 |
-| [Curing Salt](../../../items/curing-salt.md) | 3 |
+| [Heavy Leather](../../../items/trade-goods/leather/heavy-leather.md) | 5 |
+| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 3 |
 
 ## Tags
 
