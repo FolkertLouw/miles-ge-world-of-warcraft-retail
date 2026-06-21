@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 9059
-- Output item: [Handstitched Leather Bracers](../../../items/handstitched-leather-bracers.md)
+- Output item: [Handstitched Leather Bracers](../../../items/armor/leather/handstitched-leather-bracers.md)
 - Output item ID: 7277
 - Source: Starter
 - Skill required: 40
