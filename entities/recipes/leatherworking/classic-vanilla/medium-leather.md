@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 20648
-- Output item: [Medium Leather](../../../items/medium-leather.md)
+- Output item: [Medium Leather](../../../items/trade-goods/leather/medium-leather.md)
 - Output item ID: 2319
 - Source: Trainer
 - Skill required: 100
@@ -15,7 +15,7 @@
 
 | Item | Quantity |
 |---|---:|
-| [Light Leather](../../../items/light-leather.md) | 4 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 4 |
 
 ## Tags
 
