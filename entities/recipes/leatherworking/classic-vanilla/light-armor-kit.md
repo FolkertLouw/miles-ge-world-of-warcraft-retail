@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2152
-- Output item: [Light Armor Kit](../../../items/light-armor-kit.md)
+- Output item: [Light Armor Kit](../../../items/consumables/armor-kits/light-armor-kit.md)
 - Output item ID: 2304
 - Source: Starter
 - Skill required: 30
