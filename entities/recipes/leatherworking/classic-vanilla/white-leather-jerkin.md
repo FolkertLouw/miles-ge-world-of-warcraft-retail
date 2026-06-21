@@ -15,9 +15,9 @@
 
 | Item | Quantity |
 |---|---:|
-| [Light Leather](../../../items/light-leather.md) | 8 |
-| [Coarse Thread](../../../items/coarse-thread.md) | 2 |
-| [Bleach](../../../items/bleach.md) | 1 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 8 |
+| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
+| [Bleach](../../../items/trade-goods/vendor-reagents/bleach.md) | 1 |
 
 ## Tags
 
