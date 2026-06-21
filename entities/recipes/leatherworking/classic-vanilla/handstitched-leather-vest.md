@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 7126
-- Output item: [Handstitched Leather Vest](../../../items/handstitched-leather-vest.md)
+- Output item: [Handstitched Leather Vest](../../../items/armor/leather/handstitched-leather-vest.md)
 - Output item ID: 5957
 - Source: Starter
 - Skill required: 40
