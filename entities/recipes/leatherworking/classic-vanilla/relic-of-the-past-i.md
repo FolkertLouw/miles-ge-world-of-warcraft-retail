@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Light Leather](../../../items/light-leather.md) | 5 |
-| [Curing Salt](../../../items/curing-salt.md) | 1 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 5 |
+| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 1 |
 
 ## Tags
 
