@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Medium Leather](../../../items/medium-leather.md) | 5 |
-| [Curing Salt](../../../items/curing-salt.md) | 2 |
+| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 5 |
+| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 2 |
 
 ## Tags
 
