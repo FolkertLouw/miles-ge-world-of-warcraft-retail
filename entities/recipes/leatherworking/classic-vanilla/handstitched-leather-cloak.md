@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 9058
-- Output item: [Handstitched Leather Cloak](../../../items/handstitched-leather-cloak.md)
+- Output item: [Handstitched Leather Cloak](../../../items/armor/leather/handstitched-leather-cloak.md)
 - Output item ID: 7276
 - Source: Starter
 - Skill required: 40
