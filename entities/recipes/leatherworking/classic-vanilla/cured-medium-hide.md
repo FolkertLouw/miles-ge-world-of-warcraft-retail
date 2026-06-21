@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 3817
-- Output item: [Cured Medium Hide](../../../items/cured-medium-hide.md)
+- Output item: [Cured Medium Hide](../../../items/trade-goods/leather/cured-medium-hide.md)
 - Output item ID: 4233
 - Source: Trainer
 - Skill required: 115
@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Medium Hide](../../../items/medium-hide.md) | 1 |
-| [Salt](../../../items/salt.md) | 1 |
+| [Medium Hide](../../../items/trade-goods/leather/medium-hide.md) | 1 |
+| [Salt](../../../items/trade-goods/vendor-reagents/salt.md) | 1 |
 
 ## Tags
 
