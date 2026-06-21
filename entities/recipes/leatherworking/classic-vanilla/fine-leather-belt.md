@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 3763
-- Output item: [Fine Leather Belt](../../../items/fine-leather-belt.md)
+- Output item: [Fine Leather Belt](../../../items/armor/leather/fine-leather-belt.md)
 - Output item ID: 4246
 - Source: Trainer
 - Skill required: 110
