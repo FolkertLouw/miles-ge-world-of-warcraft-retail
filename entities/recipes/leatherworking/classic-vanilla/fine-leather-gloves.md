@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2164
-- Output item: [Fine Leather Gloves](../../../items/fine-leather-gloves.md)
+- Output item: [Fine Leather Gloves](../../../items/armor/leather/fine-leather-gloves.md)
 - Output item ID: 2312
 - Source: Drop
 - Skill required: 105
