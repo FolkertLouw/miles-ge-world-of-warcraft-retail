@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 226105
-- Output item: [Light Scale Gloves](../../../items/light-scale-gloves.md)
+- Output item: [Light Scale Gloves](../../../items/armor/mail/light-scale-gloves.md)
 - Output item ID: 132490
 - Source: Trainer
 - Skill required: 85
