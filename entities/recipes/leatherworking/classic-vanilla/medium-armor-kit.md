@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Medium Leather](../../../items/medium-leather.md) | 4 |
-| [Coarse Thread](../../../items/coarse-thread.md) | 1 |
+| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 4 |
+| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 1 |
 
 ## Tags
 
