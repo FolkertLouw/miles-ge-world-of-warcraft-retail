@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 3816
-- Output item: [Cured Light Hide](../../../items/cured-light-hide.md)
+- Output item: [Cured Light Hide](../../../items/trade-goods/leather/cured-light-hide.md)
 - Output item ID: 4231
 - Source: Trainer
 - Skill required: 55
@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Light Hide](../../../items/light-hide.md) | 1 |
-| [Salt](../../../items/salt.md) | 1 |
+| [Light Hide](../../../items/trade-goods/leather/light-hide.md) | 1 |
+| [Salt](../../../items/trade-goods/vendor-reagents/salt.md) | 1 |
 
 ## Tags
 
