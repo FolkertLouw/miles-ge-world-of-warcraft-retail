@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2159
-- Output item: [Fine Leather Cloak](../../../items/fine-leather-cloak.md)
+- Output item: [Fine Leather Cloak](../../../items/armor/leather/fine-leather-cloak.md)
 - Output item ID: 2308
 - Source: Trainer
 - Skill required: 105
