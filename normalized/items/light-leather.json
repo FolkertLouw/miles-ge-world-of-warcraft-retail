@@ -1,0 +1,50 @@
+{
+  "schema_version": "0.1.0",
+  "entity_type": "item",
+  "id": "wow-item-2318",
+  "external_ids": {
+    "wow_item_id": 2318
+  },
+  "name": "Light Leather",
+  "game": "world-of-warcraft-retail",
+  "category": "trade-goods",
+  "subtype": "leather",
+  "quality": "common",
+  "stack_size": null,
+  "vendor_sell_value": null,
+  "uses": [
+    {
+      "use_type": "auction_house_sale",
+      "description": "Can potentially be sold raw on the Auction House. Requires current AH data."
+    },
+    {
+      "use_type": "vendor_sale",
+      "description": "Can be sold to a vendor. Vendor value needs verification."
+    },
+    {
+      "use_type": "profession_material",
+      "description": "Material relevant to Leatherworking. Specific recipes need to be added."
+    },
+    {
+      "use_type": "inventory_decision_test_case",
+      "description": "First item-centered MILES economy test case: what should I do with 100 Light Leather?"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "manual_entry",
+      "source_name": "Initial MILES seed",
+      "observed_at": "2026-06-21T00:00:00+02:00",
+      "confidence": "medium",
+      "notes": "Initial seed data. Verify item details through official/API or trusted dataset before using for recommendations."
+    }
+  ],
+  "missing_data": [
+    "vendor_sell_value",
+    "stack_size",
+    "current_auction_house_price",
+    "recipe_relations",
+    "drop_or_skinning_sources",
+    "sale_velocity"
+  ]
+}
