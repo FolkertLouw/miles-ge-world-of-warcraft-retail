@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 226107
-- Output item: [Light Scale Belt](../../../items/light-scale-belt.md)
+- Output item: [Light Scale Belt](../../../items/armor/mail/light-scale-belt.md)
 - Output item ID: 132492
 - Source: Trainer
 - Skill required: 110
