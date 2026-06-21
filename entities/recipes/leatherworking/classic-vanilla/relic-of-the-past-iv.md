@@ -15,8 +15,8 @@
 
 | Item | Quantity |
 |---|---:|
-| [Thick Leather](../../../items/thick-leather.md) | 5 |
-| [Curing Salt](../../../items/curing-salt.md) | 8 |
+| [Thick Leather](../../../items/trade-goods/leather/thick-leather.md) | 5 |
+| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 8 |
 
 ## Tags
 
