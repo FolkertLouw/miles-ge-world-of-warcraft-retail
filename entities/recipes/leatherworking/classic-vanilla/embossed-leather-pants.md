@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 3759
-- Output item: [Embossed Leather Pants](../../../items/embossed-leather-pants.md)
+- Output item: [Embossed Leather Pants](../../../items/armor/leather/embossed-leather-pants.md)
 - Output item ID: 4242
 - Source: Trainer
 - Skill required: 105
