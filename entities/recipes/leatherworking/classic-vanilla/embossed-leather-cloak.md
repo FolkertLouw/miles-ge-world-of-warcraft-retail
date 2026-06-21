@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2162
-- Output item: [Embossed Leather Cloak](../../../items/embossed-leather-cloak.md)
+- Output item: [Embossed Leather Cloak](../../../items/armor/leather/embossed-leather-cloak.md)
 - Output item ID: 2310
 - Source: Trainer
 - Skill required: 90
