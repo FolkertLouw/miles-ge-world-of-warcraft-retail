@@ -15,7 +15,7 @@
 
 | Item | Quantity |
 |---|---:|
-| [Light Leather](../../../items/light-leather.md) | 1 |
+| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 1 |
 
 ## Tags
 
