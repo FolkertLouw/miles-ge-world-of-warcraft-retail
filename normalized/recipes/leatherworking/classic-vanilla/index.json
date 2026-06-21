@@ -1,0 +1,73 @@
+{
+  "schema_version": "0.1.0",
+  "entity_type": "recipe_index",
+  "game": "world-of-warcraft-retail",
+  "profession": "leatherworking",
+  "expansion_layer": "classic-vanilla",
+  "status": "seed_unverified",
+  "recipes": [
+    {
+      "slug": "light-armor-kit",
+      "name": "Light Armor Kit",
+      "output_item_name": "Light Armor Kit",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "handstitched-leather-boots",
+      "name": "Handstitched Leather Boots",
+      "output_item_name": "Handstitched Leather Boots",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "handstitched-leather-bracers",
+      "name": "Handstitched Leather Bracers",
+      "output_item_name": "Handstitched Leather Bracers",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "handstitched-leather-cloak",
+      "name": "Handstitched Leather Cloak",
+      "output_item_name": "Handstitched Leather Cloak",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "embossed-leather-vest",
+      "name": "Embossed Leather Vest",
+      "output_item_name": "Embossed Leather Vest",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "embossed-leather-boots",
+      "name": "Embossed Leather Boots",
+      "output_item_name": "Embossed Leather Boots",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "embossed-leather-gloves",
+      "name": "Embossed Leather Gloves",
+      "output_item_name": "Embossed Leather Gloves",
+      "primary_materials": ["Light Leather"],
+      "verification_status": "needs_verification"
+    },
+    {
+      "slug": "medium-armor-kit",
+      "name": "Medium Armor Kit",
+      "output_item_name": "Medium Armor Kit",
+      "primary_materials": ["Medium Leather"],
+      "verification_status": "needs_verification"
+    }
+  ],
+  "source": {
+    "source_type": "manual_entry",
+    "source_name": "Initial MILES seed from memory/planning context",
+    "observed_at": "2026-06-21T00:00:00+02:00",
+    "confidence": "low",
+    "notes": "Starter list only. Do not use for recommendations until verified against a reliable dataset."
+  }
+}
