@@ -1,73 +1,59 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.2.0",
   "entity_type": "recipe_index",
   "game": "world-of-warcraft-retail",
   "profession": "leatherworking",
   "expansion_layer": "classic-vanilla",
-  "status": "seed_unverified",
+  "status": "parsed_from_user_provided_html_needs_review",
+  "recipe_count": 50,
   "recipes": [
     {
-      "slug": "light-armor-kit",
-      "name": "Light Armor Kit",
-      "output_item_name": "Light Armor Kit",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "handstitched-leather-boots",
-      "name": "Handstitched Leather Boots",
-      "output_item_name": "Handstitched Leather Boots",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "handstitched-leather-bracers",
-      "name": "Handstitched Leather Bracers",
-      "output_item_name": "Handstitched Leather Bracers",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "handstitched-leather-cloak",
-      "name": "Handstitched Leather Cloak",
-      "output_item_name": "Handstitched Leather Cloak",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "embossed-leather-vest",
-      "name": "Embossed Leather Vest",
-      "output_item_name": "Embossed Leather Vest",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "embossed-leather-boots",
-      "name": "Embossed Leather Boots",
-      "output_item_name": "Embossed Leather Boots",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "embossed-leather-gloves",
-      "name": "Embossed Leather Gloves",
-      "output_item_name": "Embossed Leather Gloves",
-      "primary_materials": ["Light Leather"],
-      "verification_status": "needs_verification"
-    },
-    {
-      "slug": "medium-armor-kit",
-      "name": "Medium Armor Kit",
-      "output_item_name": "Medium Armor Kit",
-      "primary_materials": ["Medium Leather"],
-      "verification_status": "needs_verification"
+      "slug": "relic-of-the-past-i",
+      "name": "Relic of the Past I",
+      "spell_id": 330180,
+      "spell_url": "https://www.wowhead.com/spell=330180/relic-of-the-past-i",
+      "output_item": {
+        "item_id": 180055,
+        "name": "Relic of the Past I",
+        "slug": "relic-of-the-past-i",
+        "url": "https://www.wowhead.com/item=180055/relic-of-the-past-i"
+      },
+      "reagents": [
+        {
+          "item_id": 2318,
+          "name": "Light Leather",
+          "slug": "light-leather",
+          "quantity": 5
+        },
+        {
+          "item_id": 183955,
+          "name": "Curing Salt",
+          "slug": "curing-salt",
+          "quantity": 1
+        }
+      ],
+      "source": "Trainer",
+      "skill_required": 1,
+      "skill_thresholds": [
+        1,
+        10,
+        20
+      ],
+      "tags": [
+        "leatherworking",
+        "classic-vanilla",
+        "manual-html-import",
+        "light-leather",
+        "curing-salt"
+      ],
+      "verification_status": "parsed_from_user_provided_html_needs_review"
     }
   ],
   "source": {
     "source_type": "manual_entry",
-    "source_name": "Initial MILES seed from memory/planning context",
+    "source_name": "User-provided Wowhead Leatherworking HTML table",
     "observed_at": "2026-06-21T00:00:00+02:00",
-    "confidence": "low",
-    "notes": "Starter list only. Do not use for recommendations until verified against a reliable dataset."
+    "confidence": "medium",
+    "notes": "Parsed from pasted HTML table. Full import parse confirmed 50 recipe rows and 67 unique item IDs. This file currently stores only the first parsed row as a GitHub-safe test update; full importer/export should be committed from local script next."
   }
 }
