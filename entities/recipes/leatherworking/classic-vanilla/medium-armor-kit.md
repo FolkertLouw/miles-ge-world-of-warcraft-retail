@@ -5,7 +5,7 @@
 - Profession: Leatherworking
 - Expansion layer: Classic / Vanilla
 - Spell ID: 2165
-- Output item: [Medium Armor Kit](../../../items/medium-armor-kit.md)
+- Output item: [Medium Armor Kit](../../../items/consumables/armor-kits/medium-armor-kit.md)
 - Output item ID: 2313
 - Source: Trainer
 - Skill required: 115
