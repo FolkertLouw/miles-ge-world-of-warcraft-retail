@@ -4,20 +4,27 @@
 
 - Item ID: 132548
 - Canonical category: Armor / Mail
-- Slot tag: boots
-- Roles in current data: recipe-output
+- Equipment slot: feet
+- Role in current data: crafted output
 
-## Created by recipes
+## Created by
 
 - [Shamanic Treads](../../../recipes/leatherworking/classic-vanilla/shamanic-treads.md)
 
-## Used in recipes
+## Used in other records
 
-No known uses in current seed.
+No known uses in the current seed.
+
+## Materials relationship
+
+This item is produced from:
+
+- [Light Leather](../../trade-goods/leather/light-leather.md)
+- [Coarse Thread](../../trade-goods/thread/coarse-thread.md)
 
 ## Tags
 
-`item` `armor` `mail` `boots` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+`item` `armor` `mail` `feet` `crafted-output` `leatherworking` `classic-vanilla` `manual-html-import`
 
 ## Source
 
