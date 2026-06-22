@@ -1,29 +1,36 @@
 # Moonglow Vest
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 8322
-- Output item: [Moonglow Vest](../../../items/armor/leather/moonglow-vest.md)
-- Output item ID: 6709
-- Source: Quest
-- Skill required: 115
-- Skill thresholds: 115 / 130 / 145
+- **Spell ID:** 8322
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Moonglow Vest](/entities/items/armor/leather/chest/moonglow-vest.md) (id 6709)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 6 |
+| [Cured Light Hide](/entities/items/trade-goods/leather/cured-light-hide.md) | 1 |
+| Coarse Thread | 4 |
+| Small Lustrous Pearl | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 6 |
-| [Cured Light Hide](../../../items/trade-goods/leather/cured-light-hide.md) | 1 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 4 |
-| [Small Lustrous Pearl](../../../items/trade-goods/pearls/small-lustrous-pearl.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `quest` `chest` `manual-html-import`
+## Skill thresholds
+- **Required:** 115
+- **Yellow:** 115
+- **Green:** 130
+- **Gray:** 145
 
 ## Source
+Quest
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `quest`
+- `armor`
+- `leather`
+- `chest`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

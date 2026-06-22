@@ -1,27 +1,34 @@
 # Light Scale Belt
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 226107
-- Output item: [Light Scale Belt](../../../items/armor/mail/light-scale-belt.md)
-- Output item ID: 132492
-- Source: Trainer
-- Skill required: 110
-- Skill thresholds: 110 / 125 / 140
+- **Spell ID:** 226107
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Light Scale Belt](/entities/items/armor/mail/waist/light-scale-belt.md) (id 132489)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 6 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 6 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `belt` `scale` `manual-html-import`
+## Skill thresholds
+- **Required:** 110
+- **Yellow:** 110
+- **Green:** 125
+- **Gray:** 140
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `mail`
+- `waist`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

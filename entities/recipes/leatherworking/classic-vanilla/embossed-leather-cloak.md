@@ -1,27 +1,34 @@
 # Embossed Leather Cloak
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2162
-- Output item: [Embossed Leather Cloak](../../../items/armor/leather/embossed-leather-cloak.md)
-- Output item ID: 2310
-- Source: Trainer
-- Skill required: 90
-- Skill thresholds: 90 / 105 / 120
+- **Spell ID:** 2162
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Embossed Leather Cloak](/entities/items/armor/leather/back/embossed-leather-cloak.md) (id 2310)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 5 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 5 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `cloak` `manual-html-import`
+## Skill thresholds
+- **Required:** 90
+- **Yellow:** 90
+- **Green:** 105
+- **Gray:** 120
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `back`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

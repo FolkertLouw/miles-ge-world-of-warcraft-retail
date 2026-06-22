@@ -1,27 +1,34 @@
 # Handstitched Leather Cloak
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 9058
-- Output item: [Handstitched Leather Cloak](../../../items/armor/leather/handstitched-leather-cloak.md)
-- Output item ID: 7276
-- Source: Starter
-- Skill required: 40
-- Skill thresholds: 40 / 55 / 70
+- **Spell ID:** 9058
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Handstitched Leather Cloak](/entities/items/armor/leather/back/handstitched-leather-cloak.md) (id 7276)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 2 |
+| Coarse Thread | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 2 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `starter` `cloak` `manual-html-import`
+## Skill thresholds
+- **Required:** 40
+- **Yellow:** 40
+- **Green:** 55
+- **Gray:** 70
 
 ## Source
+Starter
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `starter`
+- `armor`
+- `leather`
+- `back`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

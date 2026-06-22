@@ -1,27 +1,34 @@
 # Fine Leather Belt
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 3763
-- Output item: [Fine Leather Belt](../../../items/armor/leather/fine-leather-belt.md)
-- Output item ID: 4246
-- Source: Trainer
-- Skill required: 110
-- Skill thresholds: 110 / 125 / 140
+- **Spell ID:** 3763
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Fine Leather Belt](/entities/items/armor/leather/waist/fine-leather-belt.md) (id 4246)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 6 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 6 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `belt` `manual-html-import`
+## Skill thresholds
+- **Required:** 110
+- **Yellow:** 110
+- **Green:** 125
+- **Gray:** 140
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `waist`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

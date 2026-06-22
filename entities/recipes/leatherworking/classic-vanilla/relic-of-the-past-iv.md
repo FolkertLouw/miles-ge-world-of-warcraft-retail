@@ -1,27 +1,33 @@
 # Relic of the Past IV
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 330184
-- Output item: [Relic of the Past IV](../../../items/relic-of-the-past-iv.md)
-- Output item ID: 180059
-- Source: Trainer
-- Skill required: 1
-- Skill thresholds: 1 / 10 / 20
+- **Spell ID:** 330184
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Relic of the Past IV](/entities/items/crafting/relics/relic-of-the-past-iv.md) (id 180059)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Thick Leather | 5 |
+| Curing Salt | 8 |
 
-| Item | Quantity |
-|---|---:|
-| [Thick Leather](../../../items/trade-goods/leather/thick-leather.md) | 5 |
-| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 8 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `manual-html-import`
+## Skill thresholds
+- **Required:** 1
+- **Yellow:** 1
+- **Green:** 10
+- **Gray:** 20
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `crafting`
+- `relic`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

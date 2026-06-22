@@ -1,26 +1,32 @@
 # Light Leather
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2881
-- Output item: [Light Leather](../../../items/trade-goods/leather/light-leather.md)
-- Output item ID: 2318
-- Source: Starter
-- Skill required: 20
-- Skill thresholds: 20 / 30 / 40
+- **Spell ID:** 2881
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Light Leather](/entities/items/trade-goods/leather/light-leather.md) (id 2318)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Ruined Leather Scraps | 3 |
 
-| Item | Quantity |
-|---|---:|
-| [Ruined Leather Scraps](../../../items/trade-goods/leather/ruined-leather-scraps.md) | 3 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `starter` `manual-html-import`
+## Skill thresholds
+- **Required:** 20
+- **Yellow:** 20
+- **Green:** 30
+- **Gray:** 40
 
 ## Source
+Starter
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `starter`
+- `trade-good`
+- `leather`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

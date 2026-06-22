@@ -1,24 +1,35 @@
 # Crackling Scale Breastplate
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 226114
-- Output item: [Crackling Scale Breastplate](../../../items/armor/mail/crackling-scale-breastplate.md)
-- Output item ID: 132545
-- Source: Trainer
-- Skill required: 125
-- Skill thresholds: 125 / 137 / 150
+- **Spell ID:** 226114
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Crackling Scale Breastplate](/entities/items/armor/mail/chest/crackling-scale-breastplate.md) (id 132545)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Fine Leather Tunic](/entities/items/armor/leather/chest/fine-leather-tunic.md) | 1 |
+| [Cured Light Hide](/entities/items/trade-goods/leather/cured-light-hide.md) | 2 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Fine Leather Tunic](../../../items/armor/leather/fine-leather-tunic.md) | 1 |
-| [Cured Light Hide](../../../items/trade-goods/leather/cured-light-hide.md) | 2 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
+## Skill thresholds
+- **Required:** 125
+- **Yellow:** 125
+- **Green:** 137
+- **Gray:** 150
+
+## Source
+Trainer
 
 ## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `mail`
+- `chest`
+- `needs-verification`
 
-`leatherworking` `classic-vanilla` `trainer` `chest` `mail` `scale` `manual-html-import`
+## Data quality notes
+- Some reagents have no resolved item id.

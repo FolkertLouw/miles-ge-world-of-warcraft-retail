@@ -1,24 +1,35 @@
 # Chain Boots
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 226113
-- Output item: [Chain Boots](../../../items/armor/mail/chain-boots.md)
-- Output item ID: 132494
-- Source: Trainer
-- Skill required: 125
-- Skill thresholds: 125 / 137 / 150
+- **Spell ID:** 226113
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Chain Boots](/entities/items/armor/mail/feet/chain-boots.md) (id 132494)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) | 4 |
+| Fine Thread | 2 |
+| Gray Dye | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 4 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 2 |
-| [Gray Dye](../../../items/trade-goods/vendor-reagents/gray-dye.md) | 1 |
+## Skill thresholds
+- **Required:** 125
+- **Yellow:** 125
+- **Green:** 137
+- **Gray:** 150
+
+## Source
+Trainer
 
 ## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `mail`
+- `feet`
+- `needs-verification`
 
-`leatherworking` `classic-vanilla` `trainer` `boots` `mail` `manual-html-import`
+## Data quality notes
+- Some reagents have no resolved item id.

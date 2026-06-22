@@ -1,16 +1,37 @@
 # Dark Leather Tunic
 
-- Profession: Leatherworking
-- Spell ID: 2169
-- Output: [Dark Leather Tunic](../../../items/armor/leather/dark-leather-tunic.md)
-- Output item ID: 2317
-- Source: Drop, Fished, Pickpocketed
-- Skill: 125 / 137 / 150
+## Basic info
+- **Spell ID:** 2169
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Dark Leather Tunic](/entities/items/armor/leather/chest/dark-leather-tunic.md) (id 2317)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) | 6 |
+| Fine Thread | 1 |
+| Gray Dye | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 6 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 1 |
-| [Gray Dye](../../../items/trade-goods/vendor-reagents/gray-dye.md) | 1 |
+## Skill thresholds
+- **Required:** 125
+- **Yellow:** 125
+- **Green:** 137
+- **Gray:** 150
+
+## Source
+Drop, Fished, Pickpocketed
+
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `drop`
+- `fished`
+- `pickpocketed`
+- `armor`
+- `leather`
+- `chest`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

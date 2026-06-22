@@ -1,27 +1,34 @@
 # Handstitched Leather Pants
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2153
-- Output item: [Handstitched Leather Pants](../../../items/armor/leather/handstitched-leather-pants.md)
-- Output item ID: 2303
-- Source: Trainer
-- Skill required: 45
-- Skill thresholds: 45 / 60 / 75
+- **Spell ID:** 2153
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Handstitched Leather Pants](/entities/items/armor/leather/legs/handstitched-leather-pants.md) (id 2303)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 4 |
+| Coarse Thread | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 4 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `pants` `manual-html-import`
+## Skill thresholds
+- **Required:** 45
+- **Yellow:** 45
+- **Green:** 60
+- **Gray:** 75
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `legs`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

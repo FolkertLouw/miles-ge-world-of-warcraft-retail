@@ -1,27 +1,33 @@
 # Cured Medium Hide
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 3817
-- Output item: [Cured Medium Hide](../../../items/trade-goods/leather/cured-medium-hide.md)
-- Output item ID: 4233
-- Source: Trainer
-- Skill required: 115
-- Skill thresholds: 115 / 122 / 130
+- **Spell ID:** 3817
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Cured Medium Hide](/entities/items/trade-goods/leather/cured-medium-hide.md) (id 4233)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Medium Hide | 1 |
+| Salt | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Medium Hide](../../../items/trade-goods/leather/medium-hide.md) | 1 |
-| [Salt](../../../items/trade-goods/vendor-reagents/salt.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `hide` `manual-html-import`
+## Skill thresholds
+- **Required:** 115
+- **Yellow:** 115
+- **Green:** 122
+- **Gray:** 130
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `trade-good`
+- `leather`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

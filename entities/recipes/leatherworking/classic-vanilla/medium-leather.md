@@ -1,26 +1,32 @@
 # Medium Leather
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 20648
-- Output item: [Medium Leather](../../../items/trade-goods/leather/medium-leather.md)
-- Output item ID: 2319
-- Source: Trainer
-- Skill required: 100
-- Skill thresholds: 100 / 105 / 110
+- **Spell ID:** 20648
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) (id 2319)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 4 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 4 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `conversion` `manual-html-import`
+## Skill thresholds
+- **Required:** 100
+- **Yellow:** 100
+- **Green:** 105
+- **Gray:** 110
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `trade-good`
+- `leather`
+- `needs-verification`
+
+## Data quality notes
+_No issues detected._

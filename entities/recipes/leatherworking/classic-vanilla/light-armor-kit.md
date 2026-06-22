@@ -1,26 +1,32 @@
 # Light Armor Kit
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2152
-- Output item: [Light Armor Kit](../../../items/consumables/armor-kits/light-armor-kit.md)
-- Output item ID: 2304
-- Source: Starter
-- Skill required: 30
-- Skill thresholds: 30 / 45 / 60
+- **Spell ID:** 2152
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Light Armor Kit](/entities/items/consumables/armor-kits/light-armor-kit.md) (id 2304)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `starter` `armor-kit` `manual-html-import`
+## Skill thresholds
+- **Required:** 30
+- **Yellow:** 30
+- **Green:** 45
+- **Gray:** 60
 
 ## Source
+Starter
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `starter`
+- `consumable`
+- `armor-kit`
+- `needs-verification`
+
+## Data quality notes
+_No issues detected._

@@ -1,27 +1,34 @@
 # Embossed Leather Vest
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2160
-- Output item: [Embossed Leather Vest](../../../items/armor/leather/embossed-leather-vest.md)
-- Output item ID: 2300
-- Source: Trainer
-- Skill required: 70
-- Skill thresholds: 70 / 85 / 100
+- **Spell ID:** 2160
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Embossed Leather Vest](/entities/items/armor/leather/chest/embossed-leather-vest.md) (id 2300)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 8 |
+| Coarse Thread | 4 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 8 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 4 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `chest` `manual-html-import`
+## Skill thresholds
+- **Required:** 70
+- **Yellow:** 70
+- **Green:** 85
+- **Gray:** 100
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `chest`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

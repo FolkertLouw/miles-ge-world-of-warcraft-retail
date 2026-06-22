@@ -1,23 +1,34 @@
 # Kodo Hide Bag
 
 ## Basic info
+- **ID:** 5081
+- **Slug:** `kodo-hide-bag`
+- **Taxonomy:** `containers/bags`
+- **Item class:** container
+- **Item subclass:** bag
+- **Item role:** crafted-container
+- **Category path:** `containers/bags`
 
-- Item ID: 5081
-- Canonical category: Containers / Bags
-- Roles in current data: recipe-output
+## Created by
+- [Kodo Hide Bag](/entities/recipes/leatherworking/classic-vanilla/kodo-hide-bag.md)
 
-## Created by recipes
+## Used in other records
+_None_
 
-- [Kodo Hide Bag](../../../recipes/leatherworking/classic-vanilla/kodo-hide-bag.md)
+## Materials relationship
+_No upstream consumption recorded._
 
-## Used in recipes
-
-No known uses in current seed.
+## Economy
+- **Auction value:** _tbd_
+- **Vendor price:** _tbd_
 
 ## Tags
-
-`item` `container` `bag` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+- `leatherworking`
+- `classic-vanilla`
+- `quest`
+- `container`
+- `bag`
+- `needs-verification`
 
 ## Source
-
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+Quest

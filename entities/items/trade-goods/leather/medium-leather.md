@@ -1,25 +1,32 @@
 # Medium Leather
 
 ## Basic info
+- **ID:** 2319
+- **Slug:** `medium-leather`
+- **Taxonomy:** `trade-goods/leather`
 
-- Item ID: 2319
-- Canonical category: Trade Goods / Leather
-- Roles in current data: reagent, recipe-output
+## Created by
+- [Medium Leather](/entities/recipes/leatherworking/classic-vanilla/medium-leather.md)
 
-## Created by recipes
+## Used in other records
+- [Relic of the Past II](/entities/recipes/leatherworking/classic-vanilla/relic-of-the-past-ii.md)
+- [Medium Armor Kit](/entities/recipes/leatherworking/classic-vanilla/medium-armor-kit.md)
+- [Black Whelp Cloak](/entities/recipes/leatherworking/classic-vanilla/black-whelp-cloak.md)
+- [Black Whelp Tunic](/entities/recipes/leatherworking/classic-vanilla/black-whelp-tunic.md)
+- [Chain Boots](/entities/recipes/leatherworking/classic-vanilla/chain-boots.md)
+- [Chain Hauberk](/entities/recipes/leatherworking/classic-vanilla/chain-hauberk.md)
+- [Dark Leather Boots](/entities/recipes/leatherworking/classic-vanilla/dark-leather-boots.md)
+- [Dark Leather Tunic](/entities/recipes/leatherworking/classic-vanilla/dark-leather-tunic.md)
 
-- [Medium Leather](../../../recipes/leatherworking/classic-vanilla/medium-leather.md)
+## Materials relationship
+This item is consumed as a reagent in 8 recipe(s).
 
-## Used in recipes
-
-- Relic of the Past II
-- Medium Armor Kit
-- Later Classic / Vanilla Leatherworking recipes
+## Economy
+- **Auction value:** _tbd_
+- **Vendor price:** _tbd_
 
 ## Tags
-
-`item` `trade-good` `leather` `reagent` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+_None_
 
 ## Source
-
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+_Unknown_

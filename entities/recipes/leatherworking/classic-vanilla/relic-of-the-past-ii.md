@@ -1,27 +1,33 @@
 # Relic of the Past II
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 330181
-- Output item: [Relic of the Past II](../../../items/relic-of-the-past-ii.md)
-- Output item ID: 180057
-- Source: Trainer
-- Skill required: 1
-- Skill thresholds: 1 / 10 / 20
+- **Spell ID:** 330181
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Relic of the Past II](/entities/items/crafting/relics/relic-of-the-past-ii.md) (id 180057)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) | 5 |
+| Curing Salt | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 5 |
-| [Curing Salt](../../../items/trade-goods/vendor-reagents/curing-salt.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `manual-html-import`
+## Skill thresholds
+- **Required:** 1
+- **Yellow:** 1
+- **Green:** 10
+- **Gray:** 20
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `crafting`
+- `relic`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

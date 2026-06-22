@@ -1,24 +1,35 @@
 # Chain Hauberk
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 226112
-- Output item: [Chain Hauberk](../../../items/armor/mail/chain-hauberk.md)
-- Output item ID: 132493
-- Source: Trainer
-- Skill required: 125
-- Skill thresholds: 125 / 137 / 150
+- **Spell ID:** 226112
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Chain Hauberk](/entities/items/armor/mail/chest/chain-hauberk.md) (id 132493)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) | 6 |
+| Fine Thread | 1 |
+| Gray Dye | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 6 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 1 |
-| [Gray Dye](../../../items/trade-goods/vendor-reagents/gray-dye.md) | 1 |
+## Skill thresholds
+- **Required:** 125
+- **Yellow:** 125
+- **Green:** 137
+- **Gray:** 150
+
+## Source
+Trainer
 
 ## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `mail`
+- `chest`
+- `needs-verification`
 
-`leatherworking` `classic-vanilla` `trainer` `chest` `mail` `manual-html-import`
+## Data quality notes
+- Some reagents have no resolved item id.

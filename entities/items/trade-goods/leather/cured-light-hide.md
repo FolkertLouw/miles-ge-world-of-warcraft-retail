@@ -1,24 +1,44 @@
 # Cured Light Hide
 
 ## Basic info
+- **ID:** 4231
+- **Slug:** `cured-light-hide`
+- **Taxonomy:** `trade-goods/leather`
+- **Item class:** trade-good
+- **Item subclass:** leather
+- **Item role:** crafted-material
+- **Category path:** `trade-goods/leather`
 
-- Item ID: 4231
-- Canonical category: Trade Goods / Leather
-- Roles in current data: recipe-output, reagent
+## Created by
+- [Cured Light Hide](/entities/recipes/leatherworking/classic-vanilla/cured-light-hide.md)
 
-## Created by recipes
+## Used in other records
+- [Embossed Leather Pants](/entities/recipes/leatherworking/classic-vanilla/embossed-leather-pants.md)
+- [Fine Leather Gloves](/entities/recipes/leatherworking/classic-vanilla/fine-leather-gloves.md)
+- [Fine Leather Tunic](/entities/recipes/leatherworking/classic-vanilla/fine-leather-tunic.md)
+- [Light Scale Jerkin](/entities/recipes/leatherworking/classic-vanilla/light-scale-jerkin.md)
+- [Moonglow Vest](/entities/recipes/leatherworking/classic-vanilla/moonglow-vest.md)
+- [Deviate Scale Cloak](/entities/recipes/leatherworking/classic-vanilla/deviate-scale-cloak.md)
+- [Black Whelp Tunic](/entities/recipes/leatherworking/classic-vanilla/black-whelp-tunic.md)
+- [Crackling Scale Breastplate](/entities/recipes/leatherworking/classic-vanilla/crackling-scale-breastplate.md)
+- [Hillman's Leather Vest](/entities/recipes/leatherworking/classic-vanilla/hillmans-leather-vest.md)
+- [Light Leather Pants](/entities/recipes/leatherworking/classic-vanilla/light-leather-pants.md)
+- [Light Scale Pants](/entities/recipes/leatherworking/classic-vanilla/light-scale-pants.md)
 
-- Cured Light Hide
+## Materials relationship
+This item is consumed as a reagent in 11 recipe(s).
 
-## Used in recipes
-
-- Embossed Leather Pants
-- Fine Leather Gloves
+## Economy
+- **Auction value:** _tbd_
+- **Vendor price:** _tbd_
 
 ## Tags
-
-`item` `trade-good` `hide` `recipe-output` `reagent` `leatherworking` `classic-vanilla` `manual-html-import`
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `trade-good`
+- `leather`
+- `needs-verification`
 
 ## Source
-
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+Trainer

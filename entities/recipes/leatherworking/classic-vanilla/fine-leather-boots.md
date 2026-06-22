@@ -1,27 +1,34 @@
 # Fine Leather Boots
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2158
-- Output item: [Fine Leather Boots](../../../items/armor/leather/fine-leather-boots.md)
-- Output item ID: 2307
-- Source: Drop
-- Skill required: 120
-- Skill thresholds: 120 / 135 / 150
+- **Spell ID:** 2158
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Fine Leather Boots](/entities/items/armor/leather/feet/fine-leather-boots.md) (id 2307)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 7 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 7 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `drop` `boots` `manual-html-import`
+## Skill thresholds
+- **Required:** 120
+- **Yellow:** 120
+- **Green:** 135
+- **Gray:** 150
 
 ## Source
+Drop
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `drop`
+- `armor`
+- `leather`
+- `feet`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

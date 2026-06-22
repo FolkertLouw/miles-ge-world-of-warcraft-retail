@@ -1,24 +1,36 @@
 # Murloc Scale Belt
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 6702
-- Output item: [Murloc Scale Belt](../../../items/armor/leather/murloc-scale-belt.md)
-- Output item ID: 5780
-- Source: Drop, Vendor
-- Skill required: 120
-- Skill thresholds: 120 / 135 / 150
+- **Spell ID:** 6702
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Murloc Scale Belt](/entities/items/armor/leather/waist/murloc-scale-belt.md) (id 5780)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Slimy Murloc Scale | 8 |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 6 |
+| Fine Thread | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Slimy Murloc Scale](../../../items/trade-goods/scales/slimy-murloc-scale.md) | 8 |
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 6 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 1 |
+## Skill thresholds
+- **Required:** 120
+- **Yellow:** 120
+- **Green:** 135
+- **Gray:** 150
+
+## Source
+Drop, Vendor
 
 ## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `drop`
+- `vendor`
+- `armor`
+- `leather`
+- `waist`
+- `needs-verification`
 
-`leatherworking` `classic-vanilla` `belt` `scale` `manual-html-import`
+## Data quality notes
+- Some reagents have no resolved item id.
