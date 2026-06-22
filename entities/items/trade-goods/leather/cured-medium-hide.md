@@ -1,23 +1,34 @@
 # Cured Medium Hide
 
 ## Basic info
+- **ID:** 4233
+- **Slug:** `cured-medium-hide`
+- **Taxonomy:** `trade-goods/leather`
+- **Item class:** trade-good
+- **Item subclass:** leather
+- **Item role:** crafted-material
+- **Category path:** `trade-goods/leather`
 
-- Item ID: 4233
-- Canonical category: Trade Goods / Leather
-- Roles in current data: recipe-output
+## Created by
+- [Cured Medium Hide](/entities/recipes/leatherworking/classic-vanilla/cured-medium-hide.md)
 
-## Created by recipes
+## Used in other records
+_None_
 
-- Cured Medium Hide
+## Materials relationship
+_No upstream consumption recorded._
 
-## Used in recipes
-
-No known uses in current seed yet.
+## Economy
+- **Auction value:** _tbd_
+- **Vendor price:** _tbd_
 
 ## Tags
-
-`item` `trade-good` `hide` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `trade-good`
+- `leather`
+- `needs-verification`
 
 ## Source
-
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+Trainer

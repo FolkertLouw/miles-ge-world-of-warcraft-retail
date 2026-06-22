@@ -1,27 +1,34 @@
 # Embossed Leather Boots
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2161
-- Output item: [Embossed Leather Boots](../../../items/armor/leather/embossed-leather-boots.md)
-- Output item ID: 2309
-- Source: Trainer
-- Skill required: 85
-- Skill thresholds: 85 / 100 / 115
+- **Spell ID:** 2161
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Embossed Leather Boots](/entities/items/armor/leather/feet/embossed-leather-boots.md) (id 2309)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 8 |
+| Coarse Thread | 5 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 8 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 5 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `boots` `manual-html-import`
+## Skill thresholds
+- **Required:** 85
+- **Yellow:** 85
+- **Green:** 100
+- **Gray:** 115
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `feet`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

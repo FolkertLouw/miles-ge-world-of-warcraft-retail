@@ -1,28 +1,34 @@
 # Kodo Hide Bag
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 5244
-- Output item: [Kodo Hide Bag](../../../items/containers/bags/kodo-hide-bag.md)
-- Output item ID: 5081
-- Source: Quest
-- Skill required: 70
-- Skill thresholds: 70 / 85 / 100
+- **Spell ID:** 5244
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Kodo Hide Bag](/entities/items/containers/bags/kodo-hide-bag.md) (id 5081)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Thin Kodo Leather | 3 |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 4 |
+| Coarse Thread | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Thin Kodo Leather](../../../items/trade-goods/leather/thin-kodo-leather.md) | 3 |
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 4 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `quest` `bag` `manual-html-import`
+## Skill thresholds
+- **Required:** 70
+- **Yellow:** 70
+- **Green:** 85
+- **Gray:** 100
 
 ## Source
+Quest
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `quest`
+- `container`
+- `bag`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

@@ -1,27 +1,34 @@
 # Handstitched Leather Bracers
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 9059
-- Output item: [Handstitched Leather Bracers](../../../items/armor/leather/handstitched-leather-bracers.md)
-- Output item ID: 7277
-- Source: Starter
-- Skill required: 40
-- Skill thresholds: 40 / 55 / 70
+- **Spell ID:** 9059
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Handstitched Leather Bracers](/entities/items/armor/leather/wrists/handstitched-leather-bracers.md) (id 7277)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 2 |
+| Coarse Thread | 3 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 2 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 3 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `starter` `bracers` `manual-html-import`
+## Skill thresholds
+- **Required:** 40
+- **Yellow:** 40
+- **Green:** 55
+- **Gray:** 70
 
 ## Source
+Starter
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `starter`
+- `armor`
+- `leather`
+- `wrist`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

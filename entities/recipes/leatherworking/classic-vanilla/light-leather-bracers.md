@@ -1,27 +1,34 @@
 # Light Leather Bracers
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 9065
-- Output item: [Light Leather Bracers](../../../items/armor/leather/light-leather-bracers.md)
-- Output item ID: 7281
-- Source: Trainer
-- Skill required: 100
-- Skill thresholds: 100 / 115 / 130
+- **Spell ID:** 9065
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Light Leather Bracers](/entities/items/armor/leather/wrists/light-leather-bracers.md) (id 7281)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 6 |
+| Coarse Thread | 4 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 6 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 4 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `bracers` `manual-html-import`
+## Skill thresholds
+- **Required:** 100
+- **Yellow:** 100
+- **Green:** 115
+- **Gray:** 130
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `wrist`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

@@ -1,27 +1,34 @@
 # Handstitched Leather Belt
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 3753
-- Output item: [Handstitched Leather Belt](../../../items/armor/leather/handstitched-leather-belt.md)
-- Output item ID: 4237
-- Source: Trainer
-- Skill required: 55
-- Skill thresholds: 55 / 70 / 85
+- **Spell ID:** 3753
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Handstitched Leather Belt](/entities/items/armor/leather/waist/handstitched-leather-belt.md) (id 4237)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 6 |
+| Coarse Thread | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 6 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `belt` `manual-html-import`
+## Skill thresholds
+- **Required:** 55
+- **Yellow:** 55
+- **Green:** 70
+- **Gray:** 85
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `waist`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

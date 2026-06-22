@@ -1,27 +1,34 @@
 # Embossed Leather Gloves
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 3756
-- Output item: [Embossed Leather Gloves](../../../items/armor/leather/embossed-leather-gloves.md)
-- Output item ID: 4239
-- Source: Trainer
-- Skill required: 85
-- Skill thresholds: 85 / 100 / 115
+- **Spell ID:** 3756
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Embossed Leather Gloves](/entities/items/armor/leather/hands/embossed-leather-gloves.md) (id 4239)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 3 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 3 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `gloves` `manual-html-import`
+## Skill thresholds
+- **Required:** 85
+- **Yellow:** 85
+- **Green:** 100
+- **Gray:** 115
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `hands`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

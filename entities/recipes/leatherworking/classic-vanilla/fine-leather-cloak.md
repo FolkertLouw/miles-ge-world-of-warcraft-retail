@@ -1,27 +1,34 @@
 # Fine Leather Cloak
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 2159
-- Output item: [Fine Leather Cloak](../../../items/armor/leather/fine-leather-cloak.md)
-- Output item ID: 2308
-- Source: Trainer
-- Skill required: 105
-- Skill thresholds: 105 / 120 / 135
+- **Spell ID:** 2159
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Fine Leather Cloak](/entities/items/armor/leather/back/fine-leather-cloak.md) (id 2308)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 10 |
+| Fine Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 10 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `cloak` `manual-html-import`
+## Skill thresholds
+- **Required:** 105
+- **Yellow:** 105
+- **Green:** 120
+- **Gray:** 135
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `leather`
+- `back`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

@@ -1,23 +1,34 @@
 # Medium Armor Kit
 
 ## Basic info
+- **ID:** 2313
+- **Slug:** `medium-armor-kit`
+- **Taxonomy:** `consumables/armor-kits`
+- **Item class:** consumable
+- **Item subclass:** armor-kit
+- **Item role:** crafted-consumable
+- **Category path:** `consumables/armor-kits`
 
-- Item ID: 2313
-- Canonical category: Consumables / Armor Kits
-- Roles in current data: recipe-output
+## Created by
+- [Medium Armor Kit](/entities/recipes/leatherworking/classic-vanilla/medium-armor-kit.md)
 
-## Created by recipes
+## Used in other records
+_None_
 
-- [Medium Armor Kit](../../../recipes/leatherworking/classic-vanilla/medium-armor-kit.md)
+## Materials relationship
+_No upstream consumption recorded._
 
-## Used in recipes
-
-No known uses in current seed.
+## Economy
+- **Auction value:** _tbd_
+- **Vendor price:** _tbd_
 
 ## Tags
-
-`item` `consumable` `armor-kit` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `consumable`
+- `armor-kit`
+- `needs-verification`
 
 ## Source
-
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+Trainer

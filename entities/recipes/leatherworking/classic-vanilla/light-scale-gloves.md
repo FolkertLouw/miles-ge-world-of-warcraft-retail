@@ -1,27 +1,34 @@
 # Light Scale Gloves
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 226105
-- Output item: [Light Scale Gloves](../../../items/armor/mail/light-scale-gloves.md)
-- Output item ID: 132490
-- Source: Trainer
-- Skill required: 85
-- Skill thresholds: 85 / 100 / 115
+- **Spell ID:** 226105
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Light Scale Gloves](/entities/items/armor/mail/hands/light-scale-gloves.md) (id 132490)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Light Leather](/entities/items/trade-goods/leather/light-leather.md) | 3 |
+| Coarse Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Leather](../../../items/trade-goods/leather/light-leather.md) | 3 |
-| [Coarse Thread](../../../items/trade-goods/thread/coarse-thread.md) | 2 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `gloves` `scale` `manual-html-import`
+## Skill thresholds
+- **Required:** 85
+- **Yellow:** 85
+- **Green:** 100
+- **Gray:** 115
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `armor`
+- `mail`
+- `hands`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

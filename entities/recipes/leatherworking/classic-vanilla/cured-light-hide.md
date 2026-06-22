@@ -1,27 +1,33 @@
 # Cured Light Hide
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 3816
-- Output item: [Cured Light Hide](../../../items/trade-goods/leather/cured-light-hide.md)
-- Output item ID: 4231
-- Source: Trainer
-- Skill required: 55
-- Skill thresholds: 55 / 65 / 75
+- **Spell ID:** 3816
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Cured Light Hide](/entities/items/trade-goods/leather/cured-light-hide.md) (id 4231)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Light Hide | 1 |
+| Salt | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Light Hide](../../../items/trade-goods/leather/light-hide.md) | 1 |
-| [Salt](../../../items/trade-goods/vendor-reagents/salt.md) | 1 |
-
-## Tags
-
-`leatherworking` `classic-vanilla` `trainer` `hide` `manual-html-import`
+## Skill thresholds
+- **Required:** 55
+- **Yellow:** 55
+- **Green:** 65
+- **Gray:** 75
 
 ## Source
+Trainer
 
-Parsed from user-provided HTML table. Needs later verification before high-confidence recommendations.
+## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `trainer`
+- `trade-good`
+- `leather`
+- `needs-verification`
+
+## Data quality notes
+- Some reagents have no resolved item id.

@@ -1,24 +1,35 @@
 # Black Whelp Cloak
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 9070
-- Output item: [Black Whelp Cloak](../../../items/armor/leather/black-whelp-cloak.md)
-- Output item ID: 7283
-- Source: Vendor
-- Skill required: 125
-- Skill thresholds: 125 / 137 / 150
+- **Spell ID:** 9070
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Black Whelp Cloak](/entities/items/armor/leather/back/black-whelp-cloak.md) (id 7283)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| Black Whelp Scale | 12 |
+| [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) | 4 |
+| Fine Thread | 1 |
 
-| Item | Quantity |
-|---|---:|
-| [Black Whelp Scale](../../../items/trade-goods/scales/black-whelp-scale.md) | 12 |
-| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 4 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 1 |
+## Skill thresholds
+- **Required:** 125
+- **Yellow:** 125
+- **Green:** 137
+- **Gray:** 150
+
+## Source
+Vendor
 
 ## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `vendor`
+- `armor`
+- `leather`
+- `back`
+- `needs-verification`
 
-`leatherworking` `classic-vanilla` `vendor` `cloak` `scale` `manual-html-import`
+## Data quality notes
+- Some reagents have no resolved item id.

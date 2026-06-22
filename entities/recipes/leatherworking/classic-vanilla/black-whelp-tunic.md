@@ -1,24 +1,36 @@
 # Black Whelp Tunic
 
 ## Basic info
-
-- Profession: Leatherworking
-- Expansion layer: Classic / Vanilla
-- Spell ID: 24940
-- Output item: [Black Whelp Tunic](../../../items/armor/leather/black-whelp-tunic.md)
-- Output item ID: 20575
-- Source: Vendor
-- Skill required: 125
-- Skill thresholds: 125 / 137 / 150
+- **Spell ID:** 24940
+- **Profession:** leatherworking
+- **Expansion:** classic-vanilla
+- **Output:** [Black Whelp Tunic](/entities/items/armor/leather/chest/black-whelp-tunic.md) (id 20575)
 
 ## Reagents
+| Reagent | Qty |
+| --- | --- |
+| [Medium Leather](/entities/items/trade-goods/leather/medium-leather.md) | 8 |
+| Black Whelp Scale | 8 |
+| [Cured Light Hide](/entities/items/trade-goods/leather/cured-light-hide.md) | 1 |
+| Fine Thread | 2 |
 
-| Item | Quantity |
-|---|---:|
-| [Black Whelp Scale](../../../items/trade-goods/scales/black-whelp-scale.md) | 8 |
-| [Medium Leather](../../../items/trade-goods/leather/medium-leather.md) | 8 |
-| [Fine Thread](../../../items/trade-goods/thread/fine-thread.md) | 2 |
+## Skill thresholds
+- **Required:** 125
+- **Yellow:** 125
+- **Green:** 137
+- **Gray:** 150
+
+## Source
+Vendor
 
 ## Tags
+- `leatherworking`
+- `classic-vanilla`
+- `vendor`
+- `armor`
+- `leather`
+- `chest`
+- `needs-verification`
 
-`leatherworking` `classic-vanilla` `vendor` `chest` `scale` `manual-html-import`
+## Data quality notes
+- Some reagents have no resolved item id.
