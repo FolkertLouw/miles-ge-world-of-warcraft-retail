@@ -4,6 +4,12 @@
     "name": "Guardian Armor",
     "slug": "guardian-armor",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       3773
     ],
@@ -24,7 +30,13 @@
     "id": 4259,
     "name": "Green Leather Bracers",
     "slug": "green-leather-bracers",
-    "taxonomy": "armor/leather/bracers",
+    "taxonomy": "armor/leather/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "wrist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/wrists",
     "createdBy": [
       3776
     ],
@@ -44,7 +56,13 @@
     "id": 4260,
     "name": "Guardian Leather Bracers",
     "slug": "guardian-leather-bracers",
-    "taxonomy": "armor/leather/bracers",
+    "taxonomy": "armor/leather/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "wrist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/wrists",
     "createdBy": [
       3777
     ],
@@ -65,7 +83,13 @@
     "id": 4262,
     "name": "Gem-studded Leather Belt",
     "slug": "gem-studded-leather-belt",
-    "taxonomy": "armor/leather/belt",
+    "taxonomy": "armor/leather/waist",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "waist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/waist",
     "createdBy": [
       3778
     ],
@@ -85,7 +109,13 @@
     "id": 4264,
     "name": "Barbaric Belt",
     "slug": "barbaric-belt",
-    "taxonomy": "armor/leather/belt",
+    "taxonomy": "armor/leather/waist",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "waist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/waist",
     "createdBy": [
       3779
     ],
@@ -106,6 +136,10 @@
     "name": "Thick Leather",
     "slug": "thick-leather",
     "taxonomy": "trade-goods/leather",
+    "itemClass": "trade-good",
+    "itemSubClass": "leather",
+    "itemRole": "crafted-material",
+    "itemCategoryPath": "trade-goods/leather",
     "createdBy": [
       20650
     ],
@@ -144,6 +178,12 @@
     "name": "Barbaric Harness",
     "slug": "barbaric-harness",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       6661
     ],
@@ -163,7 +203,13 @@
     "id": 5783,
     "name": "Murloc Scale Bracers",
     "slug": "murloc-scale-bracers",
-    "taxonomy": "armor/mail/bracers",
+    "taxonomy": "armor/mail/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "wrist",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/wrists",
     "createdBy": [
       6705
     ],
@@ -185,6 +231,12 @@
     "name": "Barbaric Shoulders",
     "slug": "barbaric-shoulders",
     "taxonomy": "armor/leather/shoulders",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "shoulder",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/shoulders",
     "createdBy": [
       7151
     ],
@@ -204,7 +256,13 @@
     "id": 5965,
     "name": "Guardian Cloak",
     "slug": "guardian-cloak",
-    "taxonomy": "armor/leather/cloak",
+    "taxonomy": "armor/leather/back",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "back",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/back",
     "createdBy": [
       7153
     ],
@@ -226,7 +284,13 @@
     "id": 5966,
     "name": "Guardian Gloves",
     "slug": "guardian-gloves",
-    "taxonomy": "armor/leather/gloves",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
     "createdBy": [
       7156
     ],
@@ -247,6 +311,12 @@
     "name": "Dusky Leather Armor",
     "slug": "dusky-leather-armor",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       9196
     ],
@@ -267,6 +337,12 @@
     "name": "Green Whelp Armor",
     "slug": "green-whelp-armor",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       9197
     ],
@@ -287,7 +363,13 @@
     "id": 7377,
     "name": "Frost Leather Cloak",
     "slug": "frost-leather-cloak",
-    "taxonomy": "armor/leather/cloak",
+    "taxonomy": "armor/leather/back",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "back",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/back",
     "createdBy": [
       9198
     ],
@@ -307,7 +389,13 @@
     "id": 7378,
     "name": "Dusky Bracers",
     "slug": "dusky-bracers",
-    "taxonomy": "armor/leather/bracers",
+    "taxonomy": "armor/leather/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "wrist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/wrists",
     "createdBy": [
       9201
     ],
@@ -327,7 +415,13 @@
     "id": 7386,
     "name": "Green Whelp Bracers",
     "slug": "green-whelp-bracers",
-    "taxonomy": "armor/leather/bracers",
+    "taxonomy": "armor/leather/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "wrist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/wrists",
     "createdBy": [
       9202
     ],
@@ -347,7 +441,13 @@
     "id": 7387,
     "name": "Dusky Belt",
     "slug": "dusky-belt",
-    "taxonomy": "armor/leather/belt",
+    "taxonomy": "armor/leather/waist",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "waist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/waist",
     "createdBy": [
       9206
     ],
@@ -367,7 +467,13 @@
     "id": 7390,
     "name": "Dusky Boots",
     "slug": "dusky-boots",
-    "taxonomy": "armor/leather/boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
     "createdBy": [
       9207
     ],
@@ -387,7 +493,13 @@
     "id": 7391,
     "name": "Swift Boots",
     "slug": "swift-boots",
-    "taxonomy": "armor/leather/boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
     "createdBy": [
       9208
     ],
@@ -409,6 +521,10 @@
     "name": "Cured Thick Hide",
     "slug": "cured-thick-hide",
     "taxonomy": "trade-goods/leather",
+    "itemClass": "trade-good",
+    "itemSubClass": "leather",
+    "itemRole": "crafted-material",
+    "itemCategoryPath": "trade-goods/leather",
     "createdBy": [
       10482
     ],
@@ -434,6 +550,10 @@
     "name": "Thick Armor Kit",
     "slug": "thick-armor-kit",
     "taxonomy": "consumables/armor-kits",
+    "itemClass": "consumable",
+    "itemSubClass": "armor-kit",
+    "itemRole": "crafted-consumable",
+    "itemCategoryPath": "consumables/armor-kits",
     "createdBy": [
       10487
     ],
@@ -452,7 +572,13 @@
     "id": 8174,
     "name": "Comfortable Leather Hat",
     "slug": "comfortable-leather-hat",
-    "taxonomy": "armor/leather/helm",
+    "taxonomy": "armor/leather/head",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/head",
     "createdBy": [
       10490
     ],
@@ -474,6 +600,12 @@
     "name": "Nightscape Tunic",
     "slug": "nightscape-tunic",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       10499
     ],
@@ -493,7 +625,13 @@
     "id": 8176,
     "name": "Nightscape Headband",
     "slug": "nightscape-headband",
-    "taxonomy": "armor/leather/helm",
+    "taxonomy": "armor/leather/head",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/head",
     "createdBy": [
       10507
     ],
@@ -513,7 +651,13 @@
     "id": 8187,
     "name": "Turtle Scale Gloves",
     "slug": "turtle-scale-gloves",
-    "taxonomy": "armor/mail/gloves",
+    "taxonomy": "armor/mail/hands",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "hands",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/hands",
     "createdBy": [
       10509
     ],
@@ -536,6 +680,12 @@
     "name": "Turtle Scale Breastplate",
     "slug": "turtle-scale-breastplate",
     "taxonomy": "armor/mail/chest",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
     "createdBy": [
       10511
     ],
@@ -556,6 +706,12 @@
     "name": "Nightscape Shoulders",
     "slug": "nightscape-shoulders",
     "taxonomy": "armor/leather/shoulders",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "shoulder",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/shoulders",
     "createdBy": [
       10516
     ],
@@ -575,7 +731,13 @@
     "id": 8198,
     "name": "Turtle Scale Bracers",
     "slug": "turtle-scale-bracers",
-    "taxonomy": "armor/mail/bracers",
+    "taxonomy": "armor/mail/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "wrist",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/wrists",
     "createdBy": [
       10518
     ],
@@ -596,6 +758,12 @@
     "name": "Big Voodoo Robe",
     "slug": "big-voodoo-robe",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       10520
     ],
@@ -616,7 +784,13 @@
     "id": 8201,
     "name": "Big Voodoo Mask",
     "slug": "big-voodoo-mask",
-    "taxonomy": "armor/leather/helm",
+    "taxonomy": "armor/leather/head",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/head",
     "createdBy": [
       10531
     ],
@@ -637,6 +811,12 @@
     "name": "Tough Scorpid Breastplate",
     "slug": "tough-scorpid-breastplate",
     "taxonomy": "armor/mail/chest",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
     "createdBy": [
       10525
     ],
@@ -656,7 +836,13 @@
     "id": 8204,
     "name": "Tough Scorpid Gloves",
     "slug": "tough-scorpid-gloves",
-    "taxonomy": "armor/mail/gloves",
+    "taxonomy": "armor/mail/hands",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "hands",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/hands",
     "createdBy": [
       10542
     ],
@@ -676,7 +862,13 @@
     "id": 8205,
     "name": "Tough Scorpid Bracers",
     "slug": "tough-scorpid-bracers",
-    "taxonomy": "armor/mail/bracers",
+    "taxonomy": "armor/mail/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "wrist",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/wrists",
     "createdBy": [
       10533
     ],
@@ -697,6 +889,12 @@
     "name": "Wild Leather Shoulders",
     "slug": "wild-leather-shoulders",
     "taxonomy": "armor/leather/shoulders",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "shoulder",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/shoulders",
     "createdBy": [
       10529
     ],
@@ -716,6 +914,12 @@
     "name": "Wild Leather Vest",
     "slug": "wild-leather-vest",
     "taxonomy": "armor/leather/chest",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "chest",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
       10544
     ],
@@ -734,7 +938,13 @@
     "id": 8214,
     "name": "Wild Leather Helmet",
     "slug": "wild-leather-helmet",
-    "taxonomy": "armor/leather/helm",
+    "taxonomy": "armor/leather/head",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/head",
     "createdBy": [
       10546
     ],
@@ -753,7 +963,13 @@
     "id": 8345,
     "name": "Wolfshead Helm",
     "slug": "wolfshead-helm",
-    "taxonomy": "armor/leather/helm",
+    "taxonomy": "armor/leather/head",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/head",
     "createdBy": [
       10621
     ],
@@ -772,7 +988,13 @@
     "id": 8347,
     "name": "Dragonscale Gauntlets",
     "slug": "dragonscale-gauntlets",
-    "taxonomy": "armor/mail/gloves",
+    "taxonomy": "armor/mail/hands",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "hands",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/hands",
     "createdBy": [
       10619
     ],
@@ -791,7 +1013,13 @@
     "id": 17721,
     "name": "Gloves of the Greatfather",
     "slug": "gloves-of-the-greatfather",
-    "taxonomy": "armor/leather/gloves",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
     "createdBy": [
       21943
     ],
@@ -811,7 +1039,13 @@
     "id": 18238,
     "name": "Shadowskin Gloves",
     "slug": "shadowskin-gloves",
-    "taxonomy": "armor/leather/gloves",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
     "createdBy": [
       22711
     ],
@@ -832,6 +1066,12 @@
     "name": "Heavy Scale Shirt",
     "slug": "heavy-scale-shirt",
     "taxonomy": "armor/mail/chest",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
     "createdBy": [
       226128
     ],
@@ -851,7 +1091,13 @@
     "id": 132521,
     "name": "Heavy Scale Boots",
     "slug": "heavy-scale-boots",
-    "taxonomy": "armor/mail/boots",
+    "taxonomy": "armor/mail/feet",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "feet",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/feet",
     "createdBy": [
       226134
     ],
@@ -871,7 +1117,13 @@
     "id": 132522,
     "name": "Heavy Scale Belt",
     "slug": "heavy-scale-belt",
-    "taxonomy": "armor/mail/belt",
+    "taxonomy": "armor/mail/waist",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "waist",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/waist",
     "createdBy": [
       226132
     ],
@@ -892,6 +1144,12 @@
     "name": "Heavy Scale Pauldrons",
     "slug": "heavy-scale-pauldrons",
     "taxonomy": "armor/mail/shoulders",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "shoulder",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/shoulders",
     "createdBy": [
       226129
     ],
@@ -911,7 +1169,13 @@
     "id": 132536,
     "name": "Heavy Scale Hood",
     "slug": "heavy-scale-hood",
-    "taxonomy": "armor/mail/helm",
+    "taxonomy": "armor/mail/head",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "head",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/head",
     "createdBy": [
       226135
     ],
@@ -931,7 +1195,13 @@
     "id": 132537,
     "name": "Spritescale Circlet",
     "slug": "spritescale-circlet",
-    "taxonomy": "armor/mail/helm",
+    "taxonomy": "armor/mail/head",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "head",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/head",
     "createdBy": [
       226136
     ],
@@ -952,6 +1222,12 @@
     "name": "Spritescale Jerkin",
     "slug": "spritescale-jerkin",
     "taxonomy": "armor/mail/chest",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
     "createdBy": [
       226130
     ],
@@ -971,7 +1247,13 @@
     "id": 132540,
     "name": "Spritescale Gloves",
     "slug": "spritescale-gloves",
-    "taxonomy": "armor/mail/gloves",
+    "taxonomy": "armor/mail/hands",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "hands",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/hands",
     "createdBy": [
       226131
     ],
@@ -991,7 +1273,13 @@
     "id": 132541,
     "name": "Spritescale Wraps",
     "slug": "spritescale-wraps",
-    "taxonomy": "armor/mail/bracers",
+    "taxonomy": "armor/mail/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "wrist",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/wrists",
     "createdBy": [
       226133
     ],
@@ -1011,7 +1299,13 @@
     "id": 132544,
     "name": "Spritescale Boots",
     "slug": "spritescale-boots",
-    "taxonomy": "armor/mail/boots",
+    "taxonomy": "armor/mail/feet",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "feet",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/feet",
     "createdBy": [
       226137
     ],

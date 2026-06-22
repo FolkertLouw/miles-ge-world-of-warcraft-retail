@@ -4,9 +4,15 @@
 - **ID:** 7374
 - **Slug:** `dusky-leather-armor`
 - **Taxonomy:** `armor/leather/chest`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** chest
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/chest`
 
 ## Created by
-- [Dusky Leather Armor](/entities/recipes/Leatherworking/classic-vanilla/dusky-leather-armor.md)
+- [Dusky Leather Armor](/entities/recipes/leatherworking/classic-vanilla/dusky-leather-armor.md)
 
 ## Used in other records
 _None_

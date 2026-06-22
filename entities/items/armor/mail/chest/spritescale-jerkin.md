@@ -4,9 +4,15 @@
 - **ID:** 132538
 - **Slug:** `spritescale-jerkin`
 - **Taxonomy:** `armor/mail/chest`
+- **Item class:** armor
+- **Item subclass:** mail
+- **Equipment slot:** chest
+- **Armor type:** mail
+- **Item role:** crafted-equipment
+- **Category path:** `armor/mail/chest`
 
 ## Created by
-- [Spritescale Jerkin](/entities/recipes/Leatherworking/classic-vanilla/spritescale-jerkin.md)
+- [Spritescale Jerkin](/entities/recipes/leatherworking/classic-vanilla/spritescale-jerkin.md)
 
 ## Used in other records
 _None_

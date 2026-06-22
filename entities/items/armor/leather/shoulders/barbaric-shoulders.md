@@ -4,9 +4,15 @@
 - **ID:** 5964
 - **Slug:** `barbaric-shoulders`
 - **Taxonomy:** `armor/leather/shoulders`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** shoulder
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/shoulders`
 
 ## Created by
-- [Barbaric Shoulders](/entities/recipes/Leatherworking/classic-vanilla/barbaric-shoulders.md)
+- [Barbaric Shoulders](/entities/recipes/leatherworking/classic-vanilla/barbaric-shoulders.md)
 
 ## Used in other records
 _None_

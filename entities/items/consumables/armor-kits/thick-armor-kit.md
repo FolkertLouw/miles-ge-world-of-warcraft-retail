@@ -4,9 +4,13 @@
 - **ID:** 8173
 - **Slug:** `thick-armor-kit`
 - **Taxonomy:** `consumables/armor-kits`
+- **Item class:** consumable
+- **Item subclass:** armor-kit
+- **Item role:** crafted-consumable
+- **Category path:** `consumables/armor-kits`
 
 ## Created by
-- [Thick Armor Kit](/entities/recipes/Leatherworking/classic-vanilla/thick-armor-kit.md)
+- [Thick Armor Kit](/entities/recipes/leatherworking/classic-vanilla/thick-armor-kit.md)
 
 ## Used in other records
 _None_

@@ -4,9 +4,15 @@
 - **ID:** 8189
 - **Slug:** `turtle-scale-breastplate`
 - **Taxonomy:** `armor/mail/chest`
+- **Item class:** armor
+- **Item subclass:** mail
+- **Equipment slot:** chest
+- **Armor type:** mail
+- **Item role:** crafted-equipment
+- **Category path:** `armor/mail/chest`
 
 ## Created by
-- [Turtle Scale Breastplate](/entities/recipes/Leatherworking/classic-vanilla/turtle-scale-breastplate.md)
+- [Turtle Scale Breastplate](/entities/recipes/leatherworking/classic-vanilla/turtle-scale-breastplate.md)
 
 ## Used in other records
 _None_

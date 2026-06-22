@@ -4,9 +4,15 @@
 - **ID:** 8210
 - **Slug:** `wild-leather-shoulders`
 - **Taxonomy:** `armor/leather/shoulders`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** shoulder
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/shoulders`
 
 ## Created by
-- [Wild Leather Shoulders](/entities/recipes/Leatherworking/classic-vanilla/wild-leather-shoulders.md)
+- [Wild Leather Shoulders](/entities/recipes/leatherworking/classic-vanilla/wild-leather-shoulders.md)
 
 ## Used in other records
 _None_

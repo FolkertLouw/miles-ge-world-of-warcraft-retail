@@ -4,9 +4,15 @@
 - **ID:** 132535
 - **Slug:** `heavy-scale-pauldrons`
 - **Taxonomy:** `armor/mail/shoulders`
+- **Item class:** armor
+- **Item subclass:** mail
+- **Equipment slot:** shoulder
+- **Armor type:** mail
+- **Item role:** crafted-equipment
+- **Category path:** `armor/mail/shoulders`
 
 ## Created by
-- [Heavy Scale Pauldrons](/entities/recipes/Leatherworking/classic-vanilla/heavy-scale-pauldrons.md)
+- [Heavy Scale Pauldrons](/entities/recipes/leatherworking/classic-vanilla/heavy-scale-pauldrons.md)
 
 ## Used in other records
 _None_
