@@ -4,9 +4,15 @@
 - **ID:** 8200
 - **Slug:** `big-voodoo-robe`
 - **Taxonomy:** `armor/leather/chest`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** chest
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/chest`
 
 ## Created by
-- [Big Voodoo Robe](/entities/recipes/Leatherworking/classic-vanilla/big-voodoo-robe.md)
+- [Big Voodoo Robe](/entities/recipes/leatherworking/classic-vanilla/big-voodoo-robe.md)
 
 ## Used in other records
 _None_

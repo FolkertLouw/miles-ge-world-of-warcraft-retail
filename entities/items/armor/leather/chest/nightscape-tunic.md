@@ -4,9 +4,15 @@
 - **ID:** 8175
 - **Slug:** `nightscape-tunic`
 - **Taxonomy:** `armor/leather/chest`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** chest
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/chest`
 
 ## Created by
-- [Nightscape Tunic](/entities/recipes/Leatherworking/classic-vanilla/nightscape-tunic.md)
+- [Nightscape Tunic](/entities/recipes/leatherworking/classic-vanilla/nightscape-tunic.md)
 
 ## Used in other records
 _None_

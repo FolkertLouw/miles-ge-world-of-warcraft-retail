@@ -4,9 +4,15 @@
 - **ID:** 4256
 - **Slug:** `guardian-armor`
 - **Taxonomy:** `armor/leather/chest`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** chest
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/chest`
 
 ## Created by
-- [Guardian Armor](/entities/recipes/Leatherworking/classic-vanilla/guardian-armor.md)
+- [Guardian Armor](/entities/recipes/leatherworking/classic-vanilla/guardian-armor.md)
 
 ## Used in other records
 _None_

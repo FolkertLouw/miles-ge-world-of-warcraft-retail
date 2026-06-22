@@ -4,9 +4,15 @@
 - **ID:** 8192
 - **Slug:** `nightscape-shoulders`
 - **Taxonomy:** `armor/leather/shoulders`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** shoulder
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/shoulders`
 
 ## Created by
-- [Nightscape Shoulders](/entities/recipes/Leatherworking/classic-vanilla/nightscape-shoulders.md)
+- [Nightscape Shoulders](/entities/recipes/leatherworking/classic-vanilla/nightscape-shoulders.md)
 
 ## Used in other records
 _None_

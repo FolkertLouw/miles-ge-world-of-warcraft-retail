@@ -4,9 +4,15 @@
 - **ID:** 5739
 - **Slug:** `barbaric-harness`
 - **Taxonomy:** `armor/leather/chest`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** chest
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/chest`
 
 ## Created by
-- [Barbaric Harness](/entities/recipes/Leatherworking/classic-vanilla/barbaric-harness.md)
+- [Barbaric Harness](/entities/recipes/leatherworking/classic-vanilla/barbaric-harness.md)
 
 ## Used in other records
 _None_

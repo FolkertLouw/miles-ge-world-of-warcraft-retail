@@ -4,9 +4,15 @@
 - **ID:** 8211
 - **Slug:** `wild-leather-vest`
 - **Taxonomy:** `armor/leather/chest`
+- **Item class:** armor
+- **Item subclass:** leather
+- **Equipment slot:** chest
+- **Armor type:** leather
+- **Item role:** crafted-equipment
+- **Category path:** `armor/leather/chest`
 
 ## Created by
-- [Wild Leather Vest](/entities/recipes/Leatherworking/classic-vanilla/wild-leather-vest.md)
+- [Wild Leather Vest](/entities/recipes/leatherworking/classic-vanilla/wild-leather-vest.md)
 
 ## Used in other records
 _None_

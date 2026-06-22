@@ -4,9 +4,15 @@
 - **ID:** 8203
 - **Slug:** `tough-scorpid-breastplate`
 - **Taxonomy:** `armor/mail/chest`
+- **Item class:** armor
+- **Item subclass:** mail
+- **Equipment slot:** chest
+- **Armor type:** mail
+- **Item role:** crafted-equipment
+- **Category path:** `armor/mail/chest`
 
 ## Created by
-- [Tough Scorpid Breastplate](/entities/recipes/Leatherworking/classic-vanilla/tough-scorpid-breastplate.md)
+- [Tough Scorpid Breastplate](/entities/recipes/leatherworking/classic-vanilla/tough-scorpid-breastplate.md)
 
 ## Used in other records
 _None_
