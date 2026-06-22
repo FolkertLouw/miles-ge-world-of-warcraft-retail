@@ -1,8 +1,444 @@
 [
   {
-    "id": 2314,
-    "name": "Toughened Leather Armor",
-    "slug": "toughened-leather-armor",
+    "id": 8170,
+    "name": "Rugged Leather",
+    "slug": "rugged-leather",
+    "taxonomy": "trade-goods/leather",
+    "itemClass": "trade-good",
+    "itemSubClass": "leather",
+    "itemRole": "crafted-material",
+    "itemCategoryPath": "trade-goods/leather",
+    "createdBy": [
+      22331
+    ],
+    "usedIn": [
+      19058,
+      1261672,
+      19048,
+      19050,
+      19049,
+      22815,
+      19053,
+      19051,
+      19052,
+      19060,
+      19062,
+      19061,
+      19055,
+      19059,
+      19063,
+      19066,
+      19064,
+      19065,
+      19067,
+      19068,
+      36074,
+      413756,
+      36076,
+      413516
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "trade-good",
+      "leather",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8185,
+    "name": "Turtle Scale Leggings",
+    "slug": "turtle-scale-leggings",
+    "taxonomy": "armor/mail/legs",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "legs",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/legs",
+    "createdBy": [
+      10556
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8191,
+    "name": "Turtle Scale Helm",
+    "slug": "turtle-scale-helm",
+    "taxonomy": "armor/mail/head",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "head",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/head",
+    "createdBy": [
+      10552
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8193,
+    "name": "Nightscape Pants",
+    "slug": "nightscape-pants",
+    "taxonomy": "armor/leather/legs",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/legs",
+    "createdBy": [
+      10548
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8197,
+    "name": "Nightscape Boots",
+    "slug": "nightscape-boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
+    "createdBy": [
+      10558
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8202,
+    "name": "Big Voodoo Pants",
+    "slug": "big-voodoo-pants",
+    "taxonomy": "armor/leather/legs",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/legs",
+    "createdBy": [
+      10560
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "pickpocketed",
+      "armor",
+      "leather",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Drop, Pickpocketed"
+  },
+  {
+    "id": 8206,
+    "name": "Tough Scorpid Leggings",
+    "slug": "tough-scorpid-leggings",
+    "taxonomy": "armor/mail/legs",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "legs",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/legs",
+    "createdBy": [
+      10568
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8207,
+    "name": "Tough Scorpid Shoulders",
+    "slug": "tough-scorpid-shoulders",
+    "taxonomy": "armor/mail/shoulders",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "shoulder",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/shoulders",
+    "createdBy": [
+      10564
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "shoulder",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8208,
+    "name": "Tough Scorpid Helm",
+    "slug": "tough-scorpid-helm",
+    "taxonomy": "armor/mail/head",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "head",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/head",
+    "createdBy": [
+      10570
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8209,
+    "name": "Tough Scorpid Boots",
+    "slug": "tough-scorpid-boots",
+    "taxonomy": "armor/mail/feet",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "feet",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/feet",
+    "createdBy": [
+      10554
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8212,
+    "name": "Wild Leather Leggings",
+    "slug": "wild-leather-leggings",
+    "taxonomy": "armor/leather/legs",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/legs",
+    "createdBy": [
+      10572
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "legs",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8213,
+    "name": "Wild Leather Boots",
+    "slug": "wild-leather-boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
+    "createdBy": [
+      10566
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8215,
+    "name": "Wild Leather Cloak",
+    "slug": "wild-leather-cloak",
+    "taxonomy": "armor/leather/back",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "back",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/back",
+    "createdBy": [
+      10574
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "back",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8216,
+    "name": "Big Voodoo Cloak",
+    "slug": "big-voodoo-cloak",
+    "taxonomy": "armor/leather/back",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "back",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/back",
+    "createdBy": [
+      10562
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "back",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8346,
+    "name": "Gauntlets of the Sea",
+    "slug": "gauntlets-of-the-sea",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      10630
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8348,
+    "name": "Helm of Fire",
+    "slug": "helm-of-fire",
+    "taxonomy": "armor/leather/head",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/head",
+    "createdBy": [
+      10632
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8349,
+    "name": "Feathered Breastplate",
+    "slug": "feathered-breastplate",
     "taxonomy": "armor/leather/chest",
     "itemClass": "armor",
     "itemSubClass": "leather",
@@ -11,7 +447,7 @@
     "itemRole": "crafted-equipment",
     "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
-      2166
+      10647
     ],
     "usedIn": [],
     "tags": [
@@ -26,351 +462,122 @@
     "source": "Trainer"
   },
   {
-    "id": 2316,
-    "name": "Dark Leather Cloak",
-    "slug": "dark-leather-cloak",
-    "taxonomy": "armor/leather/back",
+    "id": 8367,
+    "name": "Dragonscale Breastplate",
+    "slug": "dragonscale-breastplate",
+    "taxonomy": "armor/mail/chest",
     "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "back",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/back",
-    "createdBy": [
-      2168
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "back",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 3719,
-    "name": "Hillman's Cloak",
-    "slug": "hillmans-cloak",
-    "taxonomy": "armor/leather/back",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "back",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/back",
-    "createdBy": [
-      3760
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "back",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4234,
-    "name": "Heavy Leather",
-    "slug": "heavy-leather",
-    "taxonomy": "trade-goods/leather",
-    "itemClass": "trade-good",
-    "itemSubClass": "leather",
-    "itemRole": "crafted-material",
-    "itemCategoryPath": "trade-goods/leather",
-    "createdBy": [
-      20649
-    ],
-    "usedIn": [
-      23190,
-      3771,
-      3780,
-      226123,
-      3760,
-      23399,
-      3772,
-      3774,
-      7147,
-      226124,
-      226125,
-      9195,
-      226126,
-      4097,
-      4096,
-      7149,
-      3775,
-      226127,
-      6704
-    ],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "trade-good",
-      "leather",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4236,
-    "name": "Cured Heavy Hide",
-    "slug": "cured-heavy-hide",
-    "taxonomy": "trade-goods/leather",
-    "itemClass": "trade-good",
-    "itemSubClass": "leather",
-    "itemRole": "crafted-material",
-    "itemCategoryPath": "trade-goods/leather",
-    "createdBy": [
-      3818
-    ],
-    "usedIn": [
-      23399,
-      3774,
-      226124,
-      3775,
-      226127,
-      6704
-    ],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "trade-good",
-      "leather",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4247,
-    "name": "Hillman's Leather Gloves",
-    "slug": "hillmans-leather-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      3764
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4248,
-    "name": "Dark Leather Gloves",
-    "slug": "dark-leather-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      3765
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 4249,
-    "name": "Dark Leather Belt",
-    "slug": "dark-leather-belt",
-    "taxonomy": "armor/leather/waist",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "waist",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/waist",
-    "createdBy": [
-      3766
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "waist",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4250,
-    "name": "Hillman's Belt",
-    "slug": "hillmans-belt",
-    "taxonomy": "armor/leather/waist",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "waist",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/waist",
-    "createdBy": [
-      3767
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "waist",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 4251,
-    "name": "Hillman's Shoulders",
-    "slug": "hillmans-shoulders",
-    "taxonomy": "armor/leather/shoulders",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "shoulder",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/shoulders",
-    "createdBy": [
-      3768
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "shoulder",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4252,
-    "name": "Dark Leather Shoulders",
-    "slug": "dark-leather-shoulders",
-    "taxonomy": "armor/leather/shoulders",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "shoulder",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/shoulders",
-    "createdBy": [
-      3769
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "shoulder",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 4253,
-    "name": "Toughened Leather Gloves",
-    "slug": "toughened-leather-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      3770
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 4254,
-    "name": "Barbaric Gloves",
-    "slug": "barbaric-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      3771
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 4255,
-    "name": "Green Leather Armor",
-    "slug": "green-leather-armor",
-    "taxonomy": "armor/leather/chest",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
+    "itemSubClass": "mail",
     "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
+    "createdBy": [
+      10650
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 15045,
+    "name": "Green Dragonscale Breastplate",
+    "slug": "green-dragonscale-breastplate",
+    "taxonomy": "armor/mail/chest",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
+    "createdBy": [
+      19050
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 15046,
+    "name": "Green Dragonscale Leggings",
+    "slug": "green-dragonscale-leggings",
+    "taxonomy": "armor/mail/legs",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "legs",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/legs",
+    "createdBy": [
+      19060
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 15054,
+    "name": "Volcanic Leggings",
+    "slug": "volcanic-leggings",
+    "taxonomy": "armor/leather/legs",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
     "armorType": "leather",
     "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/chest",
+    "itemCategoryPath": "armor/leather/legs",
     "createdBy": [
-      3772
+      19059
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 15057,
+    "name": "Stormshroud Pants",
+    "slug": "stormshroud-pants",
+    "taxonomy": "armor/leather/legs",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/legs",
+    "createdBy": [
+      19067
     ],
     "usedIn": [],
     "tags": [
@@ -379,50 +586,129 @@
       "vendor",
       "armor",
       "leather",
-      "chest",
+      "legs",
       "needs-verification"
     ],
     "source": "Vendor"
   },
   {
-    "id": 4257,
-    "name": "Green Leather Belt",
-    "slug": "green-leather-belt",
-    "taxonomy": "armor/leather/waist",
+    "id": 15061,
+    "name": "Living Shoulders",
+    "slug": "living-shoulders",
+    "taxonomy": "armor/leather/shoulders",
     "itemClass": "armor",
     "itemSubClass": "leather",
-    "equipmentSlot": "waist",
+    "equipmentSlot": "shoulder",
     "armorType": "leather",
     "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/waist",
+    "itemCategoryPath": "armor/leather/shoulders",
     "createdBy": [
-      3774
+      19061
     ],
     "usedIn": [],
     "tags": [
       "leatherworking",
       "classic-vanilla",
-      "trainer",
+      "vendor",
       "armor",
       "leather",
-      "waist",
+      "shoulder",
       "needs-verification"
     ],
-    "source": "Trainer"
+    "source": "Vendor"
   },
   {
-    "id": 4258,
-    "name": "Guardian Belt",
-    "slug": "guardian-belt",
-    "taxonomy": "armor/leather/waist",
+    "id": 15064,
+    "name": "Warbear Harness",
+    "slug": "warbear-harness",
+    "taxonomy": "armor/leather/chest",
     "itemClass": "armor",
     "itemSubClass": "leather",
-    "equipmentSlot": "waist",
+    "equipmentSlot": "chest",
     "armorType": "leather",
     "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/waist",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
-      3775
+      19068
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "vendor",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop, Vendor"
+  },
+  {
+    "id": 15067,
+    "name": "Ironfeather Shoulders",
+    "slug": "ironfeather-shoulders",
+    "taxonomy": "armor/leather/shoulders",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "shoulder",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/shoulders",
+    "createdBy": [
+      19062
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 15071,
+    "name": "Frostsaber Boots",
+    "slug": "frostsaber-boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
+    "createdBy": [
+      19066
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 15073,
+    "name": "Chimeric Boots",
+    "slug": "chimeric-boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
+    "createdBy": [
+      19063
     ],
     "usedIn": [],
     "tags": [
@@ -431,22 +717,262 @@
       "drop",
       "armor",
       "leather",
-      "waist",
+      "feet",
       "needs-verification"
     ],
     "source": "Drop"
   },
   {
-    "id": 4265,
-    "name": "Heavy Armor Kit",
-    "slug": "heavy-armor-kit",
+    "id": 15074,
+    "name": "Chimeric Gloves",
+    "slug": "chimeric-gloves",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      19053
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 15076,
+    "name": "Heavy Scorpid Vest",
+    "slug": "heavy-scorpid-vest",
+    "taxonomy": "armor/mail/chest",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "chest",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/chest",
+    "createdBy": [
+      19051
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 15077,
+    "name": "Heavy Scorpid Bracers",
+    "slug": "heavy-scorpid-bracers",
+    "taxonomy": "armor/mail/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "wrist",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/wrists",
+    "createdBy": [
+      19048
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 15078,
+    "name": "Heavy Scorpid Gauntlets",
+    "slug": "heavy-scorpid-gauntlets",
+    "taxonomy": "armor/mail/hands",
+    "itemClass": "armor",
+    "itemSubClass": "mail",
+    "equipmentSlot": "hands",
+    "armorType": "mail",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/mail/hands",
+    "createdBy": [
+      19064
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 15083,
+    "name": "Wicked Leather Gauntlets",
+    "slug": "wicked-leather-gauntlets",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      19049
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 15084,
+    "name": "Wicked Leather Bracers",
+    "slug": "wicked-leather-bracers",
+    "taxonomy": "armor/leather/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "wrist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/wrists",
+    "createdBy": [
+      19052
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 15091,
+    "name": "Runic Leather Gauntlets",
+    "slug": "runic-leather-gauntlets",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      19055
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 15092,
+    "name": "Runic Leather Bracers",
+    "slug": "runic-leather-bracers",
+    "taxonomy": "armor/leather/wrists",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "wrist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/wrists",
+    "createdBy": [
+      19065
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 15407,
+    "name": "Cured Rugged Hide",
+    "slug": "cured-rugged-hide",
+    "taxonomy": "trade-goods/leather",
+    "itemClass": "trade-good",
+    "itemSubClass": "leather",
+    "itemRole": "crafted-material",
+    "itemCategoryPath": "trade-goods/leather",
+    "createdBy": [
+      19047
+    ],
+    "usedIn": [
+      1261672,
+      402143,
+      402144,
+      402615,
+      413756,
+      402146,
+      413516,
+      402147
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "trade-good",
+      "leather",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 15564,
+    "name": "Rugged Armor Kit",
+    "slug": "rugged-armor-kit",
     "taxonomy": "consumables/armor-kits",
     "itemClass": "consumable",
     "itemSubClass": "armor-kit",
     "itemRole": "crafted-consumable",
     "itemCategoryPath": "consumables/armor-kits",
     "createdBy": [
-      3780
+      19058
     ],
     "usedIn": [],
     "tags": [
@@ -460,538 +986,66 @@
     "source": "Trainer"
   },
   {
-    "id": 4455,
-    "name": "Raptor Hide Harness",
-    "slug": "raptor-hide-harness",
+    "id": 18258,
+    "name": "Gordok Ogre Suit",
+    "slug": "gordok-ogre-suit",
     "taxonomy": "armor/leather/chest",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "chest",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/chest",
-    "createdBy": [
-      4096
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "vendor",
-      "armor",
-      "leather",
-      "chest",
-      "needs-verification"
-    ],
-    "source": "Vendor"
-  },
-  {
-    "id": 4456,
-    "name": "Raptor Hide Belt",
-    "slug": "raptor-hide-belt",
-    "taxonomy": "armor/leather/waist",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "waist",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/waist",
-    "createdBy": [
-      4097
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "vendor",
-      "armor",
-      "leather",
-      "waist",
-      "needs-verification"
-    ],
-    "source": "Vendor"
-  },
-  {
-    "id": 5781,
-    "name": "Murloc Scale Breastplate",
-    "slug": "murloc-scale-breastplate",
-    "taxonomy": "armor/leather/chest",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "chest",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/chest",
-    "createdBy": [
-      6703
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "vendor",
-      "armor",
-      "leather",
-      "chest",
-      "needs-verification"
-    ],
-    "source": "Drop, Vendor"
-  },
-  {
-    "id": 5782,
-    "name": "Thick Murloc Armor",
-    "slug": "thick-murloc-armor",
-    "taxonomy": "armor/leather/chest",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "chest",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/chest",
-    "createdBy": [
-      6704
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "vendor",
-      "armor",
-      "leather",
-      "chest",
-      "needs-verification"
-    ],
-    "source": "Drop, Vendor"
-  },
-  {
-    "id": 5958,
-    "name": "Fine Leather Pants",
-    "slug": "fine-leather-pants",
-    "taxonomy": "armor/leather/legs",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "legs",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/legs",
-    "createdBy": [
-      7133
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 5961,
-    "name": "Dark Leather Pants",
-    "slug": "dark-leather-pants",
-    "taxonomy": "armor/leather/legs",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "legs",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/legs",
-    "createdBy": [
-      7135
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 5962,
-    "name": "Guardian Pants",
-    "slug": "guardian-pants",
-    "taxonomy": "armor/leather/legs",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "legs",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/legs",
-    "createdBy": [
-      7147
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 5963,
-    "name": "Barbaric Leggings",
-    "slug": "barbaric-leggings",
-    "taxonomy": "armor/leather/legs",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "legs",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/legs",
-    "createdBy": [
-      7149
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "vendor",
-      "armor",
-      "leather",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Vendor"
-  },
-  {
-    "id": 6467,
-    "name": "Deviate Scale Gloves",
-    "slug": "deviate-scale-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      7954
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 6468,
-    "name": "Deviate Scale Belt",
-    "slug": "deviate-scale-belt",
-    "taxonomy": "armor/leather/waist",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "waist",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/waist",
-    "createdBy": [
-      7955
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "waist",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 7284,
-    "name": "Red Whelp Gloves",
-    "slug": "red-whelp-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      9072
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "vendor",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Vendor"
-  },
-  {
-    "id": 7285,
-    "name": "Nimble Leather Gloves",
-    "slug": "nimble-leather-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      9074
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 7348,
-    "name": "Fletcher's Gloves",
-    "slug": "fletchers-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      9145
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 7349,
-    "name": "Herbalist's Gloves",
-    "slug": "herbalists-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      9146
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "vendor",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Vendor"
-  },
-  {
-    "id": 7352,
-    "name": "Earthen Leather Shoulders",
-    "slug": "earthen-leather-shoulders",
-    "taxonomy": "armor/leather/shoulders",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "shoulder",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/shoulders",
-    "createdBy": [
-      9147
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "vendor",
-      "armor",
-      "leather",
-      "shoulder",
-      "needs-verification"
-    ],
-    "source": "Vendor"
-  },
-  {
-    "id": 7358,
-    "name": "Pilferer's Gloves",
-    "slug": "pilferers-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      9148
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 7359,
-    "name": "Heavy Earthen Gloves",
-    "slug": "heavy-earthen-gloves",
-    "taxonomy": "armor/leather/hands",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "hands",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/hands",
-    "createdBy": [
-      9149
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "armor",
-      "leather",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Drop"
-  },
-  {
-    "id": 7373,
-    "name": "Dusky Leather Leggings",
-    "slug": "dusky-leather-leggings",
-    "taxonomy": "armor/leather/legs",
-    "itemClass": "armor",
-    "itemSubClass": "leather",
-    "equipmentSlot": "legs",
-    "armorType": "leather",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/legs",
-    "createdBy": [
-      9195
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "drop",
-      "fished",
-      "armor",
-      "leather",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Drop, Fished"
-  },
-  {
-    "id": 18662,
-    "name": "Heavy Leather Ball",
-    "slug": "heavy-leather-ball",
-    "taxonomy": "trade-goods/leather",
     "itemClass": "misc",
-    "itemSubClass": "toy-like",
-    "itemRole": "unknown",
-    "itemCategoryPath": "misc",
+    "itemSubClass": "costume",
+    "itemRole": "crafted-utility",
+    "itemCategoryPath": "armor/leather/chest",
     "createdBy": [
-      23190
+      22815
     ],
     "usedIn": [],
     "tags": [
       "leatherworking",
       "classic-vanilla",
-      "vendor",
       "misc",
-      "toy-like",
+      "costume",
       "needs-verification"
     ],
-    "source": "Vendor"
+    "source": ""
   },
   {
-    "id": 18948,
-    "name": "Barbaric Bracers",
-    "slug": "barbaric-bracers",
-    "taxonomy": "armor/leather/wrists",
+    "id": 29964,
+    "name": "Blackstorm Leggings",
+    "slug": "blackstorm-leggings",
+    "taxonomy": "armor/leather/legs",
     "itemClass": "armor",
     "itemSubClass": "leather",
-    "equipmentSlot": "wrist",
+    "equipmentSlot": "legs",
     "armorType": "leather",
     "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/leather/wrists",
+    "itemCategoryPath": "armor/leather/legs",
     "createdBy": [
-      23399
+      36074
     ],
     "usedIn": [],
     "tags": [
       "leatherworking",
       "classic-vanilla",
-      "vendor",
+      "trainer",
       "armor",
       "leather",
-      "wrist",
+      "legs",
       "needs-verification"
     ],
-    "source": "Vendor"
+    "source": "Trainer"
   },
   {
-    "id": 132495,
-    "name": "Chain Belt",
-    "slug": "chain-belt",
-    "taxonomy": "armor/mail/waist",
+    "id": 29971,
+    "name": "Dragonstrike Leggings",
+    "slug": "dragonstrike-leggings",
+    "taxonomy": "armor/leather/legs",
     "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "waist",
-    "armorType": "mail",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
+    "armorType": "leather",
     "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/waist",
+    "itemCategoryPath": "armor/leather/legs",
     "createdBy": [
-      226119
+      36076
     ],
     "usedIn": [],
     "tags": [
@@ -999,320 +1053,262 @@
       "classic-vanilla",
       "trainer",
       "armor",
-      "mail",
+      "leather",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 203794,
+    "name": "Animist's Legguards",
+    "slug": "animists-legguards",
+    "taxonomy": "armor/leather/legs",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "legs",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/legs",
+    "createdBy": [
+      402144
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "legs",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 203799,
+    "name": "Animist's Footwraps",
+    "slug": "animists-footwraps",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
+    "createdBy": [
+      402143
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 203805,
+    "name": "Gurubashi's Grasp",
+    "slug": "gurubashis-grasp",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      402150
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 203814,
+    "name": "Junglefury Gauntlets",
+    "slug": "junglefury-gauntlets",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      402147
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 203819,
+    "name": "Gloves of the Tormentor",
+    "slug": "gloves-of-the-tormentor",
+    "taxonomy": "armor/leather/hands",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "hands",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/hands",
+    "createdBy": [
+      402146
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 203966,
+    "name": "Cord of Shriveled Heads",
+    "slug": "cord-of-shriveled-heads",
+    "taxonomy": "armor/leather/waist",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "waist",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/waist",
+    "createdBy": [
+      402615
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
       "waist",
       "needs-verification"
     ],
-    "source": "Trainer"
+    "source": "Drop"
   },
   {
-    "id": 132496,
-    "name": "Chain Bracers",
-    "slug": "chain-bracers",
-    "taxonomy": "armor/mail/wrists",
+    "id": 206482,
+    "name": "Helm of Lingering Power",
+    "slug": "helm-of-lingering-power",
+    "taxonomy": "armor/leather/head",
     "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "wrist",
-    "armorType": "mail",
+    "itemSubClass": "leather",
+    "equipmentSlot": "head",
+    "armorType": "leather",
     "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/wrists",
+    "itemCategoryPath": "armor/leather/head",
     "createdBy": [
-      226116
+      413516
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 206509,
+    "name": "Displacement Boots",
+    "slug": "displacement-boots",
+    "taxonomy": "armor/leather/feet",
+    "itemClass": "armor",
+    "itemSubClass": "leather",
+    "equipmentSlot": "feet",
+    "armorType": "leather",
+    "itemRole": "crafted-equipment",
+    "itemCategoryPath": "armor/leather/feet",
+    "createdBy": [
+      413756
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 242948,
+    "name": "Loch Modan Bearskin Rug",
+    "slug": "loch-modan-bearskin-rug",
+    "taxonomy": "furniture/rugs",
+    "itemClass": "furniture",
+    "itemSubClass": "rug",
+    "itemRole": "crafted-decoration",
+    "itemCategoryPath": "furniture/rugs",
+    "createdBy": [
+      1261672
     ],
     "usedIn": [],
     "tags": [
       "leatherworking",
       "classic-vanilla",
       "trainer",
-      "armor",
-      "mail",
-      "wrist",
+      "furniture",
+      "rug",
       "needs-verification"
     ],
     "source": "Trainer"
   },
   {
-    "id": 132497,
-    "name": "Chain Leggings",
-    "slug": "chain-leggings",
-    "taxonomy": "armor/mail/legs",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "legs",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/legs",
+    "id": 257725,
+    "name": "Camp Narache Rug",
+    "slug": "camp-narache-rug",
+    "taxonomy": "furniture/rugs",
+    "itemClass": "furniture",
+    "itemSubClass": "rug",
+    "itemRole": "crafted-decoration",
+    "itemCategoryPath": "furniture/rugs",
     "createdBy": [
-      226117
+      1263633
     ],
     "usedIn": [],
     "tags": [
       "leatherworking",
       "classic-vanilla",
       "trainer",
-      "armor",
-      "mail",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132498,
-    "name": "Chain Pauldrons",
-    "slug": "chain-pauldrons",
-    "taxonomy": "armor/mail/shoulders",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "shoulder",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/shoulders",
-    "createdBy": [
-      226121
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "shoulder",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132499,
-    "name": "Chain Gauntlets",
-    "slug": "chain-gauntlets",
-    "taxonomy": "armor/mail/hands",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "hands",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/hands",
-    "createdBy": [
-      226118
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132532,
-    "name": "Heavy Scale Pants",
-    "slug": "heavy-scale-pants",
-    "taxonomy": "armor/mail/legs",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "legs",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/legs",
-    "createdBy": [
-      226126
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132533,
-    "name": "Heavy Scale Gauntlets",
-    "slug": "heavy-scale-gauntlets",
-    "taxonomy": "armor/mail/hands",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "hands",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/hands",
-    "createdBy": [
-      226123
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132534,
-    "name": "Heavy Scale Wraps",
-    "slug": "heavy-scale-wraps",
-    "taxonomy": "armor/mail/wrists",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "wrist",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/wrists",
-    "createdBy": [
-      226124
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "wrist",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132539,
-    "name": "Spritescale Cinch",
-    "slug": "spritescale-cinch",
-    "taxonomy": "armor/mail/waist",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "waist",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/waist",
-    "createdBy": [
-      226127
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "waist",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132542,
-    "name": "Spritescale Britches",
-    "slug": "spritescale-britches",
-    "taxonomy": "armor/mail/legs",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "legs",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/legs",
-    "createdBy": [
-      226125
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "legs",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132543,
-    "name": "Spritescale Epaulets",
-    "slug": "spritescale-epaulets",
-    "taxonomy": "armor/mail/shoulders",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "shoulder",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/shoulders",
-    "createdBy": [
-      226120
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "shoulder",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132546,
-    "name": "Element Grips",
-    "slug": "element-grips",
-    "taxonomy": "armor/mail/hands",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "hands",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/hands",
-    "createdBy": [
-      226122
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "hands",
-      "needs-verification"
-    ],
-    "source": "Trainer"
-  },
-  {
-    "id": 132547,
-    "name": "Blue Chain Leggings",
-    "slug": "blue-chain-leggings",
-    "taxonomy": "armor/mail/legs",
-    "itemClass": "armor",
-    "itemSubClass": "mail",
-    "equipmentSlot": "legs",
-    "armorType": "mail",
-    "itemRole": "crafted-equipment",
-    "itemCategoryPath": "armor/mail/legs",
-    "createdBy": [
-      226115
-    ],
-    "usedIn": [],
-    "tags": [
-      "leatherworking",
-      "classic-vanilla",
-      "trainer",
-      "armor",
-      "mail",
-      "legs",
+      "furniture",
+      "rug",
       "needs-verification"
     ],
     "source": "Trainer"
