@@ -4,20 +4,28 @@
 
 - Item ID: 6466
 - Canonical category: Armor / Leather
-- Slot tag: cloak
-- Roles in current data: recipe-output
+- Equipment slot: back
+- Role in current data: crafted output
 
-## Created by recipes
+## Created by
 
 - [Deviate Scale Cloak](../../../recipes/leatherworking/classic-vanilla/deviate-scale-cloak.md)
 
-## Used in recipes
+## Used in other records
 
-No known uses in current seed.
+No known uses in the current seed.
+
+## Materials relationship
+
+This item is produced from:
+
+- [Deviate Scale](../../trade-goods/scales/deviate-scale.md)
+- [Cured Light Hide](../../trade-goods/leather/cured-light-hide.md)
+- [Fine Thread](../../trade-goods/thread/fine-thread.md)
 
 ## Tags
 
-`item` `armor` `leather` `cloak` `scale` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+`item` `armor` `leather` `back` `scale` `crafted-output` `leatherworking` `classic-vanilla` `manual-html-import`
 
 ## Source
 
