@@ -1,0 +1,1906 @@
+[
+  {
+    "spellId": 3773,
+    "name": "Guardian Armor",
+    "slug": "guardian-armor",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 4256,
+    "outputItemName": "Guardian Armor",
+    "source": "Drop, Fished",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 12
+      },
+      {
+        "itemName": "Shadow Oil",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 3776,
+    "name": "Green Leather Bracers",
+    "slug": "green-leather-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 4259,
+    "outputItemName": "Green Leather Bracers",
+    "source": "Trainer",
+    "skillRequired": 200,
+    "skillYellow": 200,
+    "skillGreen": 210,
+    "skillGray": 220,
+    "reagents": [
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 6
+      },
+      {
+        "itemName": "Green Dye",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 3777,
+    "name": "Guardian Leather Bracers",
+    "slug": "guardian-leather-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 4260,
+    "outputItemName": "Guardian Leather Bracers",
+    "source": "Drop, Fished",
+    "skillRequired": 215,
+    "skillYellow": 215,
+    "skillGreen": 225,
+    "skillGray": 235,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 6
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 3778,
+    "name": "Gem-studded Leather Belt",
+    "slug": "gem-studded-leather-belt",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 4262,
+    "outputItemName": "Gem-studded Leather Belt",
+    "source": "Vendor",
+    "skillRequired": 205,
+    "skillYellow": 205,
+    "skillGreen": 215,
+    "skillGray": 225,
+    "reagents": [
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 4
+      },
+      {
+        "itemName": "Iridescent Pearl",
+        "qty": 1
+      },
+      {
+        "itemName": "Jade",
+        "qty": 1
+      },
+      {
+        "itemName": "Citrine",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "waist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 3779,
+    "name": "Barbaric Belt",
+    "slug": "barbaric-belt",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 4264,
+    "outputItemName": "Barbaric Belt",
+    "source": "Drop",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 6
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Great Rage Potion",
+        "qty": 1
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      },
+      {
+        "itemName": "Iron Buckle",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "waist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 6661,
+    "name": "Barbaric Harness",
+    "slug": "barbaric-harness",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 5739,
+    "outputItemName": "Barbaric Harness",
+    "source": "Trainer",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 14
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      },
+      {
+        "itemName": "Iron Buckle",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 6705,
+    "name": "Murloc Scale Bracers",
+    "slug": "murloc-scale-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 5783,
+    "outputItemName": "Murloc Scale Bracers",
+    "source": "Drop, Vendor",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Thick Murloc Scale",
+        "qty": 16
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 1
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 14
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "vendor",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 7151,
+    "name": "Barbaric Shoulders",
+    "slug": "barbaric-shoulders",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 5964,
+    "outputItemName": "Barbaric Shoulders",
+    "source": "Trainer",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 7153,
+    "name": "Guardian Cloak",
+    "slug": "guardian-cloak",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 5965,
+    "outputItemName": "Guardian Cloak",
+    "source": "Drop, Fished, Pickpocketed",
+    "skillRequired": 205,
+    "skillYellow": 205,
+    "skillGreen": 215,
+    "skillGray": 225,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 14
+      },
+      {
+        "itemName": "Bolt Of Silk Cloth",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "pickpocketed",
+      "armor",
+      "leather",
+      "back",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 7156,
+    "name": "Guardian Gloves",
+    "slug": "guardian-gloves",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 5966,
+    "outputItemName": "Guardian Gloves",
+    "source": "Trainer",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 4
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 1
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9196,
+    "name": "Dusky Leather Armor",
+    "slug": "dusky-leather-armor",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7374,
+    "outputItemName": "Dusky Leather Armor",
+    "source": "Trainer",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Shadow Oil",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9197,
+    "name": "Green Whelp Armor",
+    "slug": "green-whelp-armor",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7375,
+    "outputItemName": "Green Whelp Armor",
+    "source": "Drop, Fished",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Green Whelp Scale",
+        "qty": 4
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9198,
+    "name": "Frost Leather Cloak",
+    "slug": "frost-leather-cloak",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7377,
+    "outputItemName": "Frost Leather Cloak",
+    "source": "Trainer",
+    "skillRequired": 200,
+    "skillYellow": 200,
+    "skillGreen": 210,
+    "skillGray": 220,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 6
+      },
+      {
+        "itemName": "Elemental Earth",
+        "qty": 2
+      },
+      {
+        "itemName": "Elemental Water",
+        "qty": 2
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "back",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9201,
+    "name": "Dusky Bracers",
+    "slug": "dusky-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7378,
+    "outputItemName": "Dusky Bracers",
+    "source": "Trainer",
+    "skillRequired": 205,
+    "skillYellow": 205,
+    "skillGreen": 215,
+    "skillGray": 225,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 16
+      },
+      {
+        "itemName": "Black Dye",
+        "qty": 1
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9202,
+    "name": "Green Whelp Bracers",
+    "slug": "green-whelp-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7386,
+    "outputItemName": "Green Whelp Bracers",
+    "source": "Vendor",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Green Whelp Scale",
+        "qty": 6
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9206,
+    "name": "Dusky Belt",
+    "slug": "dusky-belt",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7387,
+    "outputItemName": "Dusky Belt",
+    "source": "Trainer",
+    "skillRequired": 215,
+    "skillYellow": 215,
+    "skillGreen": 225,
+    "skillGray": 235,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Bolt Of Silk Cloth",
+        "qty": 2
+      },
+      {
+        "itemName": "Black Dye",
+        "qty": 2
+      },
+      {
+        "itemName": "Iron Buckle",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "waist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9207,
+    "name": "Dusky Boots",
+    "slug": "dusky-boots",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7390,
+    "outputItemName": "Dusky Boots",
+    "source": "Drop",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Shadow Silk",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 9208,
+    "name": "Swift Boots",
+    "slug": "swift-boots",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 7391,
+    "outputItemName": "Swift Boots",
+    "source": "Drop, Fished",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Swiftness Potion",
+        "qty": 2
+      },
+      {
+        "itemName": "Thick Spiders Silk",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10482,
+    "name": "Cured Thick Hide",
+    "slug": "cured-thick-hide",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8172,
+    "outputItemName": "Cured Thick Hide",
+    "source": "Trainer",
+    "skillRequired": 200,
+    "skillYellow": 200,
+    "skillGreen": 200,
+    "skillGray": 200,
+    "reagents": [
+      {
+        "itemName": "Thick Hide",
+        "qty": 1
+      },
+      {
+        "itemName": "Deeprock Salt",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "trade-good",
+      "leather",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10487,
+    "name": "Thick Armor Kit",
+    "slug": "thick-armor-kit",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8173,
+    "outputItemName": "Thick Armor Kit",
+    "source": "Trainer",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 5,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "consumable",
+      "armor-kit",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10490,
+    "name": "Comfortable Leather Hat",
+    "slug": "comfortable-leather-hat",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8174,
+    "outputItemName": "Comfortable Leather Hat",
+    "source": "Drop, Fished",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 12
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10499,
+    "name": "Nightscape Tunic",
+    "slug": "nightscape-tunic",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8175,
+    "outputItemName": "Nightscape Tunic",
+    "source": "Trainer",
+    "skillRequired": 225,
+    "skillYellow": 225,
+    "skillGreen": 235,
+    "skillGray": 245,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 7,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10507,
+    "name": "Nightscape Headband",
+    "slug": "nightscape-headband",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8176,
+    "outputItemName": "Nightscape Headband",
+    "source": "Trainer",
+    "skillRequired": 225,
+    "skillYellow": 225,
+    "skillGreen": 235,
+    "skillGray": 245,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 5,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10509,
+    "name": "Turtle Scale Gloves",
+    "slug": "turtle-scale-gloves",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8187,
+    "outputItemName": "Turtle Scale Gloves",
+    "source": "Drop, Vendor, Fished",
+    "skillRequired": 225,
+    "skillYellow": 225,
+    "skillGreen": 235,
+    "skillGray": 245,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 6,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Turtle Scale",
+        "qty": 8
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "vendor",
+      "fished",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10511,
+    "name": "Turtle Scale Breastplate",
+    "slug": "turtle-scale-breastplate",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8189,
+    "outputItemName": "Turtle Scale Breastplate",
+    "source": "Trainer",
+    "skillRequired": 230,
+    "skillYellow": 230,
+    "skillGreen": 240,
+    "skillGray": 250,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 6,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Turtle Scale",
+        "qty": 12
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10516,
+    "name": "Nightscape Shoulders",
+    "slug": "nightscape-shoulders",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8192,
+    "outputItemName": "Nightscape Shoulders",
+    "source": "Vendor",
+    "skillRequired": 230,
+    "skillYellow": 230,
+    "skillGreen": 240,
+    "skillGray": 250,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 8,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Mageweave Cloth",
+        "qty": 6
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 3
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10518,
+    "name": "Turtle Scale Bracers",
+    "slug": "turtle-scale-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8198,
+    "outputItemName": "Turtle Scale Bracers",
+    "source": "Trainer",
+    "skillRequired": 230,
+    "skillYellow": 230,
+    "skillGreen": 240,
+    "skillGray": 250,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 8,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Turtle Scale",
+        "qty": 12
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10520,
+    "name": "Big Voodoo Robe",
+    "slug": "big-voodoo-robe",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8200,
+    "outputItemName": "Big Voodoo Robe",
+    "source": "Drop, Fished",
+    "skillRequired": 235,
+    "skillYellow": 235,
+    "skillGreen": 245,
+    "skillGray": 255,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 10,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10525,
+    "name": "Tough Scorpid Breastplate",
+    "slug": "tough-scorpid-breastplate",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8203,
+    "outputItemName": "Tough Scorpid Breastplate",
+    "source": "Drop",
+    "skillRequired": 240,
+    "skillYellow": 240,
+    "skillGreen": 250,
+    "skillGray": 260,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 12,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Scorpid Scale",
+        "qty": 12
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 4
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10529,
+    "name": "Wild Leather Shoulders",
+    "slug": "wild-leather-shoulders",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8210,
+    "outputItemName": "Wild Leather Shoulders",
+    "source": "",
+    "skillRequired": 240,
+    "skillYellow": 240,
+    "skillGreen": 250,
+    "skillGray": 260,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 10,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Wildvine",
+        "qty": 1
+      },
+      {
+        "itemName": "Cured Thick Hide",
+        "qty": 1,
+        "itemId": 8172
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10531,
+    "name": "Big Voodoo Mask",
+    "slug": "big-voodoo-mask",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8201,
+    "outputItemName": "Big Voodoo Mask",
+    "source": "Drop",
+    "skillRequired": 240,
+    "skillYellow": 240,
+    "skillGreen": 250,
+    "skillGray": 260,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 8,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10533,
+    "name": "Tough Scorpid Bracers",
+    "slug": "tough-scorpid-bracers",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8205,
+    "outputItemName": "Tough Scorpid Bracers",
+    "source": "Drop",
+    "skillRequired": 240,
+    "skillYellow": 240,
+    "skillGreen": 250,
+    "skillGray": 260,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 10,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Scorpid Scale",
+        "qty": 4
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10542,
+    "name": "Tough Scorpid Gloves",
+    "slug": "tough-scorpid-gloves",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8204,
+    "outputItemName": "Tough Scorpid Gloves",
+    "source": "Drop",
+    "skillRequired": 245,
+    "skillYellow": 245,
+    "skillGreen": 255,
+    "skillGray": 265,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 6,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Scorpid Scale",
+        "qty": 8
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10544,
+    "name": "Wild Leather Vest",
+    "slug": "wild-leather-vest",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8211,
+    "outputItemName": "Wild Leather Vest",
+    "source": "",
+    "skillRequired": 245,
+    "skillYellow": 245,
+    "skillGreen": 255,
+    "skillGray": 265,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 12,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Wildvine",
+        "qty": 2
+      },
+      {
+        "itemName": "Cured Thick Hide",
+        "qty": 1,
+        "itemId": 8172
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10546,
+    "name": "Wild Leather Helmet",
+    "slug": "wild-leather-helmet",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8214,
+    "outputItemName": "Wild Leather Helmet",
+    "source": "",
+    "skillRequired": 245,
+    "skillYellow": 245,
+    "skillGreen": 255,
+    "skillGray": 265,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 10,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Wildvine",
+        "qty": 2
+      },
+      {
+        "itemName": "Cured Thick Hide",
+        "qty": 1,
+        "itemId": 8172
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10619,
+    "name": "Dragonscale Gauntlets",
+    "slug": "dragonscale-gauntlets",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8347,
+    "outputItemName": "Dragonscale Gauntlets",
+    "source": "",
+    "skillRequired": 245,
+    "skillYellow": 245,
+    "skillGreen": 255,
+    "skillGray": 265,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 24,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Worn Dragonscale",
+        "qty": 12
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 4
+      },
+      {
+        "itemName": "Cured Thick Hide",
+        "qty": 2,
+        "itemId": 8172
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 10621,
+    "name": "Wolfshead Helm",
+    "slug": "wolfshead-helm",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 8345,
+    "outputItemName": "Wolfshead Helm",
+    "source": "",
+    "skillRequired": 245,
+    "skillYellow": 245,
+    "skillGreen": 255,
+    "skillGray": 265,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 18,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Wildvine",
+        "qty": 12
+      },
+      {
+        "itemName": "Cured Thick Hide",
+        "qty": 4,
+        "itemId": 8172
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 20650,
+    "name": "Thick Leather",
+    "slug": "thick-leather",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 4304,
+    "outputItemName": "Thick Leather",
+    "source": "Trainer",
+    "skillRequired": 200,
+    "skillYellow": 200,
+    "skillGreen": 202,
+    "skillGray": 205,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 6
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "trade-good",
+      "leather",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 21943,
+    "name": "Gloves of the Greatfather",
+    "slug": "gloves-of-the-greatfather",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 17721,
+    "outputItemName": "Gloves of the Greatfather",
+    "source": "Drop",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Elemental Earth",
+        "qty": 4
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 22711,
+    "name": "Shadowskin Gloves",
+    "slug": "shadowskin-gloves",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 18238,
+    "outputItemName": "Shadowskin Gloves",
+    "source": "Vendor",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Thick Leather",
+        "qty": 6,
+        "itemId": 4304
+      },
+      {
+        "itemName": "Shadow Silk",
+        "qty": 8
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 4
+      },
+      {
+        "itemName": "Heavy Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226128,
+    "name": "Heavy Scale Shirt",
+    "slug": "heavy-scale-shirt",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132520,
+    "outputItemName": "Heavy Scale Shirt",
+    "source": "Trainer",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Shadow Oil",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226129,
+    "name": "Heavy Scale Pauldrons",
+    "slug": "heavy-scale-pauldrons",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132535,
+    "outputItemName": "Heavy Scale Pauldrons",
+    "source": "Trainer",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 1
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "shoulder",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226130,
+    "name": "Spritescale Jerkin",
+    "slug": "spritescale-jerkin",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132538,
+    "outputItemName": "Spritescale Jerkin",
+    "source": "Trainer",
+    "skillRequired": 195,
+    "skillYellow": 195,
+    "skillGreen": 205,
+    "skillGray": 215,
+    "reagents": [
+      {
+        "itemName": "Green Whelp Scale",
+        "qty": 4
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Fine Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226131,
+    "name": "Spritescale Gloves",
+    "slug": "spritescale-gloves",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132540,
+    "outputItemName": "Spritescale Gloves",
+    "source": "Trainer",
+    "skillRequired": 210,
+    "skillYellow": 210,
+    "skillGreen": 220,
+    "skillGray": 230,
+    "reagents": [
+      {
+        "itemName": "Green Whelp Scale",
+        "qty": 6
+      },
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226132,
+    "name": "Heavy Scale Belt",
+    "slug": "heavy-scale-belt",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132522,
+    "outputItemName": "Heavy Scale Belt",
+    "source": "Trainer",
+    "skillRequired": 215,
+    "skillYellow": 215,
+    "skillGreen": 225,
+    "skillGray": 235,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Bolt Of Silk Cloth",
+        "qty": 2
+      },
+      {
+        "itemName": "Black Dye",
+        "qty": 2
+      },
+      {
+        "itemName": "Iron Buckle",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "waist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226133,
+    "name": "Spritescale Wraps",
+    "slug": "spritescale-wraps",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132541,
+    "outputItemName": "Spritescale Wraps",
+    "source": "Trainer",
+    "skillRequired": 215,
+    "skillYellow": 215,
+    "skillGreen": 225,
+    "skillGray": 235,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 6
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226134,
+    "name": "Heavy Scale Boots",
+    "slug": "heavy-scale-boots",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132521,
+    "outputItemName": "Heavy Scale Boots",
+    "source": "Trainer",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 8
+      },
+      {
+        "itemName": "Shadow Silk",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "feet",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226135,
+    "name": "Heavy Scale Hood",
+    "slug": "heavy-scale-hood",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132536,
+    "outputItemName": "Heavy Scale Hood",
+    "source": "Trainer",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 12
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226136,
+    "name": "Spritescale Circlet",
+    "slug": "spritescale-circlet",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132537,
+    "outputItemName": "Spritescale Circlet",
+    "source": "Trainer",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 12
+      },
+      {
+        "itemName": "Cured Heavy Hide",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 2
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "head",
+      "needs-verification"
+    ]
+  },
+  {
+    "spellId": 226137,
+    "name": "Spritescale Boots",
+    "slug": "spritescale-boots",
+    "profession": "Leatherworking",
+    "expansion": "classic-vanilla",
+    "outputItemId": 132544,
+    "outputItemName": "Spritescale Boots",
+    "source": "Trainer",
+    "skillRequired": 220,
+    "skillYellow": 220,
+    "skillGreen": 230,
+    "skillGray": 240,
+    "reagents": [
+      {
+        "itemName": "Heavy Leather",
+        "qty": 10
+      },
+      {
+        "itemName": "Swiftness Potion",
+        "qty": 2
+      },
+      {
+        "itemName": "Thick Spiders Silk",
+        "qty": 2
+      },
+      {
+        "itemName": "Silken Thread",
+        "qty": 1
+      }
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "feet",
+      "needs-verification"
+    ]
+  }
+]
