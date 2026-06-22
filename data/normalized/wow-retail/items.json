@@ -1,0 +1,1030 @@
+[
+  {
+    "id": 4256,
+    "name": "Guardian Armor",
+    "slug": "guardian-armor",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      3773
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished"
+  },
+  {
+    "id": 4259,
+    "name": "Green Leather Bracers",
+    "slug": "green-leather-bracers",
+    "taxonomy": "armor/leather/bracers",
+    "createdBy": [
+      3776
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 4260,
+    "name": "Guardian Leather Bracers",
+    "slug": "guardian-leather-bracers",
+    "taxonomy": "armor/leather/bracers",
+    "createdBy": [
+      3777
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished"
+  },
+  {
+    "id": 4262,
+    "name": "Gem-studded Leather Belt",
+    "slug": "gem-studded-leather-belt",
+    "taxonomy": "armor/leather/belt",
+    "createdBy": [
+      3778
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "waist",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 4264,
+    "name": "Barbaric Belt",
+    "slug": "barbaric-belt",
+    "taxonomy": "armor/leather/belt",
+    "createdBy": [
+      3779
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "waist",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 4304,
+    "name": "Thick Leather",
+    "slug": "thick-leather",
+    "taxonomy": "trade-goods/leather",
+    "createdBy": [
+      20650
+    ],
+    "usedIn": [
+      22711,
+      10487,
+      10507,
+      10499,
+      10509,
+      10516,
+      10518,
+      10511,
+      10520,
+      10531,
+      10533,
+      10525,
+      10529,
+      10619,
+      10542,
+      10546,
+      10544,
+      10621
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "trade-good",
+      "leather",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 5739,
+    "name": "Barbaric Harness",
+    "slug": "barbaric-harness",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      6661
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 5783,
+    "name": "Murloc Scale Bracers",
+    "slug": "murloc-scale-bracers",
+    "taxonomy": "armor/mail/bracers",
+    "createdBy": [
+      6705
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "vendor",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Drop, Vendor"
+  },
+  {
+    "id": 5964,
+    "name": "Barbaric Shoulders",
+    "slug": "barbaric-shoulders",
+    "taxonomy": "armor/leather/shoulders",
+    "createdBy": [
+      7151
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 5965,
+    "name": "Guardian Cloak",
+    "slug": "guardian-cloak",
+    "taxonomy": "armor/leather/cloak",
+    "createdBy": [
+      7153
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "pickpocketed",
+      "armor",
+      "leather",
+      "back",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished, Pickpocketed"
+  },
+  {
+    "id": 5966,
+    "name": "Guardian Gloves",
+    "slug": "guardian-gloves",
+    "taxonomy": "armor/leather/gloves",
+    "createdBy": [
+      7156
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 7374,
+    "name": "Dusky Leather Armor",
+    "slug": "dusky-leather-armor",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      9196
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 7375,
+    "name": "Green Whelp Armor",
+    "slug": "green-whelp-armor",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      9197
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished"
+  },
+  {
+    "id": 7377,
+    "name": "Frost Leather Cloak",
+    "slug": "frost-leather-cloak",
+    "taxonomy": "armor/leather/cloak",
+    "createdBy": [
+      9198
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "back",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 7378,
+    "name": "Dusky Bracers",
+    "slug": "dusky-bracers",
+    "taxonomy": "armor/leather/bracers",
+    "createdBy": [
+      9201
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 7386,
+    "name": "Green Whelp Bracers",
+    "slug": "green-whelp-bracers",
+    "taxonomy": "armor/leather/bracers",
+    "createdBy": [
+      9202
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 7387,
+    "name": "Dusky Belt",
+    "slug": "dusky-belt",
+    "taxonomy": "armor/leather/belt",
+    "createdBy": [
+      9206
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "waist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 7390,
+    "name": "Dusky Boots",
+    "slug": "dusky-boots",
+    "taxonomy": "armor/leather/boots",
+    "createdBy": [
+      9207
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 7391,
+    "name": "Swift Boots",
+    "slug": "swift-boots",
+    "taxonomy": "armor/leather/boots",
+    "createdBy": [
+      9208
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished"
+  },
+  {
+    "id": 8172,
+    "name": "Cured Thick Hide",
+    "slug": "cured-thick-hide",
+    "taxonomy": "trade-goods/leather",
+    "createdBy": [
+      10482
+    ],
+    "usedIn": [
+      10529,
+      10619,
+      10546,
+      10544,
+      10621
+    ],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "trade-good",
+      "leather",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8173,
+    "name": "Thick Armor Kit",
+    "slug": "thick-armor-kit",
+    "taxonomy": "consumables/armor-kits",
+    "createdBy": [
+      10487
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "consumable",
+      "armor-kit",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8174,
+    "name": "Comfortable Leather Hat",
+    "slug": "comfortable-leather-hat",
+    "taxonomy": "armor/leather/helm",
+    "createdBy": [
+      10490
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished"
+  },
+  {
+    "id": 8175,
+    "name": "Nightscape Tunic",
+    "slug": "nightscape-tunic",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      10499
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8176,
+    "name": "Nightscape Headband",
+    "slug": "nightscape-headband",
+    "taxonomy": "armor/leather/helm",
+    "createdBy": [
+      10507
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8187,
+    "name": "Turtle Scale Gloves",
+    "slug": "turtle-scale-gloves",
+    "taxonomy": "armor/mail/gloves",
+    "createdBy": [
+      10509
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "vendor",
+      "fished",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop, Vendor, Fished"
+  },
+  {
+    "id": 8189,
+    "name": "Turtle Scale Breastplate",
+    "slug": "turtle-scale-breastplate",
+    "taxonomy": "armor/mail/chest",
+    "createdBy": [
+      10511
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8192,
+    "name": "Nightscape Shoulders",
+    "slug": "nightscape-shoulders",
+    "taxonomy": "armor/leather/shoulders",
+    "createdBy": [
+      10516
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 8198,
+    "name": "Turtle Scale Bracers",
+    "slug": "turtle-scale-bracers",
+    "taxonomy": "armor/mail/bracers",
+    "createdBy": [
+      10518
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 8200,
+    "name": "Big Voodoo Robe",
+    "slug": "big-voodoo-robe",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      10520
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "fished",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop, Fished"
+  },
+  {
+    "id": 8201,
+    "name": "Big Voodoo Mask",
+    "slug": "big-voodoo-mask",
+    "taxonomy": "armor/leather/helm",
+    "createdBy": [
+      10531
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8203,
+    "name": "Tough Scorpid Breastplate",
+    "slug": "tough-scorpid-breastplate",
+    "taxonomy": "armor/mail/chest",
+    "createdBy": [
+      10525
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8204,
+    "name": "Tough Scorpid Gloves",
+    "slug": "tough-scorpid-gloves",
+    "taxonomy": "armor/mail/gloves",
+    "createdBy": [
+      10542
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8205,
+    "name": "Tough Scorpid Bracers",
+    "slug": "tough-scorpid-bracers",
+    "taxonomy": "armor/mail/bracers",
+    "createdBy": [
+      10533
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 8210,
+    "name": "Wild Leather Shoulders",
+    "slug": "wild-leather-shoulders",
+    "taxonomy": "armor/leather/shoulders",
+    "createdBy": [
+      10529
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "shoulder",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8211,
+    "name": "Wild Leather Vest",
+    "slug": "wild-leather-vest",
+    "taxonomy": "armor/leather/chest",
+    "createdBy": [
+      10544
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "chest",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8214,
+    "name": "Wild Leather Helmet",
+    "slug": "wild-leather-helmet",
+    "taxonomy": "armor/leather/helm",
+    "createdBy": [
+      10546
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8345,
+    "name": "Wolfshead Helm",
+    "slug": "wolfshead-helm",
+    "taxonomy": "armor/leather/helm",
+    "createdBy": [
+      10621
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "leather",
+      "head",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 8347,
+    "name": "Dragonscale Gauntlets",
+    "slug": "dragonscale-gauntlets",
+    "taxonomy": "armor/mail/gloves",
+    "createdBy": [
+      10619
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ],
+    "source": ""
+  },
+  {
+    "id": 17721,
+    "name": "Gloves of the Greatfather",
+    "slug": "gloves-of-the-greatfather",
+    "taxonomy": "armor/leather/gloves",
+    "createdBy": [
+      21943
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "drop",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Drop"
+  },
+  {
+    "id": 18238,
+    "name": "Shadowskin Gloves",
+    "slug": "shadowskin-gloves",
+    "taxonomy": "armor/leather/gloves",
+    "createdBy": [
+      22711
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "vendor",
+      "armor",
+      "leather",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Vendor"
+  },
+  {
+    "id": 132520,
+    "name": "Heavy Scale Shirt",
+    "slug": "heavy-scale-shirt",
+    "taxonomy": "armor/mail/chest",
+    "createdBy": [
+      226128
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132521,
+    "name": "Heavy Scale Boots",
+    "slug": "heavy-scale-boots",
+    "taxonomy": "armor/mail/boots",
+    "createdBy": [
+      226134
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132522,
+    "name": "Heavy Scale Belt",
+    "slug": "heavy-scale-belt",
+    "taxonomy": "armor/mail/belt",
+    "createdBy": [
+      226132
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "waist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132535,
+    "name": "Heavy Scale Pauldrons",
+    "slug": "heavy-scale-pauldrons",
+    "taxonomy": "armor/mail/shoulders",
+    "createdBy": [
+      226129
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "shoulder",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132536,
+    "name": "Heavy Scale Hood",
+    "slug": "heavy-scale-hood",
+    "taxonomy": "armor/mail/helm",
+    "createdBy": [
+      226135
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132537,
+    "name": "Spritescale Circlet",
+    "slug": "spritescale-circlet",
+    "taxonomy": "armor/mail/helm",
+    "createdBy": [
+      226136
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "head",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132538,
+    "name": "Spritescale Jerkin",
+    "slug": "spritescale-jerkin",
+    "taxonomy": "armor/mail/chest",
+    "createdBy": [
+      226130
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "chest",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132540,
+    "name": "Spritescale Gloves",
+    "slug": "spritescale-gloves",
+    "taxonomy": "armor/mail/gloves",
+    "createdBy": [
+      226131
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "hands",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132541,
+    "name": "Spritescale Wraps",
+    "slug": "spritescale-wraps",
+    "taxonomy": "armor/mail/bracers",
+    "createdBy": [
+      226133
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "wrist",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  },
+  {
+    "id": 132544,
+    "name": "Spritescale Boots",
+    "slug": "spritescale-boots",
+    "taxonomy": "armor/mail/boots",
+    "createdBy": [
+      226137
+    ],
+    "usedIn": [],
+    "tags": [
+      "leatherworking",
+      "classic-vanilla",
+      "trainer",
+      "armor",
+      "mail",
+      "feet",
+      "needs-verification"
+    ],
+    "source": "Trainer"
+  }
+]
