@@ -4,20 +4,29 @@
 
 - Item ID: 6709
 - Canonical category: Armor / Leather
-- Slot tag: chest
-- Roles in current data: recipe-output
+- Equipment slot: chest
+- Role in current data: crafted output
 
-## Created by recipes
+## Created by
 
 - [Moonglow Vest](../../../recipes/leatherworking/classic-vanilla/moonglow-vest.md)
 
-## Used in recipes
+## Used in other records
 
-No known uses in current seed.
+No known uses in the current seed.
+
+## Materials relationship
+
+This item is produced from:
+
+- [Light Leather](../../trade-goods/leather/light-leather.md)
+- [Cured Light Hide](../../trade-goods/leather/cured-light-hide.md)
+- [Coarse Thread](../../trade-goods/thread/coarse-thread.md)
+- [Small Lustrous Pearl](../../trade-goods/pearls/small-lustrous-pearl.md)
 
 ## Tags
 
-`item` `armor` `leather` `chest` `recipe-output` `leatherworking` `classic-vanilla` `manual-html-import`
+`item` `armor` `leather` `chest` `crafted-output` `leatherworking` `classic-vanilla` `manual-html-import`
 
 ## Source
 
