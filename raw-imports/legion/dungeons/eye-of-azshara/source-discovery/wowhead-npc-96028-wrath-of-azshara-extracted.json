@@ -1,0 +1,444 @@
+{
+  "schema_version": "source-discovery.v1",
+  "processed_at": "2026-06-23",
+  "source": {
+    "kind": "wowhead_npc_page_pasted_by_user",
+    "uploaded_file": "Pasted text(32).txt",
+    "source_url": "https://www.wowhead.com/npc=96028/wrath-of-azshara",
+    "copyright_handling": "Full HTML not committed; extracted facts, identifiers, counts, compact tables and curated notes only."
+  },
+  "npc": {
+    "id": 96028,
+    "name": "Wrath of Azshara",
+    "dungeon": "Eye of Azshara",
+    "zone_id": 8040,
+    "classification": "Elite",
+    "faction": "Elemental",
+    "type": "Elemental",
+    "react": [
+      "Alliance",
+      "Horde"
+    ],
+    "added_patch": "7.0.3",
+    "worth_money": {
+      "gold": 19,
+      "silver": 89,
+      "copper": 98
+    },
+    "health_by_difficulty": {
+      "normal": 95399036,
+      "heroic": 325322304,
+      "mythic_dungeon": 422919008
+    },
+    "map_pin": {
+      "x": 57.7,
+      "y": 53.6
+    }
+  },
+  "page_counts": {
+    "drops": 136,
+    "currency_rows": 7,
+    "objective_of_rows": 13,
+    "abilities": 16,
+    "screenshots": 2,
+    "videos": 1,
+    "comments": 9,
+    "simple_gear_like_drop_rows": 74,
+    "mode_row_counts": {
+      "1": 114,
+      "2": 112,
+      "23": 65,
+      "8": 20,
+      "24": 26
+    }
+  },
+  "article_notes": {
+    "summary_text": "One of Azshara's most loyal handmaidens offered herself willingly to her Queen to serve as the instrument of her vengeance. Summoned by Hatecoil channelers as a last resort after Parjesh's failure, the terrifying Wrath of Azshara exists to wash away all landwalkers who would stand against her. After defeating all four of the other bosses, the protective dome around the Wrath of Azshara dissipates. Players must defeat the four Naga summoners surrounding the Wrath of Azshara before they can engage the boss directly. The Wrath of Azshara encounter is entirely single-target, but has very heavy movement and awareness requirements. Nearly all of the damage is avoidable, so the challenge is in reacting quickly and moving to dodge environmental effects while still dealing enough damage to defeat the boss. Wrath of Azshara is a large boss with a large hitbox. Due to the heavy-movement nature of the fight, it is important for players all to stay within range of the healer. Melee DPS should attack from the boss's side, not the back, so that the healer can reach both the tank and the melee. Details on how to defeat this boss and related trash in the Eye of Azshara Strategy Guide .",
+    "route_unlock_notes": [
+      "After defeating all four other bosses, the protective dome around Wrath of Azshara dissipates.",
+      "Players must defeat four Naga summoners surrounding Wrath of Azshara before engaging the boss directly.",
+      "Comment evidence also says returning players cannot kill this boss until all other bosses are killed, otherwise lightning kills them."
+    ],
+    "positioning_notes": [
+      "Wrath of Azshara has a large hitbox.",
+      "Because of heavy movement, players should stay within healer range.",
+      "Melee DPS should attack from the side, not the back, so the healer can reach tank and melee."
+    ]
+  },
+  "encounter_discovery": {
+    "overview": "Single-target fight with heavy movement and awareness. Most damage is avoidable; challenge is reacting quickly to storms, arcane effects and environmental hazards.",
+    "role_notes": {
+      "tank": [
+        "Remain within melee range to prevent Raging Storms.",
+        "Avoid Mystic Tornado.",
+        "Move out during Massive Deluge."
+      ],
+      "healer": [
+        "Avoid Mystic Tornado.",
+        "Dispel Arcane Bomb so players can avoid the detonation."
+      ],
+      "dps": [
+        "Avoid Mystic Tornado.",
+        "Move out of Arcane Bomb detonation area after it is dispelled."
+      ]
+    },
+    "ability_names": [
+      "Violent Winds",
+      "Massive Deluge",
+      "Mystic Tornado",
+      "Raging Storms",
+      "Arcane Bomb",
+      "Lightning Strike",
+      "Tidal Wave",
+      "Crushing Depths",
+      "Cry of Wrath",
+      "Frost Resonance",
+      "Magic Resonance",
+      "Heaving Sands",
+      "Curse of the Witch",
+      "Netherstorm",
+      "Wrath of Azshara",
+      "Throw Spear"
+    ],
+    "abilities": [
+      {
+        "id": 191797,
+        "name": "Violent Winds",
+        "display_name": "Violent Winds",
+        "school": 1,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192617,
+        "name": "Massive Deluge",
+        "display_name": "Massive Deluge",
+        "school": 16,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192675,
+        "name": "Mystic Tornado",
+        "display_name": "Mystic Tornado",
+        "school": 64,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192696,
+        "name": "Raging Storms",
+        "display_name": "Raging Storms",
+        "school": 16,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192706,
+        "name": "Arcane Bomb",
+        "display_name": "Arcane Bomb",
+        "school": 64,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192794,
+        "name": "Lightning Strike",
+        "display_name": "Lightning Strike",
+        "school": 8,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192801,
+        "name": "Tidal Wave",
+        "display_name": "Tidal Wave",
+        "school": 16,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 197365,
+        "name": "Crushing Depths",
+        "display_name": "Crushing Depths",
+        "school": 1,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192985,
+        "name": "Cry of Wrath",
+        "display_name": "Cry of Wrath",
+        "school": 1,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 196666,
+        "name": "Frost Resonance",
+        "display_name": "Frost Resonance",
+        "school": 16,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 196665,
+        "name": "Magic Resonance",
+        "display_name": "Magic Resonance",
+        "school": 72,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 197164,
+        "name": "Heaving Sands",
+        "display_name": "Heaving Sands",
+        "school": 1,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 193698,
+        "name": "Curse of the Witch",
+        "display_name": "Curse of the Witch",
+        "school": 64,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 194432,
+        "name": "Netherstorm",
+        "display_name": "Netherstorm",
+        "school": 64,
+        "mode_ids": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "id": 192684,
+        "name": "Wrath of Azshara",
+        "display_name": "Wrath of Azshara",
+        "school": 16,
+        "mode_ids": []
+      },
+      {
+        "id": 193183,
+        "name": "Throw Spear",
+        "display_name": "Throw Spear",
+        "school": 1,
+        "mode_ids": []
+      }
+    ],
+    "important_mechanics": [
+      "Massive Deluge frontal knockback/damage.",
+      "Mystic Tornado spawns near players and knocks away on collision.",
+      "Arcane Bomb tracks a target until dispelled, then detonates on impact.",
+      "Raging Storms triggers when no enemies are in melee range.",
+      "Crushing Depths damage is split between players within 12 yards.",
+      "Cry of Wrath starts at 10% health and intensifies storm effects.",
+      "Elemental Resonance adds stacking Arcane/Nature/Frost effects on Heroic-like modes."
+    ]
+  },
+  "loot_discovery": {
+    "drops_total": 136,
+    "simple_gear_like_rows": 74,
+    "compact_csv_path": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-96028-wrath-of-azshara-drops-compact.csv",
+    "mode_row_counts": {
+      "1": 114,
+      "2": 112,
+      "23": 65,
+      "8": 20,
+      "24": 26
+    },
+    "notes": [
+      "Rows are raw Wowhead Listview-derived loot rows and still include noise such as zone drops, recipes, currencies, Timewalking rows, quest items and other non-upgrade items.",
+      "Do not treat every row as direct boss gear until normalization separates boss drops, zone drops and expansion/system drops."
+    ]
+  },
+  "objective_quests": [
+    {
+      "quest_id": 38286,
+      "name": "Eye of Azshara: Wrath of Azshara",
+      "level": 10,
+      "category": 8040
+    },
+    {
+      "quest_id": 42911,
+      "name": "Drowned Mana",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42757,
+      "name": "Eye of Azshara: Termination Claws",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42755,
+      "name": "Eye of Azshara: Azsunian Pearls",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42713,
+      "name": "Eye of Azshara: Slug It Out",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42712,
+      "name": "Eye of Azshara: Azsuna's a Beach",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42714,
+      "name": "Eye of Azshara: A Tough Shell",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42752,
+      "name": "Eye of Azshara: Jump Around",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42723,
+      "name": "Eye of Azshara: A Cleansing Ritual",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 42725,
+      "name": "Sharing the Wealth",
+      "level": 45,
+      "category": 8040
+    },
+    {
+      "quest_id": 43106,
+      "name": "Soup Time",
+      "level": 10,
+      "category": 7503
+    },
+    {
+      "quest_id": 43121,
+      "name": "Saving the Salve",
+      "level": 10,
+      "category": 7503
+    },
+    {
+      "quest_id": 44185,
+      "name": "DANGER: Cinderwing",
+      "level": 45,
+      "category": 7334
+    }
+  ],
+  "curated_comment_notes": [
+    {
+      "comment_id": 2429693,
+      "user": "1606607",
+      "date": "2016-10-17T11:37:51-05:00",
+      "rating": 27,
+      "note": "THE STORM AWAKENS one of the best voice acting line in game"
+    },
+    {
+      "comment_id": 3134381,
+      "user": "TinyPhreak",
+      "date": "2019-07-03T08:01:06-05:00",
+      "rating": 7,
+      "note": "Just killed it, and didn't get any reputation."
+    },
+    {
+      "comment_id": 3207537,
+      "user": "Sparkette",
+      "date": "2020-05-19T23:52:28-05:00",
+      "rating": 1,
+      "note": "Kil'jaeden's Burning Wish dropped from this boss for my husband when we ran it on mythic today."
+    },
+    {
+      "comment_id": 3208008,
+      "user": "Tanae",
+      "date": "2020-05-22T11:22:16-05:00",
+      "rating": 48,
+      "note": "Anyone going back to do this, you cannot kill this boss until you have killed all the others, the lightning will kill you."
+    },
+    {
+      "comment_id": 5518675,
+      "user": "Gosuphobia",
+      "date": "2023-01-02T19:25:36-06:00",
+      "rating": 5,
+      "note": "Does not give reputation on any difficulty."
+    }
+  ]
+}
