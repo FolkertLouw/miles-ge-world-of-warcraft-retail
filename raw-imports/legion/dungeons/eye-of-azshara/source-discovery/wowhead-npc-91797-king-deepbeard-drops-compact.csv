@@ -1,0 +1,97 @@
+item_id,name,quality,classs,subclass,slot,level,reqlevel,modes,count,outof,normal_count,normal_outof,heroic_count,heroic_outof,mythic_count,mythic_outof,mythic_plus_count,mythic_plus_outof,timewalking_count,timewalking_outof,source_hint,unconfirmed_drop
+124121,Wildfowl Egg,1,7,8,0,40,,1,117,20676,117,20676,,,,,,,,,sourcemore,False
+124124,Blood of Sargeras,3,7,10,0,40,45,1|2|23,12667,24612,5660,20676,12667,24612,10432,18156,,,,,sourcemore,False
+129921,Scales of Serpentrix,1,12,0,0,40,,1|2|8|23|24,3,24612,2,20676,3,24612,1,18156,0,0,0,5346,zone:8040,False
+132192,Pitted Bone,0,0,0,0,40,,1,44,20676,44,20676,,,,,,,,,sourcemore,False
+132193,Tuft of Plumage,0,0,0,0,40,,1|2,106,24612,49,20676,106,24612,,,,,,,False
+134406,Mainsail Cloak,3,4,-6,16,50,5,1|2|8|23|24,2226,24612,1070,20676,2226,24612,1670,18156,0,0,251,5346,zone:8040,False
+134428,Rising Ocean Legwraps,3,4,2,7,50,5,1|2|8|23|24,468,24612,272,20676,468,24612,412,18156,0,0,58,5346,zone:8040,False
+134456,Taut Halyard Waistband,3,4,2,6,50,5,1|2|8|23|24,917,24612,440,20676,917,24612,739,18156,0,0,102,5346,zone:8040,False
+134514,Keelhauler Legplates,3,4,4,7,50,5,1|2|8|23|24,438,24612,260,20676,438,24612,419,18156,0,0,48,5346,zone:8040,False
+134539,Braided Silver Ring,3,4,-2,11,50,5,1|2|8|23|24,2039,24612,2477,20676,2039,24612,2096,18156,0,0,243,5346,zone:8040,False
+137368,Breastplate of Ten Lashes,3,4,4,5,50,5,1|2|8|23|24,473,24612,236,20676,473,24612,428,18156,0,0,46,5346,zone:8040,False
+137369,Giant Ornamental Pearl,3,4,0,12,50,5,1|2|8|23|24,481,24612,254,20676,481,24612,409,18156,0,0,49,5346,zone:8040,False
+137370,Heart of the Sea,3,3,10,0,50,40,1|2|23,553,24612,397,20676,553,24612,331,18156,,,,zone:8040,False
+137371,Tumultuous Aftershock,3,3,-8,0,50,40,1|2|23,984,24612,2328,20676,984,24612,1892,18156,,,,zone:8040,False
+138482,Sovereign Soul,1,12,0,0,1,,1|2|8|23|24,1132,24612,958,20676,1132,24612,968,18156,0,0,0,5346,,False
+138781,Brief History of the Aeons,1,0,8,0,1,,1,1165,20676,1165,20676,,,,,,,,,,False
+138782,Brief History of the Ages,1,0,8,0,1,,1,42,20676,42,20676,,,,,,,,,,False
+138786,Talisman of Victory,3,0,8,0,45,,23,7033,68790,,,,7033,68790,,,,,,False
+138993,Rarefied Water,1,12,0,0,1,,1|2|8|23|24,1384,24612,2586,23893,1384,24612,633,18156,0,0,0,5346,zone:8040,False
+139300,Finely-Tailored Green Holiday Hat,2,4,1,1,50,1,1|2|23|24,209,24612,146,20676,209,24612,86,18156,,,2,5346,,False
+140222,Harvested Goods,1,0,0,0,45,45,1|2|23,1,20676,1,20676,0,24612,1,18156,,,,,False
+140224,Butchered Meat,1,0,0,0,45,45,1|2|23,1,24612,0,20676,1,24612,3,18156,,,,,False
+140226,Mana-Tinged Pack,1,0,0,0,45,45,1|2|23,1,24612,0,20676,1,24612,1,18156,,,,,False
+140227,Bloodhunter's Quarry,1,0,0,0,45,45,1|2|23,1,20676,1,20676,0,24612,0,18156,,,,,False
+140229,Salvaged Armor,1,0,0,0,45,45,1|2|23,1,20676,1,20676,1,24612,1,18156,,,,,False
+141869,Intricate Ball of Webs,1,15,4,0,1,,1|2|23,2,20676,2,20676,0,24612,2,18156,,,,,False
+150939,Greater Tribute of the Broken Isles,1,0,0,0,45,45,1|2|23,1,24612,1,20676,1,24612,0,18156,,,,,False
+152593,Lustrous Golden Plumage,3,0,8,0,1,,1|2|23,7,24612,4,20676,7,24612,5,18156,,,,,False
+153202,Argunite Cluster,1,15,4,0,45,45,1|2|23,1,24612,1,20676,1,24612,0,18156,,,,,False
+153248,Lightforged Bulwark,2,4,6,14,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153249,Lightforged Shield,2,4,6,14,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153250,Lightforged Breastplate,2,4,4,5,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153251,Lightforged Chestguard,2,4,3,5,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153252,Lightforged Greaves,2,4,3,8,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153253,Lightforged Warboots,2,4,4,8,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153254,Lightforged Gauntlets,2,4,4,10,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153255,Lightforged Grips,2,4,3,10,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153256,Lightforged Girdle,2,4,4,6,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153257,Lightforged Waistguard,2,4,3,6,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153258,Lightforged Legplates,2,4,4,7,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153259,Lightforged Legguards,2,4,3,7,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153260,Lightforged Spaulders,2,4,4,3,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153261,Lightforged Shoulderguards,2,4,3,3,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153262,Lightforged Vambraces,2,4,4,9,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153263,Lightforged Bracers,2,4,3,9,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153264,Lightforged Greathelm,2,4,4,1,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153265,Lightforged Faceguard,2,4,3,1,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153266,Lightforged Warhammer,2,2,4,13,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153267,Lightforged Bulwark,3,4,6,14,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153268,Lightforged Shield,3,4,6,14,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153269,Lightforged Breastplate,3,4,4,5,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153270,Lightforged Chestguard,3,4,3,5,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153271,Lightforged Greaves,3,4,3,8,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153272,Lightforged Warboots,3,4,4,8,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153273,Lightforged Gauntlets,3,4,4,10,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153274,Lightforged Grips,3,4,3,10,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153275,Lightforged Girdle,3,4,4,6,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153276,Lightforged Waistguard,3,4,3,6,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153277,Lightforged Legplates,3,4,4,7,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153278,Lightforged Legguards,3,4,3,7,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153279,Lightforged Spaulders,3,4,4,3,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153280,Lightforged Shoulderguards,3,4,3,3,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153281,Lightforged Vambraces,3,4,4,9,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153282,Lightforged Bracers,3,4,3,9,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153283,Lightforged Greathelm,3,4,4,1,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153284,Lightforged Faceguard,3,4,3,1,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+153285,Lightforged Warhammer,3,2,4,13,50,5,1|2|23,0,0,0,0,0,0,0,0,,,,,True
+181548,Darkcrest Legguards,2,4,3,7,27,27,24,0,0,,,,,,,,,0,0,,True
+181549,Darkcrest Shoulderguards,2,4,3,3,27,27,24,0,0,,,,,,,,,0,0,,True
+181552,Naga Battle Gloves,2,4,2,10,27,27,24,0,0,,,,,,,,,0,0,,True
+181567,Tuskarr Wavestomper,2,2,4,13,27,27,24,0,0,,,,,,,,,0,0,,True
+225996,Algari Adventurer's Chainmail,1,4,3,5,70,70,23,1,18156,,,,1,18156,,,,,,False
+225997,Algari Adventurer's Cloak,1,4,-6,16,70,70,23,1,18156,,,,1,18156,,,,,,False
+225998,Algari Adventurer's Cloth Robe,1,4,1,20,70,70,23,1,18156,,,,1,18156,,,,,,False
+225999,Algari Adventurer's Cloth Sash,1,4,1,6,70,70,23,1,18156,,,,1,18156,,,,,,False
+226000,Algari Adventurer's Cloth Treads,1,4,1,8,70,70,23,2,18156,,,,2,18156,,,,,,False
+226001,Algari Adventurer's Leather Tunic,1,4,2,5,70,70,23,1,18156,,,,1,18156,,,,,,False
+226002,Algari Adventurer's Plate Breastplate,1,4,4,5,70,70,23,1,18156,,,,1,18156,,,,,,False
+226005,Algari Adventurer's Plate Gauntlets,1,4,4,10,70,70,23,1,18156,,,,1,18156,,,,,,False
+226007,Algari Adventurer's Chain Leggings,1,4,3,7,70,70,23,1,18156,,,,1,18156,,,,,,False
+226010,Algari Adventurer's Plate Legguards,1,4,4,7,70,70,23,1,18156,,,,1,18156,,,,,,False
+226012,Algari Adventurer's Cloth Mantle,1,4,1,3,70,70,23,1,18156,,,,1,18156,,,,,,False
+226015,Algari Adventurer's Chain Spaulders,1,4,3,3,70,70,23,1,18156,,,,1,18156,,,,,,False
+226018,Algari Adventurer's Shield,1,4,6,14,70,70,23,1,18156,,,,1,18156,,,,,,False
+226019,Algari Adventurer's Leather Shoulderpads,1,4,2,3,70,70,23,2,18156,,,,2,18156,,,,,,False
+226020,Algari Adventurer's Plate Armguards,1,4,4,9,70,70,23,1,18156,,,,1,18156,,,,,,False
+226021,Algari Adventurer's Cloth Cuffs,1,4,1,9,70,70,23,1,18156,,,,1,18156,,,,,,False
+226023,Algari Adventurer's Chain Bracers,1,4,3,9,70,70,23,2,18156,,,,2,18156,,,,,,False
+226026,Algari Adventurer's Cloth Hood,1,4,1,1,70,70,23,1,18156,,,,1,18156,,,,,,False
+226030,Algari Adventurer's Leather Bracers,1,4,2,9,70,70,23,1,18156,,,,1,18156,,,,,,False
+226033,Algari Adventurer's Sword,1,2,7,13,70,70,23,1,18156,,,,1,18156,,,,,,False
+226035,Algari Adventurer's Dagger,1,2,15,13,70,70,23,1,18156,,,,1,18156,,,,,,False
+226036,Algari Adventurer's Wand,1,2,19,26,70,70,23,2,18156,,,,2,18156,,,,,,False
+226038,Algari Adventurer's Mace,1,2,4,13,70,70,23,2,18156,,,,2,18156,,,,,,False
+226040,Algari Adventurer's Warglaive,1,2,9,13,70,70,23,1,18156,,,,1,18156,,,,,,False
+229276,Turbulent Fragment,1,12,0,0,10,,1|2|23,14,20676,14,20676,8,24612,13,18156,,,,,False
