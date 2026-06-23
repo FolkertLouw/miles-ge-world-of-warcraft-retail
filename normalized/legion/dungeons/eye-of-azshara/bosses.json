@@ -1,0 +1,197 @@
+{
+  "schema_version": "0.1.0",
+  "status": "normalized_candidate",
+  "created_at": "2026-06-23",
+  "dungeon": {
+    "id": "eye-of-azshara",
+    "name": "Eye of Azshara",
+    "zone_id": 8040,
+    "expansion": "legion"
+  },
+  "bosses": [
+    {
+      "id": "warlord-parjesh",
+      "name": "Warlord Parjesh",
+      "npc_id": 91784,
+      "order": 1,
+      "type": "Humanoid",
+      "classification": "Elite",
+      "map_pin": { "x": 54.6, "y": 68.3, "source_status": "wowhead_candidate" },
+      "health_by_difficulty": {
+        "normal": 31141978,
+        "heroic": 48659320,
+        "mythic_dungeon": 63257112
+      },
+      "summary_candidate": "Hatecoil naga commander; encounter centered on Impaling Spear positioning, Call Reinforcements and add control.",
+      "role_notes_candidate": {
+        "tank": "Pick up Shellbreakers from Call Reinforcements and use add positioning for Impaling Spear.",
+        "healer": "Expect extra healing if players are struck by Impaling Spear or fail positioning.",
+        "dps": "Kill naga reinforcements and position behind adds for Impaling Spear."
+      },
+      "key_mechanics_candidate": [
+        "Crashing Wave",
+        "Impaling Spear",
+        "Throw Spear",
+        "Call Reinforcements",
+        "Enrage"
+      ],
+      "source_files": {
+        "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91784-warlord-parjesh-extracted.json",
+        "drops_compact_csv": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91784-warlord-parjesh-drops-compact.csv"
+      },
+      "data_quality": "candidate; verify against Blizzard API/in-game data before final boss page"
+    },
+    {
+      "id": "lady-hatecoil",
+      "name": "Lady Hatecoil",
+      "npc_id": 91789,
+      "order": 2,
+      "type": "Humanoid",
+      "classification": "Elite",
+      "map_pin": { "x": 45.9, "y": 50.0, "source_status": "wowhead_candidate" },
+      "health_by_difficulty": {
+        "normal": 38927471,
+        "heroic": 63257112,
+        "mythic_dungeon": 82234248
+      },
+      "summary_candidate": "Naga sea witch encounter using water, sand dunes, lightning and shield/unlock context from Hatecoil Arcanists.",
+      "role_notes_candidate": {
+        "tank": "Use sand dunes for Static Nova and pick up Saltsea Globules during Beckon Storm.",
+        "healer": "Use sand dunes for Static Nova and manage movement around Focused Lightning; handle Curse of the Witch carefully.",
+        "dps": "Use sand dunes for Static Nova; move Focused Lightning away from dunes and kill globules."
+      },
+      "key_mechanics_candidate": [
+        "Static Nova",
+        "Focused Lightning",
+        "Excess Lightning",
+        "Beckon Storm",
+        "Curse of the Witch",
+        "Monsoon",
+        "Crackling Thunder"
+      ],
+      "unlock_notes_candidate": "Arcane Shielding from nearby Hatecoil Arcanists must be handled before the boss is vulnerable. Source comments conflict on exact count, so this needs verification.",
+      "source_files": {
+        "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91789-lady-hatecoil-extracted.json",
+        "drops_compact_csv": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91789-lady-hatecoil-drops-compact.csv"
+      },
+      "data_quality": "candidate; verify against Blizzard API/in-game data before final boss page"
+    },
+    {
+      "id": "serpentrix",
+      "name": "Serpentrix",
+      "npc_id": 91808,
+      "order": 3,
+      "type": "Beast",
+      "classification": "Elite",
+      "map_pin": { "x": 56.3, "y": 35.0, "source_status": "wowhead_candidate" },
+      "health_by_difficulty": {
+        "normal": 38927471,
+        "heroic": 62561980,
+        "mythic_dungeon": 81330576
+      },
+      "summary_candidate": "Two-phase hydra/beast encounter around sinkholes; boss submerges at 66% and 33%, reappears elsewhere and summons Hydra Spawns.",
+      "role_notes_candidate": {
+        "tank": "Stay downwind during Violent Winds, avoid Poison Spit and interrupt Rampage after Submerge.",
+        "healer": "Keep moving from Toxic Wound/Toxic Puddle and watch group damage from missed interrupts/adds.",
+        "dps": "Prioritize Hydra Spawns, interrupt dangerous casts and avoid ground effects."
+      },
+      "key_mechanics_candidate": [
+        "Poison Spit",
+        "Toxic Wound",
+        "Toxic Puddle",
+        "Rampage",
+        "Submerge",
+        "Blazing Hydra Spawn",
+        "Blazing Nova",
+        "Arcane Hydra Spawn",
+        "Arcane Blast"
+      ],
+      "route_notes_candidate": "Clear more surrounding trash than seems necessary; pulling extra trash during the boss can cause a wipe. Comments suggest doing Serpentrix before Hatecoil to avoid winds/seagulls, but route value needs verification.",
+      "source_files": {
+        "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91808-serpentrix-extracted.json",
+        "drops_compact_csv": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91808-serpentrix-drops-compact.csv"
+      },
+      "data_quality": "candidate; verify against Blizzard API/in-game data before final boss page"
+    },
+    {
+      "id": "king-deepbeard",
+      "name": "King Deepbeard",
+      "npc_id": 91797,
+      "order": 4,
+      "type": "Humanoid",
+      "classification": "Elite",
+      "map_pin": { "x": 68.2, "y": 51.2, "source_status": "wowhead_candidate" },
+      "health_by_difficulty": {
+        "normal": 41151900,
+        "heroic": 66871808,
+        "mythic_dungeon": 86933344
+      },
+      "summary_candidate": "Single-target fight with avoidable abilities and potential spiky party-wide damage.",
+      "role_notes_candidate": {
+        "tank": "Avoid Ground Slam impact; move for Call the Seas and Aftershock/Quake interactions.",
+        "healer": "Avoid Call the Seas and Aftershock; prepare for Gaseous Bubbles / Gaseous Explosion mistakes.",
+        "dps": "Avoid Call the Seas and Aftershock; handle Gaseous Bubbles correctly."
+      },
+      "key_mechanics_candidate": [
+        "Call the Seas",
+        "Gaseous Bubbles",
+        "Gaseous Explosion",
+        "Ground Slam",
+        "Quake",
+        "Aftershock"
+      ],
+      "source_files": {
+        "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91797-king-deepbeard-extracted.json",
+        "drops_compact_csv": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91797-king-deepbeard-drops-compact.csv"
+      },
+      "data_quality": "candidate; verify against Blizzard API/in-game data before final boss page"
+    },
+    {
+      "id": "wrath-of-azshara",
+      "name": "Wrath of Azshara",
+      "npc_id": 96028,
+      "order": 5,
+      "type": "Elemental",
+      "faction": "Elemental",
+      "classification": "Elite",
+      "map_pin": { "x": 57.7, "y": 53.6, "source_status": "wowhead_candidate" },
+      "health_by_difficulty": {
+        "normal": 95399036,
+        "heroic": 325322304,
+        "mythic_dungeon": 422919008
+      },
+      "summary_candidate": "Final boss; single-target encounter with heavy movement and awareness requirements, storm hazards and arcane/frost/nature effects.",
+      "role_notes_candidate": {
+        "tank": "Remain in melee to prevent Raging Storms; dodge Mystic Tornado and Massive Deluge.",
+        "healer": "Dispel Arcane Bomb so players can move out; keep group in range during heavy movement.",
+        "dps": "Avoid Mystic Tornado and Arcane Bomb detonation; stay within healer range; melee should attack from the side."
+      },
+      "key_mechanics_candidate": [
+        "Massive Deluge",
+        "Mystic Tornado",
+        "Arcane Bomb",
+        "Raging Storms",
+        "Crushing Depths",
+        "Heaving Sands",
+        "Elemental Resonance",
+        "Magic Resonance",
+        "Frost Resonance",
+        "Cry of Wrath",
+        "Violent Winds",
+        "Lightning Strike",
+        "Tidal Wave"
+      ],
+      "unlock_notes_candidate": "All four other bosses must be defeated first. After the protective dome dissipates, the four Naga summoners around Wrath of Azshara must be defeated before engaging the boss directly.",
+      "source_files": {
+        "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-96028-wrath-of-azshara-extracted.json",
+        "drops_compact_csv": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-96028-wrath-of-azshara-drops-compact.csv"
+      },
+      "data_quality": "candidate; verify against Blizzard API/in-game data before final boss page"
+    }
+  ],
+  "data_quality_notes": [
+    "Boss order is the working source-discovery order and should be confirmed against in-game journal/API before final entity pages.",
+    "Map pins and mechanics are candidate values extracted from user-pasted Wowhead pages.",
+    "Drops remain candidate-level and are stored separately in boss-loot-candidate.generated.json."
+  ]
+}
