@@ -281,7 +281,7 @@ Minimum useful data to add:
 entities/items/perfect-deviate-scale.md
 entities/recipes/<recipe-that-uses-perfect-deviate-scale>.md
 generated/indexes/item-to-recipes.json
-enerated/indexes/item-to-sources.json
+generated/indexes/item-to-sources.json
 entities/markets/perfect-deviate-scale.md    # optional once AH data exists
 entities/routes/wailing-caverns-deviate-materials.md    # optional once route data exists
 ```
