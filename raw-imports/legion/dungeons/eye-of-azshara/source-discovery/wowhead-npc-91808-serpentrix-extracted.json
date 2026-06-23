@@ -1,0 +1,267 @@
+{
+  "source_type": "wowhead_npc_page_pasted_html_extracted",
+  "source_uploaded_file": "Pasted text(30).txt",
+  "extraction_scope": "raw discovery; not normalized; full HTML intentionally not committed",
+  "npc": {
+    "id": 91808,
+    "name": "Serpentrix",
+    "classification": "Elite",
+    "type": "Beast",
+    "react": [
+      "Alliance",
+      "Horde"
+    ],
+    "money_worth_raw": "4g 85s 87c",
+    "added_in_patch": "7.0.3",
+    "health": {
+      "normal": "38,927,471",
+      "heroic": "62,561,980",
+      "mythic_dungeon": "81,330,576"
+    },
+    "display_id": 65110,
+    "map": {
+      "zone_id": 8040,
+      "zone_name": "Eye of Azshara",
+      "coords": [
+        56.3,
+        35.0
+      ]
+    }
+  },
+  "dungeon": {
+    "id": 8040,
+    "name": "Eye of Azshara",
+    "expansion": "Legion"
+  },
+  "article_summary": {
+    "source_text_summary": "Eye of Azshara Guide Warlord Parjesh Lady Hatecoil Serpentrix King Deepbeard Wrath of Azshara The naga camped at the Eye of Azshara keep a healthy distance from its northern reaches. An ancient scaled beast makes its home in the shallows there, occasionally bursting forth with one if its many snake-like necks to devour nearby prey. There is a great deal of trash in the sinkhole-riddled shore where Serpentrix is found. Players should clear more trash than seems necessary, as during the fight the boss will Submerge and pop back out of one of the nine sinkholes. Pulling extra trash during the boss fight can cause a wipe. The Serpentrix encounter is a two-phase fight that cycles between a single target and multiple, but spread out, targets. Players must prioritize killing the additional targets during the second phase while also dodging frequent environmental effects. Details on how to defeat this boss and related trash in the Eye of Azshara Strategy Guide .",
+    "curated_notes": [
+      "Serpentrix is found in the northern shallows of Eye of Azshara.",
+      "The area contains a lot of trash around sinkholes; clearing extra trash before pull matters because the boss submerges and reappears at other sinkholes.",
+      "Fight cycles between single target and multiple spread-out targets.",
+      "At 66% and 33% health, Serpentrix submerges/re-emerges and summons hydra spawns.",
+      "Additional targets should be prioritized; players must dodge frequent environmental effects."
+    ]
+  },
+  "tabs_found": {
+    "drops": {
+      "label": "Drops",
+      "count": 126
+    },
+    "drop-currency": {
+      "label": "Currencies",
+      "count": 4
+    },
+    "skinning": {
+      "label": "Skinning",
+      "count": 6
+    },
+    "abilities": {
+      "label": "Abilities",
+      "count": 8
+    },
+    "sounds": {
+      "label": "Sounds",
+      "count": 9
+    },
+    "guides": {
+      "label": "Guides",
+      "count": 2
+    },
+    "news": {
+      "label": "News",
+      "count": 2
+    },
+    "comments": {
+      "label": "Comments",
+      "count": 8
+    },
+    "screenshots": {
+      "label": "Screenshots",
+      "count": 2
+    },
+    "videos": {
+      "label": "Videos",
+      "count": 2
+    }
+  },
+  "drop_table": {
+    "row_count": 126,
+    "mode_counts_from_page": {
+      "Normal": 111,
+      "Heroic": 116,
+      "M": 78,
+      "TW": 14
+    },
+    "gear_like_rows_simple_filter": 73,
+    "compact_csv_path": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91808-serpentrix-drops-compact.csv",
+    "normalization_warning": "Rows include boss drops plus possible global, zone, timewalking, currency/material/skinning/legacy/seasonal items. Do not treat all rows as clean boss gear drops until normalized."
+  },
+  "related_entities_from_gatherer": {
+    "npcs": [
+      {
+        "id": 91784,
+        "name": "Warlord Parjesh"
+      },
+      {
+        "id": 91789,
+        "name": "Lady Hatecoil"
+      },
+      {
+        "id": 91808,
+        "name": "Serpentrix"
+      },
+      {
+        "id": 96028,
+        "name": "Wrath of Azshara"
+      },
+      {
+        "id": 108543,
+        "name": "Dread Captain Thedon"
+      },
+      {
+        "id": 108595,
+        "name": "Ghostly Brazier"
+      }
+    ],
+    "quests": [
+      {
+        "id": 42746,
+        "name": "Eye of Azshara: Dread End"
+      }
+    ],
+    "items_from_gatherer_count": 128
+  },
+  "abilities": [
+    {
+      "spell_id": 191847,
+      "name": "Poison Spit",
+      "description": "Inflicts 117986 Nature damage to enemies within 6 yds of the location.",
+      "icon": "ability_creature_poison_02"
+    },
+    {
+      "spell_id": 191848,
+      "name": "Rampage",
+      "description": "If Serpentrix is ever unable to reach an enemy with his melee attack, he enters a Rampage, wildly spitting poison!",
+      "icon": "trade_archaeology_whitehydrafigurine"
+    },
+    {
+      "spell_id": 191855,
+      "name": "Toxic Wound",
+      "description": "Serpentrix causes a Toxic Wound on a random player, causing the player to create a trail of Toxic Puddles.",
+      "icon": "ability_rogue_venomouswounds"
+    },
+    {
+      "spell_id": 191873,
+      "name": "Submerge",
+      "description": "Upon reaching 33% and 66% health Serpentrix Submerges and then Emerges at a distant location, summoning two Hydra Spawns!",
+      "icon": "inv_misc_volatilewater"
+    },
+    {
+      "spell_id": 192003,
+      "name": "Blazing Nova",
+      "description": "Inflicts 60685 Fire damage to enemies within 100 yards of the Hydra Spawn.",
+      "icon": "inv_elemental_primal_fire"
+    },
+    {
+      "spell_id": 192005,
+      "name": "Arcane Blast",
+      "description": "Inflicts 61014 Arcane damage to a random target, granting Arcane Charge to the Hydra Spawn.",
+      "icon": "spell_arcane_blast"
+    },
+    {
+      "spell_id": 192007,
+      "name": "Arcane Charge",
+      "description": "Increases damage dealt by 50 %. This effect stacks.",
+      "icon": "spell_arcane_blast"
+    },
+    {
+      "spell_id": 192050,
+      "name": "Poison Spit",
+      "description": "Spits Poison at a random enemy target. The Poison Spit travels faster or slower depending on the direction of the winds.",
+      "icon": "ability_creature_poison_02"
+    }
+  ],
+  "encounter_notes": {
+    "role_notes": {
+      "damage_dealer": [
+        "Keep moving when Toxic Wound is active to avoid Toxic Puddle damage.",
+        "Stay downwind of Serpentrix during Violent Winds to reduce Poison Spit risk.",
+        "Interrupt Rampage after Submerge at 66% and 33%.",
+        "Focus Hydra Spawns after Serpentrix re-emerges."
+      ],
+      "healer": [
+        "Keep moving during Toxic Wound/Toxic Puddle.",
+        "Stay downwind during Violent Winds.",
+        "Prepare group healing if Rampage is not interrupted quickly."
+      ],
+      "tank": [
+        "Stay downwind during Violent Winds.",
+        "Interrupt Rampage after Submerge at 66% and 33%."
+      ]
+    },
+    "summoned_adds": [
+      {
+        "npc_id": 97259,
+        "name": "Blazing Hydra Spawn",
+        "important_ability": "Blazing Nova",
+        "note": "Interrupt/focus to prevent heavy group damage."
+      },
+      {
+        "npc_id": 97260,
+        "name": "Arcane Hydra Spawn",
+        "important_ability": "Arcane Blast / Arcane Charge",
+        "note": "Heroic+ add; Arcane Charge stacks damage."
+      }
+    ]
+  },
+  "comment_notes": [
+    {
+      "comment_id": 2327472,
+      "user": "Cielos",
+      "date": "2016-05-01T03:02:35-05:00",
+      "rating": 25,
+      "note": "Do yourself a favor and just pull the trash surrounding this boss. Also, focus the flame heads when they're up. They do a Fire Nova effect which will wipe your raid if too many go uninterrupted."
+    },
+    {
+      "comment_id": 2395698,
+      "user": "TharThin",
+      "date": "2016-09-10T11:57:00-05:00",
+      "rating": 4,
+      "note": "do this boss before hatecoil, to have no winds nor seagulls"
+    },
+    {
+      "comment_id": 2405703,
+      "user": "NessieMo",
+      "date": "2016-09-17T14:58:49-05:00",
+      "rating": 1,
+      "note": "Good news - following a [url=https://worldofwarcraft.com/en-us/news/20252902/hotfixes-september-16]hotfix[/url] on 16th September 2016, you can now click on the [npc=108595] to summon [npc=108543] for the quest [quest=42746] even after you've killed [npc=91808]. The coordinates for the brazier are 26.0 31.6, and clicking it will summon a ship with several waves of mobs, after which the [npc=108543] will appear, for a thankfully quick and simple tank and spank. Note that although the quest reward offered to me by the world quest [quest=42746] was the mythic version of [item=137363], this quest was successfully completed in an LFR group."
+    },
+    {
+      "comment_id": 2409515,
+      "user": "Syrlin",
+      "date": "2016-09-20T18:34:27-05:00",
+      "rating": 15,
+      "note": "There are a lot of groups wiping on their first attempt of this boss so here some tips: Pick off the trash around the boss, one by one. Most importantly , there are three [url=http://www.wowhead.com/npc=91792/stormwake-hydra] Stormwake Hydras [/url] patrolling the area. There are two in close vicinity of the boss and one that patrols a bit further back but should be taken down as well as it can tread close to the boss also. Besides those, there are the large crab mobs and the little groups of little mobs scurrying around. The area around Serpentrix should be cleared of all of those before engaging the boss. During the encounter, watch the ground for ground effects . At 66% and 33%, Serpentrix will burrow underground and resurface at one of the other pools. This is unavoidable. The most important thing is that when he resurfaces, he will start channeling [url=http://www.wowh"
+    },
+    {
+      "comment_id": 2420410,
+      "user": "1533006",
+      "date": "2016-10-02T21:11:56-05:00",
+      "rating": 3,
+      "note": "I have to play on the lowest graphics settings due to my computer, and I struggle to see the Poison Spit from Serpentix. Can anyone describe what it looks like or post a screenshot?"
+    },
+    {
+      "comment_id": 5275110,
+      "user": "Pronqueta",
+      "date": "2021-11-03T14:00:04-05:00",
+      "rating": 8,
+      "note": "Since patch 9.1.5, the \"Toxic Puddle\" debuff never drops. Not after the fight, not after exiting the dungeon. I have to kill myself to drop the debuff. I have reported the bug."
+    }
+  ],
+  "missing_after_this_extract": [
+    "Need normalize which 126 rows are actual boss loot versus global/zone/Timewalking/skinning/material noise.",
+    "Need exact item-level scaling model from Blizzard API and/or in-game observations.",
+    "Need compare against other boss pages after all five bosses are extracted."
+  ]
+}
