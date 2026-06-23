@@ -1,0 +1,70 @@
+{
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-23",
+  "status": "generated_candidate_index",
+  "source_files": [
+    "normalized/legion/dungeons/eye-of-azshara/dungeon.json",
+    "normalized/legion/dungeons/eye-of-azshara/bosses.json"
+  ],
+  "dungeons": {
+    "eye-of-azshara": {
+      "name": "Eye of Azshara",
+      "expansion": "legion",
+      "zone_id": 8040,
+      "boss_count": 5,
+      "bosses": [
+        {
+          "id": "warlord-parjesh",
+          "name": "Warlord Parjesh",
+          "npc_id": 91784,
+          "order": 1,
+          "map_pin": {
+            "x": 54.6,
+            "y": 68.3
+          }
+        },
+        {
+          "id": "lady-hatecoil",
+          "name": "Lady Hatecoil",
+          "npc_id": 91789,
+          "order": 2,
+          "map_pin": {
+            "x": 45.9,
+            "y": 50.0
+          }
+        },
+        {
+          "id": "serpentrix",
+          "name": "Serpentrix",
+          "npc_id": 91808,
+          "order": 3,
+          "map_pin": {
+            "x": 56.3,
+            "y": 35.0
+          }
+        },
+        {
+          "id": "king-deepbeard",
+          "name": "King Deepbeard",
+          "npc_id": 91797,
+          "order": 4,
+          "map_pin": {
+            "x": 68.2,
+            "y": 51.2
+          }
+        },
+        {
+          "id": "wrath-of-azshara",
+          "name": "Wrath of Azshara",
+          "npc_id": 96028,
+          "order": 5,
+          "map_pin": {
+            "x": 57.7,
+            "y": 53.6
+          }
+        }
+      ],
+      "data_quality": "candidate; boss order/map pins should be verified against Blizzard API or in-game journal before final entity pages"
+    }
+  }
+}
