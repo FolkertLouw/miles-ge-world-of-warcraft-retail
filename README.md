@@ -140,6 +140,34 @@ generated/indexes/item-to-source-candidates.json
 generated/indexes/entity-page-index.json
 ```
 
+### Candidate item page scaffolds
+
+Use the candidate item page scaffold generator after item-source candidate indexes are generated:
+
+```bash
+node scripts/generate-item-page-scaffolds.js
+```
+
+To scaffold item pages for one dungeon only:
+
+```bash
+node scripts/generate-item-page-scaffolds.js --dungeon eye-of-azshara
+```
+
+Preview without writing files:
+
+```bash
+node scripts/generate-item-page-scaffolds.js --dry-run
+```
+
+This creates draft item pages under:
+
+```text
+entities/items/candidates/
+```
+
+These pages must remain marked as `item_candidate_unverified` until item stats and loot sources are confirmed against Blizzard API data, in-game loot journal data or logged loot observations.
+
 ### General lookup order
 
 1. Search for an exact entity page under [`entities/`](entities/).
@@ -253,7 +281,7 @@ Minimum useful data to add:
 entities/items/perfect-deviate-scale.md
 entities/recipes/<recipe-that-uses-perfect-deviate-scale>.md
 generated/indexes/item-to-recipes.json
-generated/indexes/item-to-sources.json
+enerated/indexes/item-to-sources.json
 entities/markets/perfect-deviate-scale.md    # optional once AH data exists
 entities/routes/wailing-caverns-deviate-materials.md    # optional once route data exists
 ```
