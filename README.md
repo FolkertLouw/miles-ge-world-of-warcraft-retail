@@ -117,6 +117,29 @@ Use these rules when answering player questions from the repo. The goal is not o
 - Use dataset-specific flow docs, such as [`docs/agent-usage/eye-of-azshara-query-flow.md`](docs/agent-usage/eye-of-azshara-query-flow.md), when the question targets an imported dungeon or content set.
 - Prefer generated indexes first, then normalized data, then entity pages, and only then raw imports as evidence.
 
+### Generated index rebuild
+
+Use the dependency-free generator after normalized dungeon data changes:
+
+```bash
+node scripts/generate-dungeon-indexes.js
+```
+
+To regenerate a single dungeon dataset:
+
+```bash
+node scripts/generate-dungeon-indexes.js legion/dungeons/eye-of-azshara
+```
+
+This rewrites:
+
+```text
+generated/indexes/dungeon-to-bosses.json
+generated/indexes/boss-to-loot-candidates.json
+generated/indexes/item-to-source-candidates.json
+generated/indexes/entity-page-index.json
+```
+
 ### General lookup order
 
 1. Search for an exact entity page under [`entities/`](entities/).
