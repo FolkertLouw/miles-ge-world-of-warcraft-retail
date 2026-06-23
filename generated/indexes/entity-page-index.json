@@ -1,0 +1,103 @@
+{
+  "schema_version": "0.1.0",
+  "status": "generated_candidate",
+  "generated_from": [
+    "normalized/legion/dungeons/eye-of-azshara/dungeon.json",
+    "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+    "generated/indexes/dungeon-to-bosses.json",
+    "generated/indexes/boss-to-loot-candidates.json",
+    "generated/indexes/item-to-source-candidates.json"
+  ],
+  "notes": [
+    "This index is a navigation layer for MILES and other agents.",
+    "It points to entity pages and supporting normalized/generated data without duplicating full loot rows.",
+    "Loot references are candidate/unverified until confirmed against Blizzard API or in-game data."
+  ],
+  "dungeons": {
+    "eye-of-azshara": {
+      "id": "eye-of-azshara",
+      "name": "Eye of Azshara",
+      "expansion": "Legion",
+      "wowhead_zone_id": 8040,
+      "entity_page": "entities/instances/dungeons/legion/eye-of-azshara.md",
+      "normalized_data": "normalized/legion/dungeons/eye-of-azshara/dungeon.json",
+      "bosses_data": "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+      "boss_ids": [
+        "warlord-parjesh",
+        "lady-hatecoil",
+        "serpentrix",
+        "king-deepbeard",
+        "wrath-of-azshara"
+      ],
+      "generated_indexes": {
+        "dungeon_to_bosses": "generated/indexes/dungeon-to-bosses.json",
+        "boss_to_loot_candidates": "generated/indexes/boss-to-loot-candidates.json",
+        "item_to_source_candidates": "generated/indexes/item-to-source-candidates.json"
+      },
+      "source_discovery": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/discovery-summary.md"
+    }
+  },
+  "bosses": {
+    "warlord-parjesh": {
+      "id": "warlord-parjesh",
+      "name": "Warlord Parjesh",
+      "npc_id": 91784,
+      "dungeon_id": "eye-of-azshara",
+      "entity_page": "entities/npcs/bosses/legion/eye-of-azshara/warlord-parjesh.md",
+      "normalized_source": "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+      "loot_candidate_index": "generated/indexes/boss-to-loot-candidates.json"
+    },
+    "lady-hatecoil": {
+      "id": "lady-hatecoil",
+      "name": "Lady Hatecoil",
+      "npc_id": 91789,
+      "dungeon_id": "eye-of-azshara",
+      "entity_page": "entities/npcs/bosses/legion/eye-of-azshara/lady-hatecoil.md",
+      "normalized_source": "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+      "loot_candidate_index": "generated/indexes/boss-to-loot-candidates.json"
+    },
+    "serpentrix": {
+      "id": "serpentrix",
+      "name": "Serpentrix",
+      "npc_id": 91808,
+      "dungeon_id": "eye-of-azshara",
+      "entity_page": "entities/npcs/bosses/legion/eye-of-azshara/serpentrix.md",
+      "normalized_source": "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+      "loot_candidate_index": "generated/indexes/boss-to-loot-candidates.json"
+    },
+    "king-deepbeard": {
+      "id": "king-deepbeard",
+      "name": "King Deepbeard",
+      "npc_id": 91797,
+      "dungeon_id": "eye-of-azshara",
+      "entity_page": "entities/npcs/bosses/legion/eye-of-azshara/king-deepbeard.md",
+      "normalized_source": "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+      "loot_candidate_index": "generated/indexes/boss-to-loot-candidates.json"
+    },
+    "wrath-of-azshara": {
+      "id": "wrath-of-azshara",
+      "name": "Wrath of Azshara",
+      "npc_id": 96028,
+      "dungeon_id": "eye-of-azshara",
+      "entity_page": "entities/npcs/bosses/legion/eye-of-azshara/wrath-of-azshara.md",
+      "normalized_source": "normalized/legion/dungeons/eye-of-azshara/bosses.json",
+      "loot_candidate_index": "generated/indexes/boss-to-loot-candidates.json"
+    }
+  },
+  "lookup_by_npc_id": {
+    "91784": "warlord-parjesh",
+    "91789": "lady-hatecoil",
+    "91808": "serpentrix",
+    "91797": "king-deepbeard",
+    "96028": "wrath-of-azshara"
+  },
+  "lookup_by_wowhead_zone_id": {
+    "8040": "eye-of-azshara"
+  },
+  "item_source_context": {
+    "candidate_item_to_source_index": "generated/indexes/item-to-source-candidates.json",
+    "candidate_boss_to_loot_index": "generated/indexes/boss-to-loot-candidates.json",
+    "candidate_status": "unverified",
+    "verification_required_before_final_item_pages": true
+  }
+}
