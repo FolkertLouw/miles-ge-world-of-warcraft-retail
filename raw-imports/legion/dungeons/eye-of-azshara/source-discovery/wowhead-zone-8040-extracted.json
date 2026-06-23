@@ -1,0 +1,361 @@
+{
+  "source": {
+    "type": "user-pasted-wowhead-main-page-html",
+    "file": "Pasted text(26).txt",
+    "extracted_at": "2026-06-23"
+  },
+  "dungeon": {
+    "id": "eye-of-azshara",
+    "name": "Eye of Azshara",
+    "zone_id": 8040,
+    "quick_facts": {
+      "level": "10",
+      "territory": "Contested",
+      "instance_type": "Dungeon",
+      "players": "5",
+      "zone_id": "8040",
+      "patch": "7.0.1",
+      "heroic_mode_available_level": 20,
+      "mythic_mode_available_level": 20,
+      "required_enter_level": 10,
+      "required_queue_level": 10
+    }
+  },
+  "bosses_from_known_eye_of_azshara_order": [
+    {
+      "id": 91784,
+      "name": "Warlord Parjesh"
+    },
+    {
+      "id": 91789,
+      "name": "Lady Hatecoil"
+    },
+    {
+      "id": 91808,
+      "name": "Serpentrix"
+    },
+    {
+      "id": 91797,
+      "name": "King Deepbeard"
+    },
+    {
+      "id": 96028,
+      "name": "Wrath of Azshara"
+    }
+  ],
+  "gatherer_counts": {
+    "1": 5,
+    "3": 56,
+    "5": 5,
+    "6": 44,
+    "7": 2,
+    "10": 11
+  },
+  "listview_counts": {
+    "drops": 43,
+    "npcs": 78,
+    "objects": 18,
+    "quests": 13,
+    "starts-quest": 5,
+    "quest-rewards": 3,
+    "achievements": 11,
+    "guides": 8,
+    "news": 13,
+    "comments": null,
+    "screenshots": null,
+    "videos": null,
+    "videos-english": null
+  },
+  "npcs_from_zone_listview": [
+    {
+      "id": 91781,
+      "name": "Hatecoil Warrior",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91782,
+      "name": "Hatecoil Crusher",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91783,
+      "name": "Hatecoil Stormweaver",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91784,
+      "name": "Warlord Parjesh",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91785,
+      "name": "Wandering Shellback",
+      "classification": 1,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91787,
+      "name": "Cove Seagull",
+      "classification": 0,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91788,
+      "name": "Shellmaw",
+      "classification": 1,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91789,
+      "name": "Lady Hatecoil",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91792,
+      "name": "Stormwake Hydra",
+      "classification": 1,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91793,
+      "name": "Seaspray Crab",
+      "classification": 0,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91794,
+      "name": "Saltscale Lurker",
+      "classification": 1,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91796,
+      "name": "Skrog Wavecrasher",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91797,
+      "name": "King Deepbeard",
+      "classification": 1,
+      "type": 1,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 91808,
+      "name": "Serpentrix",
+      "classification": 1,
+      "type": 7,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 95920,
+      "name": "Animated Storm",
+      "classification": 1,
+      "type": 4,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    },
+    {
+      "id": 96028,
+      "name": "Wrath of Azshara",
+      "classification": 1,
+      "type": 4,
+      "react": [
+        -1,
+        -1
+      ],
+      "location": [
+        8040
+      ]
+    }
+  ],
+  "loot_from_zone_drops_listview": [
+    {
+      "item_id": 134406,
+      "name": "Mainsail Cloak",
+      "displayName": "Mainsail Cloak",
+      "quality": 3,
+      "classs": 4,
+      "subclass": -6,
+      "slot": 16,
+      "level": 50,
+      "reqlevel": 40,
+      "source": [2],
+      "sourcemore": [{"z": 8040}],
+      "modes": {"mode": [1, 2, 8, 23, 24]}
+    },
+    {
+      "item_id": 134417,
+      "name": "Slippers of Martyrdom",
+      "displayName": "Slippers of Martyrdom",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 1,
+      "slot": 8,
+      "level": 50,
+      "reqlevel": 40,
+      "source": [2],
+      "sourcemore": [{"z": 8040}],
+      "modes": {"mode": [1, 2, 8, 23, 24]}
+    },
+    {
+      "item_id": 134428,
+      "name": "Rising Ocean Legwraps",
+      "displayName": "Rising Ocean Legwraps",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 1,
+      "slot": 7,
+      "level": 50,
+      "reqlevel": 40,
+      "source": [2],
+      "sourcemore": [{"z": 8040}],
+      "modes": {"mode": [1, 2, 8, 23, 24]}
+    }
+  ],
+  "quests_from_zone_listview_count": 13,
+  "achievements_from_zone_listview_count": 11,
+  "spells_from_gatherer_count": 44,
+  "curated_source_notes_from_page": {
+    "entrance": {
+      "zone": "Azsuna",
+      "area": "Hatecoil Warcamp / east of Nar'thalas Academy",
+      "coords_observed": ["61.7, 41.1", "61.2, 41.1"],
+      "closest_flight_point_seen_in_comment": "Felblaze Ingress / Adept Sunwing"
+    },
+    "boss_order_observed": [
+      {"order": 1, "id": 91784, "name": "Warlord Parjesh"},
+      {"order": 2, "id": 91789, "name": "Lady Hatecoil"},
+      {"order": 3, "id": 91808, "name": "Serpentrix"},
+      {"order": 4, "id": 91797, "name": "King Deepbeard"},
+      {"order": 5, "id": 96028, "name": "Wrath of Azshara"}
+    ],
+    "notable_optional_or_bonus_notes": [
+      "Treasure/chest spawn notes exist in comments; coordinates mentioned include 50,17; 81,53; 42,34; 35,41; 31,53; 42,38; 34,60; 80,36; and 81.2,53.8.",
+      "Cove Seagull is noted by users as a dangerous/annoying pull risk; route note says pulling Serpentrix before Lady Hatecoil can avoid some ground-level seagull issues after Hatecoil.",
+      "Shelter buff is mentioned on route from Serpentrix to King Deepbeard."
+    ],
+    "notable_quest_notes": [
+      "Eye of Azshara: Wrath of Azshara is tied to Pillars of Creation / Tidestone of Golganneth context.",
+      "Eye of Azshara: Put a Cork in It is noted as an alchemist quest.",
+      "Eye of Azshara: Essence of Balance and Eye of Azshara: Cleansing the Dreamway are noted as druid quests.",
+      "Eye of Azshara: The Heart of Zin-Azshari is noted as requiring Mythic."
+    ]
+  },
+  "raw_data_quality_notes": [
+    "This is extracted from a Wowhead zone page paste, not directly fetched through an API.",
+    "Loot is currently zone-level from the drops Listview; source_boss attribution may be incomplete or require per-item/per-boss pages.",
+    "NPC list includes bosses and trash but does not yet distinguish route-critical trash from background NPCs.",
+    "Item level scaling model is not present as a formal formula in this source; only item levels/requirements listed in page data.",
+    "Comments contain useful route, entrance, chest, quest and boss-strategy notes but require curation before entity pages.",
+    "Full Wowhead HTML/user comments were not committed to the public repo; this file stores extracted facts, IDs, counts and curated notes only.",
+    "Need per-boss pages or Blizzard API data to confidently assign each drop to the exact boss if zone-level source attribution is insufficient."
+  ]
+}
