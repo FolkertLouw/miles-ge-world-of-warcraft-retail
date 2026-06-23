@@ -1,0 +1,243 @@
+{
+  "schema_version": "0.1.0",
+  "status": "candidate_manifest",
+  "created_at": "2026-06-23",
+  "dungeon": {
+    "id": "eye-of-azshara",
+    "name": "Eye of Azshara",
+    "expansion": "legion",
+    "zone_id": 8040
+  },
+  "purpose": "First normalized candidate layer for Eye of Azshara boss loot. This file intentionally does not claim that all Wowhead boss-page drop rows are real boss-specific loot. It points to the compact source CSVs, defines the classification fields, and records the first-pass rules needed to build a full row-level normalized output.",
+  "important_note": "Do not use this file yet as final boss loot truth. Boss-page drop tables contain a mixture of likely boss drops, zone drops, Timewalking rows, quest/currency/profession rows, event rows, global rows and unknown rows. Unknown values are allowed and should not be invented.",
+  "source_files": [
+    {
+      "boss_id": "warlord-parjesh",
+      "boss_name": "Warlord Parjesh",
+      "boss_npc_id": 91784,
+      "boss_order": 1,
+      "source_type": "wowhead_boss_page_extraction",
+      "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91784-warlord-parjesh-extracted.json",
+      "compact_drop_file": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91784-warlord-parjesh-drops-tiny.json",
+      "drop_rows_reported": 124,
+      "drop_file_status": "partial_tiny_extraction",
+      "normalization_priority": "re-extract_compact_csv_before_final_use",
+      "notes": "The Parjesh drops file was the first extraction and is marked tiny/partial in the discovery summary. It should be regenerated as compact CSV before final row-level normalization."
+    },
+    {
+      "boss_id": "lady-hatecoil",
+      "boss_name": "Lady Hatecoil",
+      "boss_npc_id": 91789,
+      "boss_order": 2,
+      "source_type": "wowhead_boss_page_extraction",
+      "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91789-lady-hatecoil-extracted.json",
+      "compact_drop_file": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91789-lady-hatecoil-drops-compact.csv",
+      "drop_rows_reported": 126,
+      "drop_file_status": "compact_csv_available",
+      "normalization_priority": "classify_rows",
+      "notes": "Boss page and compact CSV are available. Rows still need classification because the table includes non-boss-loot noise."
+    },
+    {
+      "boss_id": "serpentrix",
+      "boss_name": "Serpentrix",
+      "boss_npc_id": 91808,
+      "boss_order": 3,
+      "source_type": "wowhead_boss_page_extraction",
+      "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91808-serpentrix-extracted.json",
+      "compact_drop_file": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91808-serpentrix-drops-compact.csv",
+      "drop_rows_reported": 126,
+      "drop_file_status": "compact_csv_available",
+      "normalization_priority": "classify_rows",
+      "notes": "Boss page and compact CSV are available. Includes drops, currencies and skinning/source noise that must be separated."
+    },
+    {
+      "boss_id": "king-deepbeard",
+      "boss_name": "King Deepbeard",
+      "boss_npc_id": 91797,
+      "boss_order": 4,
+      "source_type": "wowhead_boss_page_extraction",
+      "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91797-king-deepbeard-extracted.json",
+      "compact_drop_file": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91797-king-deepbeard-drops-compact.csv",
+      "drop_rows_reported": 120,
+      "drop_file_status": "compact_csv_available",
+      "normalization_priority": "classify_rows",
+      "notes": "Boss page and compact CSV are available. Includes zone/global/event/noisy rows that must be separated."
+    },
+    {
+      "boss_id": "wrath-of-azshara",
+      "boss_name": "Wrath of Azshara",
+      "boss_npc_id": 96028,
+      "boss_order": 5,
+      "source_type": "wowhead_boss_page_extraction",
+      "extracted_json": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-96028-wrath-of-azshara-extracted.json",
+      "compact_drop_file": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-96028-wrath-of-azshara-drops-compact.csv",
+      "drop_rows_reported": 136,
+      "drop_file_status": "compact_csv_available",
+      "normalization_priority": "classify_rows",
+      "notes": "Boss page and compact CSV are available. Final boss has additional objective/currency noise and unlock context."
+    }
+  ],
+  "candidate_row_schema": {
+    "dungeon_id": "eye-of-azshara",
+    "boss_id": "string",
+    "boss_name": "string",
+    "boss_npc_id": "number",
+    "boss_order": "number",
+    "item_id": "number|null",
+    "item_name": "string",
+    "quality": "number|null",
+    "wowhead_item_class": "number|null",
+    "wowhead_item_subclass": "number|null",
+    "wowhead_inventory_slot": "number|null",
+    "item_level": "number|null",
+    "required_level": "number|null",
+    "modes": "number[]|string[]",
+    "count": "number|null",
+    "out_of": "number|null",
+    "source_raw": "string|null",
+    "drop_classification": "boss_drop|zone_drop|quest_item|currency|timewalking|profession_material|holiday_or_event|global_drop|relic_or_artifact_related|consumable_or_utility|unknown",
+    "classification_confidence": "high|medium|low",
+    "is_candidate_gear": "boolean",
+    "is_candidate_upgrade_relevant": "boolean|null",
+    "needs_blizzard_api_check": "boolean",
+    "needs_item_page_check": "boolean",
+    "notes": "string"
+  },
+  "first_pass_classification_rules": [
+    {
+      "rule_id": "gear-class-4",
+      "description": "Rows with Wowhead item class 4 are armor/accessory gear candidates. These may still be zone drops or Timewalking rows and are not automatically boss-specific.",
+      "condition": "wowhead_item_class == 4",
+      "set": {
+        "is_candidate_gear": true,
+        "classification_confidence": "low",
+        "needs_blizzard_api_check": true,
+        "needs_item_page_check": true
+      }
+    },
+    {
+      "rule_id": "artifact-relic-class-3",
+      "description": "Rows with Wowhead item class 3 in Legion dungeon data are often relic/artifact related and should be separated from normal gear upgrade logic until artifact relevance is handled.",
+      "condition": "wowhead_item_class == 3",
+      "set": {
+        "drop_classification": "relic_or_artifact_related",
+        "classification_confidence": "medium",
+        "needs_blizzard_api_check": true
+      }
+    },
+    {
+      "rule_id": "quest-class-12",
+      "description": "Rows with Wowhead item class 12 in the current extracts appear to include quest-like/objective/currency-style rows. Do not treat as gear drops.",
+      "condition": "wowhead_item_class == 12",
+      "set": {
+        "drop_classification": "quest_item",
+        "classification_confidence": "low",
+        "is_candidate_gear": false,
+        "needs_blizzard_api_check": true
+      }
+    },
+    {
+      "rule_id": "profession-recipe-class-9",
+      "description": "Rows with Wowhead item class 9 are recipe/profession related and should not be counted as boss gear until separately verified.",
+      "condition": "wowhead_item_class == 9",
+      "set": {
+        "drop_classification": "profession_material",
+        "classification_confidence": "medium",
+        "is_candidate_gear": false
+      }
+    },
+    {
+      "rule_id": "misc-class-15",
+      "description": "Rows with Wowhead item class 15 are miscellaneous and may include event boxes, profession materials, Remix/Timewalking artifacts or other non-loot-system rows.",
+      "condition": "wowhead_item_class == 15",
+      "set": {
+        "drop_classification": "unknown",
+        "classification_confidence": "low",
+        "is_candidate_gear": false,
+        "needs_blizzard_api_check": true
+      }
+    },
+    {
+      "rule_id": "timeless-prefix",
+      "description": "Rows with names starting with Timeless are likely Timewalking/temporary utility rows and should not be treated as standard Legion boss gear.",
+      "condition": "item_name startsWith 'Timeless'",
+      "set": {
+        "drop_classification": "timewalking",
+        "classification_confidence": "medium",
+        "is_candidate_gear": false
+      }
+    },
+    {
+      "rule_id": "memento-prefix",
+      "description": "Rows with names starting with Memento of Epoch are likely event/Timewalking/Remix-style rows and should be separated from standard boss loot.",
+      "condition": "item_name startsWith 'Memento of Epoch'",
+      "set": {
+        "drop_classification": "timewalking",
+        "classification_confidence": "medium",
+        "is_candidate_gear": false
+      }
+    },
+    {
+      "rule_id": "artifactium-name",
+      "description": "Rows containing Artifactium should be treated as event/Timewalking/Remix-style currency/material until confirmed.",
+      "condition": "item_name contains 'Artifactium'",
+      "set": {
+        "drop_classification": "timewalking",
+        "classification_confidence": "medium",
+        "is_candidate_gear": false
+      }
+    },
+    {
+      "rule_id": "rare-epic-dungeon-ilvl-gear-candidate",
+      "description": "Rare/epic equipment rows with normal Legion dungeon item levels are possible gear candidates, but still need source verification to determine boss_drop vs zone_drop.",
+      "condition": "wowhead_item_class == 4 && quality >= 2 && item_level >= 50",
+      "set": {
+        "drop_classification": "unknown",
+        "classification_confidence": "low",
+        "is_candidate_gear": true,
+        "is_candidate_upgrade_relevant": true,
+        "needs_blizzard_api_check": true,
+        "needs_item_page_check": true
+      }
+    }
+  ],
+  "classification_notes": {
+    "source_raw": "The compact CSVs preserve a source-like numeric field from the Wowhead extraction. This field should be decoded in the next pass before making strong boss_drop/zone_drop claims.",
+    "boss_drop_vs_zone_drop": "Rows on a boss page can still show Zone Drop in the original Wowhead table. Candidate rows should not be recommended as boss-specific until the source text or Blizzard API confirms it.",
+    "difficulty_modes": {
+      "1": "Normal or normal-like context in current extract",
+      "2": "Heroic or heroic-like context in current extract",
+      "8": "Mythic+ or derived current-context value in Wowhead table",
+      "23": "Mythic Dungeon or related current-context value in Wowhead table",
+      "24": "Timewalking or timewalking encounter journal context in current extract"
+    },
+    "mode_mapping_status": "provisional; verify against Wowhead/Blizzard API before final use"
+  },
+  "next_actions": [
+    {
+      "id": "regenerate-parjesh-compact-csv",
+      "description": "Create a compact CSV for Warlord Parjesh matching the other four bosses, because the current Parjesh drops file is an early tiny JSON extraction.",
+      "priority": "high"
+    },
+    {
+      "id": "write-row-normalizer",
+      "description": "Create a small script or Lovable generator that reads the compact CSV files and writes a full row-level boss-loot-candidate.generated.json using the candidate_row_schema and first_pass_classification_rules.",
+      "priority": "high"
+    },
+    {
+      "id": "decode-source-raw",
+      "description": "Decode or preserve the Wowhead source_raw values so we can distinguish boss drops, zone drops and other source types more reliably.",
+      "priority": "high"
+    },
+    {
+      "id": "blizzard-api-check",
+      "description": "Compare candidate boss loot against Blizzard Game Data API / encounter journal / item metadata where available.",
+      "priority": "high"
+    },
+    {
+      "id": "group-upgrade-layer",
+      "description": "Only after boss loot is cleaner, compare gear candidates against known group character snapshots to answer which dungeon/boss is most worth doing.",
+      "priority": "later"
+    }
+  ]
+}
