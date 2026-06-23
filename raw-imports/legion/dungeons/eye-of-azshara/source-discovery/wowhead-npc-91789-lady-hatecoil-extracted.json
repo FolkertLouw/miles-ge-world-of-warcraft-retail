@@ -1,0 +1,180 @@
+{
+  "source_type": "wowhead_npc_page_extracted",
+  "source_upload": "Pasted text(28).txt",
+  "extraction_date": "2026-06-23",
+  "boss": {
+    "npc_id": 91789,
+    "name": "Lady Hatecoil",
+    "slug": "lady-hatecoil",
+    "dungeon": "Eye of Azshara",
+    "zone_id": 8040,
+    "map_coordinates": [
+      45.9,
+      50.0
+    ],
+    "boss_order_expected": 2
+  },
+  "quick_facts": {
+    "classification": "Elite",
+    "react": [
+      "Alliance",
+      "Horde"
+    ],
+    "type": "Humanoid",
+    "worth_raw": "5g 64s 65c",
+    "added_patch": "7.0.3 Legion",
+    "health": {
+      "normal": 38927471,
+      "heroic": 63257112,
+      "mythic_dungeon": 82234248
+    }
+  },
+  "article_summary": {
+    "lore": "Naga sea witch from Hatecoil nobility, favored by Queen Azshara; uses waves and skies against enemies.",
+    "unlock_or_shielding": "Protected by Arcane Shielding from Hatecoil Arcanists on the path to her beach.",
+    "encounter_shape": "Primarily single-target, moderate movement/awareness, shallow tide pool with Sand Dunes used as terrain mechanic."
+  },
+  "related_npcs_seen": [
+    {
+      "id": 91784,
+      "slug": "warlord-parjesh",
+      "name": "Warlord Parjesh"
+    },
+    {
+      "id": 91789,
+      "slug": "lady-hatecoil",
+      "name": "Lady Hatecoil"
+    },
+    {
+      "id": 91808,
+      "slug": "serpentrix",
+      "name": "Serpentrix"
+    },
+    {
+      "id": 91797,
+      "slug": "king-deepbeard",
+      "name": "King Deepbeard"
+    },
+    {
+      "id": 96028,
+      "slug": "wrath-of-azshara",
+      "name": "Wrath of Azshara"
+    },
+    {
+      "id": 98293,
+      "slug": "saltsea-globule",
+      "name": "Saltsea Globule"
+    }
+  ],
+  "encounter_journal": {
+    "overview": "Lady Hatecoil uses storms and lightning; Static Nova punishes players touching water and Focused Lightning can blow away sand dunes.",
+    "role_notes": {
+      "dps": [
+        "Move onto a sand dune to avoid Static Nova.",
+        "Move away from sand dunes when Focused Lightning strikes to prevent it from destroying them."
+      ],
+      "healer": [
+        "Move onto a sand dune to avoid Static Nova.",
+        "Move away from sand dunes when Focused Lightning strikes to prevent it from destroying them."
+      ],
+      "tank": [
+        "Move onto a sand dune to avoid Static Nova.",
+        "Move away from sand dunes when Focused Lightning strikes to prevent it from destroying them.",
+        "Gain threat on loose Saltsea Globules when Lady Hatecoil casts Beckon Storm."
+      ]
+    },
+    "abilities": [
+      {
+        "spell_id": 193597,
+        "name": "Static Nova",
+        "notes": "Electrifies the surrounding water. Players touching water take Nature damage and may be stunned. Sand dunes are the intended safe area."
+      },
+      {
+        "spell_id": 193611,
+        "name": "Focused Lightning",
+        "notes": "Targets all players with a focused lightning strike. Can destroy nearby sand dunes."
+      },
+      {
+        "spell_id": 193624,
+        "name": "Excess Lightning",
+        "notes": "Released by players struck by Focused Lightning; deals nearby Nature damage and can destroy sand dunes."
+      },
+      {
+        "spell_id": 193682,
+        "name": "Beckon Storm",
+        "notes": "Summons Saltsea Globules."
+      },
+      {
+        "spell_id": 193636,
+        "name": "Watery Splash",
+        "notes": "Saltsea Globule death effect; deals Frost damage within 5 yards and slows affected players."
+      },
+      {
+        "spell_id": 193698,
+        "name": "Curse of the Witch",
+        "notes": "Magic curse; when removed or expired, releases frontal cone Arcane blast, knockback and destroys lesser creatures."
+      },
+      {
+        "spell_id": 196610,
+        "name": "Monsoon",
+        "notes": "Heroic/Mythic/Timewalking flagged in journal; follows nearest targets, knocks players up and can blow away sand dunes."
+      },
+      {
+        "spell_id": 197326,
+        "name": "Crackling Thunder",
+        "notes": "Punishes players who leave the arena; Nature damage and stacking increased damage taken."
+      }
+    ]
+  },
+  "drop_table_summary": {
+    "total_drop_rows": 126,
+    "gear_like_rows_by_simple_filter": 72,
+    "class_counts_raw": {
+      "7": 1,
+      "0": 38,
+      "4": 72,
+      "3": 2,
+      "9": 1,
+      "12": 4,
+      "15": 8
+    },
+    "slot_counts_raw": {
+      "0": 54,
+      "9": 5,
+      "7": 5,
+      "10": 5,
+      "5": 7,
+      "6": 5,
+      "1": 5,
+      "8": 5,
+      "11": 9,
+      "3": 5,
+      "12": 9,
+      "16": 4,
+      "2": 8
+    },
+    "mode_counts_raw": {
+      "1": 118,
+      "2": 120,
+      "23": 107,
+      "8": 14,
+      "24": 15
+    },
+    "note": "Rows are from the boss page listview and still include noise; source/type must be normalized later."
+  },
+  "curated_route_and_mechanics_notes": [
+    "Boss page confirms Lady Hatecoil is in Eye of Azshara with map pin 45.9, 50.0.",
+    "Article text says Lady Hatecoil is protected by Arcane Shielding provided by four Hatecoil Arcanists positioned around the path leading to her beach.",
+    "User comments indicate practical unlock may require killing two or three nearby Hatecoil Arcanists; this conflicts with the article text and should be treated as a route note needing verification.",
+    "Fight is primarily single-target with moderate movement/awareness in a shallow tide pool with Sand Dunes.",
+    "Static Nova safe area should be sand dunes; a user comment notes that nearby rocks do not count as 'land'.",
+    "Drops table includes 126 rows on the boss page; this includes gear-like items plus non-gear/quest/currency/noise and must be normalized before boss-to-upgrade advice."
+  ],
+  "normalization_todo": [
+    "Split boss-specific gear drops from zone drops and noisy rows.",
+    "Resolve numeric mode codes into normal/heroic/mythic/mythic+/timewalking.",
+    "Confirm exact number and NPC IDs of Hatecoil Arcanists required to remove Arcane Shielding.",
+    "Map item IDs to slot/armor/weapon text using item pages or Blizzard API.",
+    "Model item-level scaling separately from stable item identity."
+  ]
+}
