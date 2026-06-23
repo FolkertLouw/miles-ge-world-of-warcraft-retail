@@ -1,0 +1,237 @@
+{
+  "source": {
+    "source_name": "Wowhead NPC page",
+    "source_type": "user_pasted_html",
+    "wowhead_url": "https://www.wowhead.com/npc=91797/king-deepbeard",
+    "uploaded_file": "Pasted text(31).txt",
+    "extraction_note": "Extracted facts/tables only; full HTML not committed."
+  },
+  "boss": {
+    "id": "king-deepbeard",
+    "name": "King Deepbeard",
+    "npc_id": 91797,
+    "dungeon": "Eye of Azshara",
+    "zone_id": 8040,
+    "type": "Humanoid",
+    "classification": "Elite",
+    "added_patch": "7.0.3",
+    "worth_money_copper": 55991,
+    "health": {
+      "normal": 41151900,
+      "heroic": 66871808,
+      "mythic_dungeon": 86933344
+    },
+    "map_coordinates": {
+      "x": 68.2,
+      "y": 51.2
+    },
+    "display_id": 67254
+  },
+  "page_counts": {
+    "drops_total": 120,
+    "gear_like_rows_simple_filter": 72,
+    "abilities_total": 9,
+    "comments_total": 7,
+    "screenshots_total": 1,
+    "videos_total": 1,
+    "currencies_total": 3
+  },
+  "article_summary": {
+    "lore_context": "A behemoth said to stride the ocean floor and tear vessels apart, wearing the prow of a ship as a pauldron/trophy.",
+    "encounter_shape": "Single-target fight with light to moderate movement and possible spiky party-wide damage.",
+    "route_notes": []
+  },
+  "encounter_journal": {
+    "overview": "King Deepbeard uses avoidable abilities. Normally avoid damage, but if affected by Gaseous Bubbles, seek damaging effects to break the bubble before Gaseous Explosion.",
+    "role_notes": {
+      "damage_dealers": [
+        "Avoid Call the Seas.",
+        "Move to avoid Aftershock after Quake."
+      ],
+      "healers": [
+        "Avoid damage during Call the Seas.",
+        "Move to avoid Aftershock after Quake."
+      ],
+      "tanks": [
+        "Avoid Call the Seas.",
+        "Move to avoid Aftershock after Quake.",
+        "Move away from Ground Slam impact."
+      ]
+    }
+  },
+  "abilities": [
+    {
+      "id": 193018,
+      "name": "Gaseous Bubbles",
+      "schools": 16,
+      "modes": [
+        1,
+        2,
+        8,
+        8,
+        23,
+        24
+      ],
+      "description": "The Gaseous Bubble absorbs 99062 damage, but causes a Gaseous Explosion if the bubble is not depleted after 20 sec."
+    },
+    {
+      "id": 193047,
+      "name": "Gaseous Explosion",
+      "schools": 16,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "description": "The erupting Gaseous Bubble inflicts 142366 Frost damage to all nearby enemies."
+    },
+    {
+      "id": 193051,
+      "name": "Call the Seas",
+      "schools": 16,
+      "modes": [
+        1,
+        2,
+        8,
+        8,
+        23,
+        24
+      ],
+      "description": "King Deepbeard calls the seas to his aid! Call the Seas inflicts 2 Frost damage every 0.3 sec."
+    },
+    {
+      "id": 193088,
+      "name": "Ground Slam",
+      "schools": 1,
+      "modes": [
+        23
+      ],
+      "description": "Inflicts 424796 Physical damage to enemies within 15 yards of the impact location, ignoring armor."
+    },
+    {
+      "id": 193093,
+      "name": "Ground Slam",
+      "schools": 1,
+      "modes": [
+        1,
+        2,
+        8,
+        8,
+        23,
+        24
+      ],
+      "description": "Inflicts 424796 Physical damage to enemies within 15 yards of the impact location, ignoring armor."
+    },
+    {
+      "id": 193152,
+      "name": "Quake",
+      "schools": 1,
+      "modes": [
+        1,
+        2,
+        8,
+        8,
+        23,
+        24
+      ],
+      "description": "King Deepbeard causes a Quake that inflicts 20 Physical damage to enemies and their allies within 5 yards. On Mythic difficulty, Quake causes Aftershock after 4 sec."
+    },
+    {
+      "id": 193171,
+      "name": "Aftershock",
+      "schools": 1,
+      "modes": [
+        8,
+        23
+      ],
+      "description": "Inflicts 142366 Physical damage to enemies within 5 yards of the target."
+    },
+    {
+      "id": 197550,
+      "name": "Frenzy",
+      "schools": 64,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "description": "Prince Oceanus goes into a frenzy, increasing his attack speed by 100%."
+    },
+    {
+      "id": 209858,
+      "name": "Necrotic Wound",
+      "schools": 1,
+      "modes": [
+        23
+      ],
+      "description": "Consumes the target with creeping decay, inflicting 854 Physical damage every 2 sec, and reducing healing and absorption received by 2%, for 5 sec. Stacks."
+    }
+  ],
+  "drops_summary": {
+    "total_rows": 120,
+    "gear_like_rows_simple_filter": 72,
+    "mode_row_counts_from_page": {
+      "normal": 112,
+      "heroic": 111,
+      "mythic": 91,
+      "timewalking": 11
+    },
+    "compact_csv_path": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/wowhead-npc-91797-king-deepbeard-drops-compact.csv",
+    "normalization_warning": "Wowhead boss-page drops include boss-specific rows, zone drops, currency, holiday/timewalking/global rows, relics and other non-upgrade rows. Do not treat every row as a clean boss gear drop until normalized."
+  },
+  "comments_curated_notes": [
+    "Comments are mostly lore/joke/voice/holiday notes, with limited route-strategy value.",
+    "One comment speculates King Deepbeard's son is likely Prince Oceanus.",
+    "One comment notes Finely-Tailored Green Holiday Hat can drop during holiday/Legion Remix context; keep separate from normal dungeon gear drops."
+  ],
+  "related_entities_from_page": {
+    "npc_mentions": [
+      {
+        "npc_id": 36494,
+        "name": "Forgemaster Garfrost",
+        "context": "comment voice comparison"
+      },
+      {
+        "npc_id": 91784,
+        "name": "Warlord Parjesh",
+        "context": "Eye of Azshara boss list"
+      },
+      {
+        "npc_id": 91789,
+        "name": "Lady Hatecoil",
+        "context": "Eye of Azshara boss list"
+      },
+      {
+        "npc_id": 91808,
+        "name": "Serpentrix",
+        "context": "Eye of Azshara boss list"
+      },
+      {
+        "npc_id": 91797,
+        "name": "King Deepbeard",
+        "context": "current boss"
+      },
+      {
+        "npc_id": 96028,
+        "name": "Wrath of Azshara",
+        "context": "Eye of Azshara boss list"
+      }
+    ],
+    "item_mentions": [
+      {
+        "item_id": 139300,
+        "name": "Finely-Tailored Green Holiday Hat",
+        "context": "holiday/comment item"
+      }
+    ]
+  },
+  "next_processing_notes": [
+    "Create a normalized boss object later from this extracted source.",
+    "Separate real boss gear drops from zone/global/holiday/timewalking rows.",
+    "Use compact CSV for full drop-table inspection."
+  ]
+}
