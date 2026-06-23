@@ -1,0 +1,65 @@
+{
+  "schema_version": "0.1.0",
+  "status": "normalized_candidate",
+  "created_at": "2026-06-23",
+  "dungeon": {
+    "id": "eye-of-azshara",
+    "name": "Eye of Azshara",
+    "expansion": "legion",
+    "type": "dungeon",
+    "zone_id": 8040,
+    "players": 5,
+    "territory": "Contested",
+    "location": {
+      "zone": "Azsuna",
+      "entrance_notes": "Entrance is in eastern Azsuna. Coordinates are treated as source-discovery data until verified against in-game/API data.",
+      "entrance_coordinates": {
+        "x": 61.2,
+        "y": 41.1,
+        "source_status": "wowhead_zone_page_candidate"
+      }
+    },
+    "difficulty_modes_observed": [
+      "normal",
+      "heroic",
+      "mythic",
+      "mythic_plus_context",
+      "timewalking_context"
+    ],
+    "level_scaling_notes": "Item identity and boss loot source must be stored separately from item level. Item level depends on player level, boss level, difficulty, Chromie Time, Timewalking and other current-game contexts.",
+    "boss_count": 5,
+    "boss_order": [
+      "warlord-parjesh",
+      "lady-hatecoil",
+      "serpentrix",
+      "king-deepbeard",
+      "wrath-of-azshara"
+    ],
+    "summary": "Eye of Azshara is a Legion dungeon in Azsuna with five boss encounters. This normalized candidate file is intended as the machine-readable dungeon-level source for later entity pages and generated indexes.",
+    "lore_summary_candidate": "The dungeon centers on Azshara's forces, the Hatecoil naga, the Tidestone of Golganneth and the Wrath of Azshara as the final elemental manifestation of Azshara's vengeance.",
+    "route_notes_candidate": [
+      "Warlord Parjesh is treated as the first boss in the current source set.",
+      "Lady Hatecoil requires nearby Hatecoil Arcanists / shield sources to be handled before the boss is vulnerable; exact count needs verification.",
+      "Serpentrix area has dangerous surrounding trash and sinkholes; clear more than seems necessary before pulling.",
+      "Wrath of Azshara is final-gated: all four other bosses must be defeated first, then the nearby Naga summoners must be defeated before engagement."
+    ],
+    "source_confidence": "medium-low",
+    "data_quality_notes": [
+      "Wowhead boss-page drops are useful but mixed with zone drops, Timewalking rows, quest rows, currencies, profession/event rows and unknown rows.",
+      "Boss-to-loot data is currently candidate-level and requires Blizzard API and/or in-game verification before high-confidence recommendations.",
+      "Unknown or blank values are allowed and should not be invented."
+    ]
+  },
+  "source_files": {
+    "discovery_summary": "raw-imports/legion/dungeons/eye-of-azshara/source-discovery/discovery-summary.md",
+    "boss_loot_candidate_manifest": "normalized/legion/dungeons/eye-of-azshara/boss-loot-candidate.json",
+    "boss_loot_candidate_generated": "normalized/legion/dungeons/eye-of-azshara/boss-loot-candidate.generated.json"
+  },
+  "next_generation_targets": [
+    "generated/indexes/dungeon-to-bosses.json",
+    "generated/indexes/boss-to-loot-candidates.json",
+    "generated/indexes/item-to-source-candidates.json",
+    "entities/instances/dungeons/legion/eye-of-azshara.md",
+    "entities/npcs/bosses/legion/eye-of-azshara/*.md"
+  ]
+}
