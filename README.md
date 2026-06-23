@@ -168,6 +168,16 @@ entities/items/candidates/
 
 These pages must remain marked as `item_candidate_unverified` until item stats and loot sources are confirmed against Blizzard API data, in-game loot journal data or logged loot observations.
 
+### Generated data validation
+
+Run the validation script after rebuilding indexes or generating candidate item pages:
+
+```bash
+node scripts/validate-generated-data.js
+```
+
+This checks that required generated indexes and Eye of Azshara entity pages exist, JSON files parse correctly, candidate loot stays marked as needing Blizzard verification, and generated item pages remain `item_candidate_unverified`.
+
 ### General lookup order
 
 1. Search for an exact entity page under [`entities/`](entities/).
