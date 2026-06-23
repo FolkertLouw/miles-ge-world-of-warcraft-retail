@@ -1,0 +1,603 @@
+{
+  "source_type": "wowhead_npc_page_drop_table_tiny",
+  "source_upload": "Pasted text(28).txt",
+  "extraction_date": "2026-06-23",
+  "boss": {
+    "npc_id": 91789,
+    "name": "Lady Hatecoil",
+    "dungeon": "Eye of Azshara"
+  },
+  "notes": [
+    "This is a compact extraction of the Wowhead boss-page drops Listview.",
+    "Rows are not yet trusted as clean boss-specific upgrade drops.",
+    "Some rows are zone/global/quest/material/currency/noise and require normalization.",
+    "Mode codes are raw Wowhead numeric mode IDs and must be mapped before use."
+  ],
+  "counts": {
+    "total_rows": 126,
+    "gear_like_rows_simple_filter": 72,
+    "raw_class_counts": {
+      "7": 1,
+      "0": 38,
+      "4": 72,
+      "3": 2,
+      "9": 1,
+      "12": 4,
+      "15": 8
+    },
+    "raw_slot_counts": {
+      "0": 54,
+      "9": 5,
+      "7": 5,
+      "10": 5,
+      "5": 7,
+      "6": 5,
+      "1": 5,
+      "8": 5,
+      "11": 9,
+      "3": 5,
+      "12": 9,
+      "16": 4,
+      "2": 8
+    },
+    "raw_mode_counts": {
+      "1": 118,
+      "2": 120,
+      "23": 107,
+      "8": 14,
+      "24": 15
+    }
+  },
+  "drops": [
+    {
+      "item_id": 124124,
+      "name": "Blood of Sargeras",
+      "quality": 3,
+      "classs": 7,
+      "subclass": 10,
+      "slot": 0,
+      "level": 40,
+      "reqlevel": 45,
+      "modes": [
+        1,
+        2,
+        23
+      ],
+      "count": 28647,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        1,
+        2,
+        4,
+        5,
+        16,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    {
+      "item_id": 132212,
+      "name": "Frothing Essence",
+      "quality": 0,
+      "classs": 0,
+      "subclass": 8,
+      "slot": 0,
+      "level": 40,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        23
+      ],
+      "count": 4358,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2,
+        16,
+        21
+      ]
+    },
+    {
+      "item_id": 132218,
+      "name": "Glob of Elemental Goo",
+      "quality": 0,
+      "classs": 0,
+      "subclass": 8,
+      "slot": 0,
+      "level": 40,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        23
+      ],
+      "count": 384,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 132223,
+      "name": "Elemental Droplet",
+      "quality": 0,
+      "classs": 0,
+      "subclass": 8,
+      "slot": 0,
+      "level": 40,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        23
+      ],
+      "count": 1923,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2,
+        16
+      ]
+    },
+    {
+      "item_id": 134230,
+      "name": "Coralplate Wristguard",
+      "quality": 2,
+      "classs": 4,
+      "subclass": 4,
+      "slot": 9,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1066,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134238,
+      "name": "Brinewashed Leather Pants",
+      "quality": 2,
+      "classs": 4,
+      "subclass": 2,
+      "slot": 7,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1248,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134253,
+      "name": "Sea Stalker's Gloves",
+      "quality": 2,
+      "classs": 4,
+      "subclass": 3,
+      "slot": 10,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 618,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134263,
+      "name": "Seawitch Robes",
+      "quality": 2,
+      "classs": 4,
+      "subclass": 1,
+      "slot": 5,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1460,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134433,
+      "name": "Cord of the Sea-Caller",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 1,
+      "slot": 6,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1013,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134471,
+      "name": "Helm of Endless Dunes",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 3,
+      "slot": 1,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 875,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134505,
+      "name": "Horizon Line Warboots",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 4,
+      "slot": 8,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1361,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 134525,
+      "name": "Seal of the Nazjatar Empire",
+      "quality": 3,
+      "classs": 4,
+      "subclass": -2,
+      "slot": 11,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 2821,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 137364,
+      "name": "Crashing Oceantide Mantle",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 2,
+      "slot": 3,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1157,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 137367,
+      "name": "Stormsinger Fulmination Charge",
+      "quality": 3,
+      "classs": 4,
+      "subclass": -4,
+      "slot": 12,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1692,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 137368,
+      "name": "Breastplate of Ten Lashes",
+      "quality": 3,
+      "classs": 4,
+      "subclass": 4,
+      "slot": 5,
+      "level": 50,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 1280,
+      "outof": 51172,
+      "bonuses": [
+        6654
+      ],
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 137426,
+      "name": "Portable Manacracker",
+      "quality": 3,
+      "classs": 0,
+      "subclass": 8,
+      "slot": 0,
+      "level": 10,
+      "reqlevel": 10,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 252,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 137729,
+      "name": "Technique: Glyph of Fel Wings",
+      "quality": 1,
+      "classs": 9,
+      "subclass": 11,
+      "slot": 0,
+      "level": 1,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 239,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 138019,
+      "name": "Mythic Keystone",
+      "quality": 3,
+      "classs": 15,
+      "subclass": 4,
+      "slot": 0,
+      "level": 10,
+      "reqlevel": null,
+      "modes": [
+        2,
+        23,
+        24
+      ],
+      "count": 0,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 138252,
+      "name": "Glory of the Melee",
+      "quality": 3,
+      "classs": 0,
+      "subclass": 8,
+      "slot": 0,
+      "level": 35,
+      "reqlevel": 40,
+      "modes": [
+        1,
+        2,
+        23
+      ],
+      "count": 323,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 138993,
+      "name": "Rarefied Water",
+      "quality": 1,
+      "classs": 12,
+      "subclass": 0,
+      "slot": 0,
+      "level": 1,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 4011,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 139464,
+      "name": "Lens of the Tides",
+      "quality": 1,
+      "classs": 12,
+      "subclass": 0,
+      "slot": 0,
+      "level": 1,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 4141,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 140220,
+      "name": "Scavenged Cloth",
+      "quality": 1,
+      "classs": 12,
+      "subclass": 0,
+      "slot": 0,
+      "level": 1,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        8,
+        23
+      ],
+      "count": 63,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    },
+    {
+      "item_id": 140221,
+      "name": "Found Sack of Gems",
+      "quality": 1,
+      "classs": 12,
+      "subclass": 0,
+      "slot": 0,
+      "level": 1,
+      "reqlevel": null,
+      "modes": [
+        1,
+        2,
+        8,
+        23,
+        24
+      ],
+      "count": 54,
+      "outof": 51172,
+      "bonuses": null,
+      "source_raw": [
+        2
+      ]
+    }
+  ]
+}
