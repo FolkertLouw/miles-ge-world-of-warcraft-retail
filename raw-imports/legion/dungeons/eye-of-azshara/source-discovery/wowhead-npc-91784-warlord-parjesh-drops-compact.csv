@@ -1,0 +1,125 @@
+item_id,name,quality,classs,subclass,slot,level,reqlevel,modes,count,outof,source_raw
+124124,Blood of Sargeras,3,7,10,0,40,45,1|2|23,29492,50785,1|2|4|5|16|17|19|21|23|25
+124437,Shal'dorei Silk,1,7,5,0,40,45,2,199,50785,2|4|5|16|21
+130106,Warlord Parjesh's Hauberk,1,12,0,0,1,,1|2|8|23|24,2861,50785,2
+132183,Razor Tooth,0,0,8,0,40,,2,74,50785,2|16
+134223,Coralplate Chestguard,2,4,4,5,50,40,1|2|8|23|24,1839,50785,2
+134240,Brinewashed Leather Cowl,2,4,2,1,50,40,1|2|8|23|24,2400,50785,2
+134251,Sea Stalker's Cinch,2,4,3,6,50,40,1|2|8|23|24,1089,50785,2
+134261,Seawitch Gloves,2,4,1,10,50,40,1|2|8|23|24,903,50785,2
+134441,Shellshock Footguards,3,4,2,8,50,40,1|2|8|23|24,1199,50785,2
+134484,Crestrider Conduit Bracers,3,4,3,9,50,40,1|2|8|23|24,1084,50785,2
+134492,Hatecoil Commander's Amulet,3,4,-3,2,50,40,1|2|8|23|24,3102,50785,2
+137360,Shoulderpads of Crashing Waves,3,4,1,3,50,40,1|2|8|23|24,1388,50785,2
+137361,Roaring Shellbreaker Greatbelt,3,4,4,6,50,40,1|2|8|23|24,1616,50785,2
+137362,Parjesh's Medallion,3,4,-4,12,50,40,1|2|8|23|24,846,50785,2
+137363,Bloodied Spearhead,3,3,-9,0,50,40,1|2|23,1320,50785,2
+138482,Sovereign Soul,1,12,0,0,1,,1|2|8|23|24,1804,50785,2
+138781,Brief History of the Aeons,0,0,8,0,1,,1|2|23|24,159,50785,2
+138786,Talisman of Victory,0,0,8,0,1,,23,17714,131495,2
+138993,Rarefied Water,1,12,0,0,1,,1|2|8|23|24,2542,50785,2
+139574,Coil of the Drowned Queen,6,0,8,0,45,,1|2|23,378,50785,2
+140220,Scavenged Cloth,2,15,4,0,1,,1,85,33068,2
+140222,Harvested Goods,2,15,4,0,1,,2,91,50785,2|21
+140224,Butchered Meat,2,15,4,0,1,,1,81,33068,2
+140227,Bloodhunter's Quarry,2,15,4,0,1,,23,223,131495,2
+141689,Jewel of Victory,0,0,8,0,1,,2,23829,50785,2
+141690,Symbol of Victory,0,0,8,0,1,,1,9048,33068,2
+144242,X'oni's Caress,5,4,2,10,50,40,23,55,34613,2|5
+144345,Pile of Pet Goodies,2,15,4,0,1,,2,85,50785,2
+147579,Tome of the Legionfall Magi,0,0,8,0,1,,2|23,113,50785,2
+147869,Fel Meteorite,2,15,0,0,1,,1|2|23,6,50785,2
+217605,Timeless Scroll of Intellect,1,0,8,0,1,,1|2|23,4,50785,2|5
+217606,Timeless Scroll of Fortitude,1,0,8,0,1,,1|2|23,1,50785,2|5
+217607,Timeless Scroll of the Wild,1,0,8,0,1,,1|2|23,5,50785,2|5
+217608,Timeless Scroll of Battle Shout,1,0,8,0,1,,1|2|23,3,50785,2|5
+217730,Timeless Scroll of Chaos,1,0,8,0,1,,1|2|23,2,50785,2|5|16
+217731,Timeless Scroll of Mystic Power,1,0,8,0,1,,1|2|23,265,5392,2|5
+217901,Timeless Drums,1,0,8,0,1,,1|2|23,3,50785,2|5|16
+217928,Timeless Scroll of Resurrection,1,0,8,0,1,,1|2|23,9,50785,2|5
+217929,Timeless Scroll of Cleansing,1,0,8,0,1,,1|2|23,4,50785,2|5
+217956,Timeless Scroll of Summoning,1,0,8,0,1,,1|2|23,4,50785,2|5
+238726,Drake Treat,1,0,1,0,1,,1|2|23,14,50785,2
+238727,Nostwin's Voucher,1,0,8,0,1,,1|2|23,14,50785,2
+240258,Drape of Hungering Flesh,2,4,-6,16,13,10,1|2|23,43,5392,2
+240261,Wrap of Hungering Flesh,2,4,-6,16,13,10,1|2|23,1,50785,2
+240266,Shroud of Hungering Flesh,2,4,-6,16,13,10,1|2|23,49,5392,2
+240270,Cape of Hungering Flesh,2,4,-6,16,13,10,1|2|23,34,5392,2
+240291,Honorforged Gauntlets,2,4,4,10,13,10,1|2|23,1,50785,2
+240292,Honorforged Vambraces,2,4,4,9,13,10,1|2|23,53,5392,2
+240293,Honorforged Stompers,2,4,4,8,13,10,1|2|23,1,50785,2
+240294,Honorforged Wargreaves,2,4,4,7,13,10,1|2|23,2,50785,2
+240295,Honorforged Greatbelt,2,4,4,6,13,10,1|2|23,41,5392,2
+240296,Honorforged Chestpiece,2,4,4,5,13,10,1|2|23,1,50785,2
+240297,Honorforged Mantle,2,4,4,3,13,10,1|2|23,54,5392,2
+240298,Honorforged Greathelm,2,4,4,1,13,10,1|2|23,1,50785,2
+240315,Grips of Skyfather's Chosen,2,4,3,10,13,10,1|2,27,5392,2
+240316,Bracers of Skyfather's Chosen,2,4,3,9,13,10,1|2|23,31,5392,2
+240317,Boots of Skyfather's Chosen,2,4,3,8,13,10,1|2|23,1,50785,2
+240318,Leggings of Skyfather's Chosen,2,4,3,7,13,10,1|2|23,26,5392,2
+240319,Cinch of Skyfather's Chosen,2,4,3,6,13,10,1|2|23,34,5392,2
+240320,Chestguard of Skyfather's Chosen,2,4,3,5,13,10,1|2|23,19,5392,2
+240321,Pinions of Skyfather's Chosen,2,4,3,3,13,10,1|2|23,15,5392,2
+240322,Faceguard of Skyfather's Chosen,2,4,3,1,13,10,1|2|23,23,5392,2
+240339,Gloves of Hungering Flesh,2,4,2,10,13,10,1|2|23,2,50785,2
+240340,Cuffs of Hungering Flesh,2,4,2,9,13,10,1|2|23,2,50785,2
+240341,Striders of Hungering Flesh,2,4,2,8,13,10,1|2|23,1,50785,2
+240342,Legwraps of Hungering Flesh,2,4,2,7,13,10,1|2|23,60,5392,2
+240343,Cinch of Hungering Flesh,2,4,2,6,13,10,1|2|23,3,50785,2
+240344,Jerkin of Hungering Flesh,2,4,2,5,13,10,1|2|23,2,50785,2
+240345,Shoulderguard of Hungering Flesh,2,4,2,3,13,10,1|2|23,1,50785,2
+240346,Cap of Hungering Flesh,2,4,2,1,13,10,1|2|23,1,50785,2
+240365,Gloves of Borrowed Souls,2,4,1,10,13,10,1|2|23,47,5392,2
+240366,Armbands of Borrowed Souls,2,4,1,9,13,10,1|2|23,28,5392,2
+240367,Slippers of Borrowed Souls,2,4,1,8,13,10,1|2|23,1,50785,2
+240368,Pants of Borrowed Souls,2,4,1,7,13,10,1|2|23,32,5392,2
+240369,Cinch of Borrowed Souls,2,4,1,6,13,10,1|2|23,1,50785,2
+240370,Robe of Borrowed Souls,2,4,1,5,13,10,1|2|23,1,50785,2
+240371,Raiment of Borrowed Souls,2,4,1,5,13,10,1|2,16,5392,2
+240372,Shawl of Borrowed Souls,2,4,1,3,13,10,1|2|23,33,5392,2
+240373,Cover of Borrowed Souls,2,4,1,1,13,10,1|2,38,5392,2
+242501,Memento of Epoch Knowledge,2,0,8,0,1,,1|2|23,14,50785,2
+242502,Memento of Epoch History,4,0,8,0,1,,1|2|23,30,50785,2
+242503,Memento of Epoch Stories,3,0,8,0,1,,1|2|23,5,50785,2
+242504,Memento of Epoch Truth,2,0,8,0,1,,1|2|23,16,50785,2
+242505,Memento of Epoch Hope,2,0,8,0,1,,1|2|23,13,50785,2
+242506,Memento of Epoch Rituals,3,0,8,0,1,,1|2|23,2,50785,2
+242507,Memento of Epoch Power,3,0,8,0,1,,1|2|23,2,50785,2
+242508,Memento of Epoch Potential,4,0,8,0,1,,1|2|23,45,50785,2
+242509,Memento of Epoch Curiosity,1,0,8,0,1,,1|2,2,50785,2
+242510,Memento of Epoch Kindness,1,0,8,0,1,,1|2,8,50785,2
+242511,Memento of Epoch Nostalgia,1,0,8,0,1,,1|2,3,50785,2
+242512,Memento of Epoch Creatures,1,0,8,0,1,,1|2,3,50785,2
+242513,Memento of Epoch Collections,1,0,8,0,1,,1|2,3,50785,2
+242514,Memento of Epoch Fun,1,0,8,0,1,,1|2,151,5392,2
+242515,Memento of Epoch Strategies,1,0,8,0,1,,1|2,4,50785,2
+242516,Memento of Epoch Legends,5,0,8,0,1,10,1|2|23,4,50785,2|4
+245925,Artifactium Sand,6,15,1,0,1,,1|2,4,50785,2
+245996,Chaos-Forged Necklace,2,4,-3,2,13,10,1|2|23,14,5392,2
+245997,Seal of the Nazjatar Empire,2,4,-2,11,13,10,1|2|23,2,50785,2
+245998,Ring of Mind Shielding,2,4,-2,11,13,10,1|2|23,27,5392,2
+245999,Volatile Chaos Talisman,2,4,-4,12,13,,1|2|23,2,50785,2
+246000,Lure of the Unknown Depths,2,4,-4,12,13,,1|2|23,1,50785,2
+246190,Pendant of the Watchful Eye,2,4,-3,2,13,,1|2|23,19,5392,2
+246191,Chain of the Underking,2,4,-3,2,13,,1,50785,2
+246192,Understone Gorget,2,4,-3,2,13,,2|23,28,5392,2
+246193,Strand of the Stars,2,4,-3,2,13,,1|2|23,1,50785,2
+246194,Chain of Scorched Bones,2,4,-3,2,13,,1|2|23,22,5392,2
+246195,Wolfstride Pendant,2,4,-3,2,13,,1|2|23,1,50785,2
+246196,Erratically Ticking Talisman,2,4,-3,2,13,,1|2|23,20,5392,2
+246197,Woe-Bearer's Band,2,4,-2,11,13,,1|2|23,1,50785,2
+246198,Jeweled Signet of Melandrus,2,4,-2,11,13,,1|2|23,31,5392,2
+246199,Band of Callous Dominance,2,4,-2,11,13,,1|2|23,1,50785,2
+246200,Band of Twisted Bark,2,4,-2,11,13,,1|2|23,23,5392,2
+246201,Signet of the Highborne Magi,2,4,-2,11,13,,1|2|23,1,50785,2
+246202,Grasping Tentacle Loop,2,4,-2,11,13,,1|2|23,30,5392,2
+246203,Chattering Soulmark,2,4,-4,12,13,,1|2|23,23,5392,2
+246204,Arcane Medal of Protection,2,4,-4,12,13,,1|2|23,40,5392,2
+246205,Stormwalker's Icon,2,4,-4,12,13,,1|2|23,1,50785,2
+246206,Aethas's Orbs of Warding,2,4,-4,12,13,,1|2|23,1,50785,2
+246207,Glimmering Soulbloom,2,4,-4,12,13,,1|2|23,2,50785,2
+246208,Mote of Obscure Magics,2,4,-4,12,13,,1|2|23,1,50785,2
+249891,Mound of Artifactium Sand,6,15,1,0,1,,1|2,40,5392,2
+251562,Tome of Combat Training,2,0,1,0,1,,1|2,18,50785,2
+253224,Mote of a Broken Time,3,15,4,0,1,,1|2|23,15,50785,2
+253227,Flawless Thread of Time,3,15,4,0,1,,23,3,753,2
