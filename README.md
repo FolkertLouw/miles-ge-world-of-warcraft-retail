@@ -111,6 +111,12 @@ See [`docs/database-taxonomy.md`](docs/database-taxonomy.md) for the broader tax
 
 Use these rules when answering player questions from the repo. The goal is not only to find a file, but to produce a useful action answer.
 
+### Agent usage standards
+
+- Use [`docs/agent-usage/game-data-query-flow.md`](docs/agent-usage/game-data-query-flow.md) as the generic query-flow standard for all game data in this repo.
+- Use dataset-specific flow docs, such as [`docs/agent-usage/eye-of-azshara-query-flow.md`](docs/agent-usage/eye-of-azshara-query-flow.md), when the question targets an imported dungeon or content set.
+- Prefer generated indexes first, then normalized data, then entity pages, and only then raw imports as evidence.
+
 ### General lookup order
 
 1. Search for an exact entity page under [`entities/`](entities/).
