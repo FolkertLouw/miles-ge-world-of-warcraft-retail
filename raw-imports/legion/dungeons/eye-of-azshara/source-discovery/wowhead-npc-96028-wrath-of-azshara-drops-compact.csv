@@ -1,0 +1,158 @@
+item_id,name,quality,class_id,class_name,subclass_id,slot_id,slot_name,item_level,required_level,count,outof,mode_ids,mode_counts_json,source_more,simple_gear_like
+124124,Blood of Sargeras,3,7,Trade Goods,10,0,,40,45,10247,10790,1;2;23,"{""2"":{""count"":10247,""outof"":10790},""1"":{""count"":4960,""outof"":11102},""0"":{""count"":22761,""outof"":30329},""23"":{""count"":7554,""outof"":8049}}",Transmute: Blood of Sargeras,no
+127048,Heart of the Storm,1,12,Quest,0,0,,1,,225,10790,1;2;8;23;24,"{""2"":{""count"":225,""outof"":10790},""1"":{""count"":100,""outof"":11102},""24"":{""count"":11,""outof"":240},""8"":{""count"":4,""outof"":4},""23"":{""count"":143,""outof"":8049}}",Wrath of Azshara,no
+127929,Recipe: Leytorrent Potion,1,9,Recipe,6,0,,1,10,171,10790,1;2;8;23;24,"{""2"":{""count"":171,""outof"":10790},""1"":{""count"":98,""outof"":11102},""24"":{""count"":16,""outof"":240},""8"":{""count"":2,""outof"":4},""23"":{""count"":155,""outof"":8049}}",Wrath of Azshara,no
+129747,Swirling Timewarped Vial,3,12,Quest,0,0,,27,,3,240,24,"{""24"":{""count"":3,""outof"":240}}",,no
+134225,Coralplate Girdle,3,4,Armor,4,6,Waist,50,40,145,10790,1;2;23,"{""2"":{""count"":145,""outof"":10790},""1"":{""count"":71,""outof"":11102},""23"":{""count"":98,""outof"":8049}}",,yes
+134237,Brinewashed Leather Boots,3,4,Armor,2,8,Feet,50,40,210,10790,1;2;23,"{""2"":{""count"":210,""outof"":10790},""1"":{""count"":111,""outof"":11102},""23"":{""count"":165,""outof"":8049}}",,yes
+134255,Sea Stalker's Hood,3,4,Armor,3,1,Head,50,40,112,10790,1;2;23,"{""2"":{""count"":112,""outof"":10790},""1"":{""count"":63,""outof"":11102},""23"":{""count"":92,""outof"":8049}}",,yes
+134259,Seawitch Cinch,3,4,Armor,1,6,Waist,50,40,275,10790,1;2;23,"{""2"":{""count"":275,""outof"":10790},""1"":{""count"":132,""outof"":11102},""23"":{""count"":215,""outof"":8049}}",,yes
+134417,Slippers of Martyrdom,3,4,Armor,1,8,Feet,50,40,266,10790,1;2;23,"{""2"":{""count"":266,""outof"":10790},""1"":{""count"":126,""outof"":11102},""23"":{""count"":173,""outof"":8049}}",zone:8040,yes
+134459,Cuffs of the Arcane Storm,3,4,Armor,2,9,Wrist,50,40,184,10790,1;2;23,"{""2"":{""count"":184,""outof"":10790},""1"":{""count"":103,""outof"":11102},""23"":{""count"":135,""outof"":8049}}",zone:8040,yes
+134478,Thundercrush Pauldrons,3,4,Armor,3,3,Shoulder,50,40,158,10790,1;2;23,"{""2"":{""count"":158,""outof"":10790},""1"":{""count"":74,""outof"":11102},""23"":{""count"":100,""outof"":8049}}",zone:8040,yes
+134497,Stormcharged Choker,3,4,Armor,-3,2,Neck,50,40,586,10790,1;2;23,"{""2"":{""count"":586,""outof"":10790},""1"":{""count"":317,""outof"":11102},""23"":{""count"":403,""outof"":8049}}",zone:8040,yes
+134512,Casque of the Deep,3,4,Armor,4,1,Head,50,40,99,10790,1;2;23,"{""2"":{""count"":99,""outof"":10790},""1"":{""count"":56,""outof"":11102},""23"":{""count"":70,""outof"":8049}}",zone:8040,yes
+134532,Band of Fused Coral,3,4,Armor,-2,11,Finger,50,40,1150,10790,1;2;23,"{""2"":{""count"":1150,""outof"":10790},""1"":{""count"":529,""outof"":11102},""23"":{""count"":776,""outof"":8049}}",zone:8040,yes
+136705,Technique: Aqual Mark,1,9,Recipe,11,0,,37,10,326,10790,1;2;23,"{""2"":{""count"":326,""outof"":10790},""1"":{""count"":205,""outof"":11102},""23"":{""count"":213,""outof"":8049}}",zone:8040,no
+137378,Bottled Hurricane,3,4,Armor,-4,12,Trinket,50,40,193,10790,1;2;23,"{""2"":{""count"":193,""outof"":10790},""1"":{""count"":97,""outof"":11102},""23"":{""count"":136,""outof"":8049}}",zone:8040,yes
+137379,Tempestbinder's Crystal,3,3,Gem/Relic,-12,0,,50,40,1204,10790,1;2;23,"{""2"":{""count"":1204,""outof"":10790},""1"":{""count"":596,""outof"":11102},""23"":{""count"":900,""outof"":8049}}",zone:8040,yes
+137380,Rage of the Tides,3,3,Gem/Relic,-13,0,,50,40,543,10790,1;2;23,"{""2"":{""count"":543,""outof"":10790},""1"":{""count"":312,""outof"":11102},""23"":{""count"":424,""outof"":8049}}",zone:8040,yes
+137381,Pact of Vengeful Service,3,3,Gem/Relic,-16,0,,50,40,508,10790,1;2;23,"{""2"":{""count"":508,""outof"":10790},""1"":{""count"":246,""outof"":11102},""23"":{""count"":340,""outof"":8049}}",zone:8040,yes
+137825,Design: Dawnlight Band,1,9,Recipe,10,0,,1,10,208,10790,1;2;23,"{""2"":{""count"":208,""outof"":10790},""1"":{""count"":84,""outof"":11102},""23"":{""count"":170,""outof"":8049}}",zone:8040,no
+137826,Design: Grim Furystone Gorget,1,9,Recipe,10,0,,1,10,282,10790,1;2;23,"{""2"":{""count"":282,""outof"":10790},""1"":{""count"":168,""outof"":11102},""23"":{""count"":186,""outof"":8049}}",zone:8040,no
+138243,Slippers of Martyrdom,3,4,Armor,1,8,Feet,50,40,198,10790,1;2;23,"{""2"":{""count"":198,""outof"":10790},""1"":{""count"":85,""outof"":11102},""23"":{""count"":127,""outof"":8049}}",zone:8040,yes
+138245,Cuffs of the Arcane Storm,3,4,Armor,2,9,Wrist,50,40,139,10790,1;2;23,"{""2"":{""count"":139,""outof"":10790},""1"":{""count"":73,""outof"":11102},""23"":{""count"":113,""outof"":8049}}",zone:8040,yes
+138246,Thundercrush Pauldrons,3,4,Armor,3,3,Shoulder,50,40,110,10790,1;2;23,"{""2"":{""count"":110,""outof"":10790},""1"":{""count"":57,""outof"":11102},""23"":{""count"":65,""outof"":8049}}",zone:8040,yes
+138250,Stormcharged Choker,3,4,Armor,-3,2,Neck,50,40,414,10790,1;2;23,"{""2"":{""count"":414,""outof"":10790},""1"":{""count"":221,""outof"":11102},""23"":{""count"":264,""outof"":8049}}",zone:8040,yes
+138251,Casque of the Deep,3,4,Armor,4,1,Head,50,40,93,10790,1;2;23,"{""2"":{""count"":93,""outof"":10790},""1"":{""count"":47,""outof"":11102},""23"":{""count"":55,""outof"":8049}}",zone:8040,yes
+138253,Band of Fused Coral,3,4,Armor,-2,11,Finger,50,40,818,10790,1;2;23,"{""2"":{""count"":818,""outof"":10790},""1"":{""count"":466,""outof"":11102},""23"":{""count"":583,""outof"":8049}}",zone:8040,yes
+138254,Bottled Hurricane,3,4,Armor,-4,12,Trinket,50,40,154,10790,1;2;23,"{""2"":{""count"":154,""outof"":10790},""1"":{""count"":92,""outof"":11102},""23"":{""count"":109,""outof"":8049}}",zone:8040,yes
+138255,Tempestbinder's Crystal,3,3,Gem/Relic,-12,0,,50,40,881,10790,1;2;23,"{""2"":{""count"":881,""outof"":10790},""1"":{""count"":457,""outof"":11102},""23"":{""count"":661,""outof"":8049}}",zone:8040,yes
+138256,Rage of the Tides,3,3,Gem/Relic,-13,0,,50,40,463,10790,1;2;23,"{""2"":{""count"":463,""outof"":10790},""1"":{""count"":232,""outof"":11102},""23"":{""count"":315,""outof"":8049}}",zone:8040,yes
+138257,Pact of Vengeful Service,3,3,Gem/Relic,-16,0,,50,40,384,10790,1;2;23,"{""2"":{""count"":384,""outof"":10790},""1"":{""count"":210,""outof"":11102},""23"":{""count"":272,""outof"":8049}}",zone:8040,yes
+138780,Design: Dawnlight Band,1,9,Recipe,10,0,,1,10,114,10790,1;2;23,"{""2"":{""count"":114,""outof"":10790},""1"":{""count"":55,""outof"":11102},""23"":{""count"":88,""outof"":8049}}",zone:8040,no
+138781,Design: Grim Furystone Gorget,1,9,Recipe,10,0,,1,10,172,10790,1;2;23,"{""2"":{""count"":172,""outof"":10790},""1"":{""count"":79,""outof"":11102},""23"":{""count"":109,""outof"":8049}}",zone:8040,no
+138993,Rarefied Water,1,12,Quest,0,0,,1,,3200,10790,1;2;8;23;24,"{""2"":{""count"":3200,""outof"":10790},""1"":{""count"":2825,""outof"":11102},""24"":{""count"":11,""outof"":240},""8"":{""count"":2,""outof"":4},""23"":{""count"":2537,""outof"":8049}}",zone:8040,no
+139239,Stone of Jordan,4,4,Armor,-2,11,Finger,40,35,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+139246,Talisman of the Binding Shard,4,4,Armor,-4,12,Trinket,50,40,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+139321,Swirling Timewarped Vial,3,15,Miscellaneous,1,0,,45,45,12,240,24,"{""24"":{""count"":12,""outof"":240}}",,no
+139342,Brinewashed Leather Boots,3,4,Armor,2,8,Feet,50,40,146,10790,1;2;23,"{""2"":{""count"":146,""outof"":10790},""1"":{""count"":80,""outof"":11102},""23"":{""count"":127,""outof"":8049}}",zone:8040,yes
+139343,Coralplate Girdle,3,4,Armor,4,6,Waist,50,40,99,10790,1;2;23,"{""2"":{""count"":99,""outof"":10790},""1"":{""count"":38,""outof"":11102},""23"":{""count"":73,""outof"":8049}}",zone:8040,yes
+139344,Seawitch Cinch,3,4,Armor,1,6,Waist,50,40,220,10790,1;2;23,"{""2"":{""count"":220,""outof"":10790},""1"":{""count"":108,""outof"":11102},""23"":{""count"":140,""outof"":8049}}",zone:8040,yes
+139345,Sea Stalker's Hood,3,4,Armor,3,1,Head,50,40,79,10790,1;2;23,"{""2"":{""count"":79,""outof"":10790},""1"":{""count"":42,""outof"":11102},""23"":{""count"":51,""outof"":8049}}",zone:8040,yes
+139565,Fel Core Hound Harness,4,15,Miscellaneous,5,0,,10,10,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+139682,Memory of Angry Tricks,4,0,Consumable,8,0,,10,10,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+140235,Bloody Note,1,12,Quest,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+140310,Mark of the Glade Guardian,4,4,Armor,-4,12,Trinket,60,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+140336,Rockbound Sprite,4,15,Miscellaneous,2,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+141357,Worthless Piece of White Glass,0,0,Consumable,8,0,,1,,470,10790,1;2;23,"{""2"":{""count"":470,""outof"":10790},""1"":{""count"":197,""outof"":11102},""23"":{""count"":357,""outof"":8049}}",zone:8040,no
+141417,Syndrelle's Favorite Ring,3,4,Armor,-2,11,Finger,50,40,509,10790,1;2;23,"{""2"":{""count"":509,""outof"":10790},""1"":{""count"":248,""outof"":11102},""23"":{""count"":349,""outof"":8049}}",zone:8040,yes
+141432,Shroud of the Naglfar,3,4,Armor,-6,16,Back,50,40,2028,10790,1;2;23,"{""2"":{""count"":2028,""outof"":10790},""1"":{""count"":1000,""outof"":11102},""23"":{""count"":1473,""outof"":8049}}",zone:8040,yes
+141583,Crest of the Grand Army,4,4,Armor,-4,12,Trinket,50,40,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+144259,Skullflower's Haemostasis,4,4,Armor,4,10,Hands,50,40,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+144326,Glory of the Melee,3,0,Consumable,8,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+144363,Inner Hallation,3,15,Miscellaneous,4,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+144457,Demon Commander,3,0,Consumable,8,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+146909,Vial of Hot Water,1,12,Quest,0,0,,1,,21,240,24,"{""24"":{""count"":21,""outof"":240}}",,no
+147224,Old Glove,1,12,Quest,0,0,,1,,18,240,24,"{""24"":{""count"":18,""outof"":240}}",,no
+147343,Broken Pocket Watch,0,0,Consumable,8,0,,1,,1112,10790,1;2;23,"{""2"":{""count"":1112,""outof"":10790},""1"":{""count"":618,""outof"":11102},""23"":{""count"":766,""outof"":8049}}",zone:8040,no
+147429,Empty Pocket,0,0,Consumable,8,0,,1,,2875,10790,1;2;23,"{""2"":{""count"":2875,""outof"":10790},""1"":{""count"":1574,""outof"":11102},""23"":{""count"":2164,""outof"":8049}}",zone:8040,no
+147438,Broken Magical Snowglobe,0,0,Consumable,8,0,,1,,1470,10790,1;2;23,"{""2"":{""count"":1470,""outof"":10790},""1"":{""count"":707,""outof"":11102},""23"":{""count"":1089,""outof"":8049}}",zone:8040,no
+152347,Rocks on the Rocks,0,0,Consumable,1,0,,60,45,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+152410,Lost Mail,1,15,Miscellaneous,0,0,,1,,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+153109,Viridium,2,7,Trade Goods,4,0,,25,,5,240,24,"{""24"":{""count"":5,""outof"":240}}",,no
+153203,Sage Agate,2,7,Trade Goods,4,0,,25,,5,240,24,"{""24"":{""count"":5,""outof"":240}}",,no
+153442,Alterac Valley Mark of Honor,1,12,Quest,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+154164,Blood-Stained Bone,1,7,Trade Goods,6,0,,25,,8,240,24,"{""24"":{""count"":8,""outof"":240}}",,no
+154891,Seasoned Steak,1,0,Consumable,5,0,,33,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+158075,Heart of Azeroth,4,4,Armor,-2,2,Neck,55,10,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+158773,First Aid Kit,1,0,Consumable,8,0,,1,,2,240,24,"{""24"":{""count"":2,""outof"":240}}",,no
+158863,Chitinous Exoskeleton,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+158864,Viscous Webbing,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+158865,Malleable Antenna,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+160131,Briny Barnacle,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+161057,Remembrance Parchment Ashes,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+162461,Sanguicell,3,7,Trade Goods,11,0,,50,45,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+163853,Pilfered Sweeper,1,0,Consumable,8,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+163905,Great Sea Catfish,1,7,Trade Goods,8,0,,45,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+165948,Tidalcore,3,7,Trade Goods,11,0,,50,45,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+167738,Gilded Seaweave,1,7,Trade Goods,5,0,,45,,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+168262,Schematic: Ub3r-Module: P.O.G.O.,1,9,Recipe,3,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+168584,Two of Blockades,2,12,Quest,0,0,,45,40,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+168822,Leytorrent Potion,1,0,Consumable,1,0,,40,10,57,240,24,"{""24"":{""count"":57,""outof"":240}}",,no
+169474,Golganneth's Vitality,3,0,Consumable,8,0,,60,45,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+169764,Pattern: Notorious Combatant's Leather Treads,1,9,Recipe,1,0,,1,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+172954,Echo of Mortality,3,7,Trade Goods,5,0,,50,48,3,3,8,"{""8"":{""count"":3,""outof"":3}}",,no
+173299,Handful of Oats,1,12,Quest,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+178562,Embroidered Deep Sea Cloak,3,4,Armor,-6,16,Back,35,29,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+180817,Cypher of Relocation,3,12,Quest,0,0,,45,,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+181275,Braided Silver Ring,3,4,Armor,-2,11,Finger,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181276,Mainsail Cloak,3,4,Armor,-6,16,Back,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181277,Taut Halyard Waistband,3,4,Armor,2,6,Waist,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181278,Parshah Handguards,3,4,Armor,4,10,Hands,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181279,Crooked Hermit's Sash,3,4,Armor,1,6,Waist,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181280,Drape of Depravity,3,4,Armor,-6,16,Back,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181281,Horizon Line Warboots,3,4,Armor,4,8,Feet,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181282,Hatecoil Commander's Amulet,3,4,Armor,-3,2,Neck,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181283,Seawitch Gloves,3,4,Armor,1,10,Hands,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181284,Waveborne Diplomat's Drape,3,4,Armor,-6,16,Back,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181285,Sea Stalker's Gloves,3,4,Armor,3,10,Hands,50,40,2,240,24,"{""24"":{""count"":2,""outof"":240}}",,yes
+181286,Thundercrush Pauldrons,3,4,Armor,3,3,Shoulder,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181287,Horizon Line Warboots,3,4,Armor,4,8,Feet,50,40,2,240,24,"{""24"":{""count"":2,""outof"":240}}",,yes
+181288,Seacursed Wrap,3,4,Armor,2,10,Hands,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181289,Drape of the Hatecoil Emissary,3,4,Armor,-6,16,Back,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181290,Stormcharged Choker,3,4,Armor,-3,2,Neck,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181291,Wavecrash Stompers,3,4,Armor,3,8,Feet,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181292,Casque of the Deep,3,4,Armor,4,1,Head,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181293,Bottled Hurricane,3,4,Armor,-4,12,Trinket,50,40,2,240,24,"{""24"":{""count"":2,""outof"":240}}",,yes
+181294,Stormwake Handguards,3,4,Armor,4,10,Hands,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+181295,Fishbrul Special,1,0,Consumable,5,0,,45,,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+181296,Majestic Elderhorn Hoof,1,0,Consumable,0,0,,45,45,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+181297,""Bravery"" Cologne,1,0,Consumable,0,0,,40,10,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+181298,Nightborne Delicacy Platter,1,0,Consumable,5,0,,40,10,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+181299,Vanilla Bean,1,0,Consumable,0,0,,1,1,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,no
+181300,Band of Fused Coral,3,4,Armor,-2,11,Finger,50,40,1,240,24,"{""24"":{""count"":1,""outof"":240}}",,yes
+182748,Darkmoon Deck: Repose,4,4,Armor,-4,12,Trinket,60,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+183370,Needle In Nose,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+183409,Ragged Clothing Scrap,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+183899,Stitchflesh's Design Notes,3,12,Quest,0,0,,60,58,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+184146,Singed Soul Shackles,4,2,Weapon,15,15,Ranged,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+186017,Korthite Crystal,3,7,Trade Goods,11,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+187182,All-Seeing Crystal,1,12,Quest,0,0,,60,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+187186,Roh-Suir's Treatise on Cookie Appreciation,1,12,Quest,0,0,,60,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+187252,Recipe: Crafter's Mark III,1,9,Recipe,0,0,,1,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+187252,Recipe: Crafter's Mark III,1,9,Recipe,0,0,,1,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+187612,""By Night's Grace"" Cosmetic Ability (DNT),1,0,Consumable,8,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+187744,Encrypted Korthian Journal,1,12,Quest,0,0,,60,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+189179,Formula: Anima-ted Leash,1,9,Recipe,8,0,,1,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+189582,Cosmic Equipment Chest,4,15,Miscellaneous,4,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+190189,Sandworn Relic,2,12,Quest,0,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+190454,Kettle of Stone Soup,1,0,Consumable,5,0,,60,50,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+190946,Mark of the Enlightened,1,12,Quest,0,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+191024,Al'dalil's Milanese Necklace,3,4,Armor,-3,2,Neck,50,48,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+194095,Design: Choker of Shielding,1,9,Recipe,10,0,,1,58,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+194097,Design: Torc of Passed Time,1,9,Recipe,10,0,,1,58,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+197603,Mark of Sargha,4,4,Armor,-4,12,Trinket,60,58,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+200656,Jaq's Fight Club Membership,1,12,Quest,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+200827,Membership Card,1,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+201806,Formula: Enchant Boots - Plainsrunner's Breeze,1,9,Recipe,8,0,,1,58,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+201811,Formula: Enchant Cloak - Homebound Speed,1,9,Recipe,8,0,,1,58,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+203700,""Rhinestone"" Sunglasses,1,4,Armor,1,1,Head,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+205417,Pungent Soup Spices,1,12,Quest,0,0,,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+207002,Coveted Bauble,3,12,Quest,0,0,,30,30,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+208674,Dusty Prospector's Chestpiece,3,4,Armor,2,5,Chest,20,10,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+210221,Spark of Awakening,4,15,Miscellaneous,4,0,,70,70,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+210814,Artisan's Acuity,3,12,Quest,0,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+212493,""BEAUTIFUL BEARD"" Costume,3,0,Consumable,8,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+219297,Winding Slitherdrake: Red Hair,1,15,Miscellaneous,4,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+219297,Winding Slitherdrake: Red Hair,1,15,Miscellaneous,4,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+224177,DF Season 4 Hero,4,15,Miscellaneous,4,0,,70,70,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+225892,Bloody Perch,1,7,Trade Goods,8,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+226326,Upgrade Track: Awakened,2,15,Miscellaneous,0,0,,1,,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+226472,First World Watch,4,4,Armor,-3,2,Neck,60,60,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,yes
+228338,Soul Sigil II,3,15,Miscellaneous,4,0,,70,70,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+228339,Soul Sigil III,3,15,Miscellaneous,4,0,,70,70,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+228361,Vanishing Glory,3,15,Miscellaneous,4,0,,70,70,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+228366,Mysterious Satchel,3,15,Miscellaneous,4,0,,70,70,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+233177,Soul Sigil I,3,15,Miscellaneous,4,0,,1,1,1,1,8,"{""8"":{""count"":1,""outof"":1}}",,no
+237812,Dwarven Homebrewed Ale,1,12,Quest,0,0,,10,1,1,10790,2,"{""2"":{""count"":1,""outof"":10790}}",,no
