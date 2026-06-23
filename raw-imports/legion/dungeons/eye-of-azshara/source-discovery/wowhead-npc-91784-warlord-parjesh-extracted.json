@@ -1,0 +1,282 @@
+{
+  "source": {
+    "type": "user-pasted-wowhead-html",
+    "page": "https://www.wowhead.com/npc=91784/warlord-parjesh",
+    "entity": "Warlord Parjesh",
+    "npc_id": 91784,
+    "raw_source_committed": false
+  },
+  "boss": {
+    "id": "warlord-parjesh",
+    "name": "Warlord Parjesh",
+    "npc_id": 91784,
+    "dungeon": {
+      "id": "eye-of-azshara",
+      "name": "Eye of Azshara",
+      "zone_id": 8040
+    },
+    "boss_order_from_zone_page": 1,
+    "quick_facts": {
+      "classification": "Elite",
+      "reacts_to": [
+        "Alliance",
+        "Horde"
+      ],
+      "type": "Humanoid",
+      "average_money_dropped_copper": 56960,
+      "added_patch": "7.0.3",
+      "health_by_difficulty_observed_from_tooltip": {
+        "normal": 31141978,
+        "heroic": 48659320,
+        "mythic_dungeon": 63257112
+      }
+    },
+    "map_coords_in_dungeon": [
+      [
+        54.6,
+        68.3
+      ]
+    ],
+    "page_description_summary": {
+      "lore_context": "Fierce Hatecoil naga commander in Azsuna, second only to Athissa, seeking the Tidestone of Golgannath.",
+      "route_context": "Large amount of trash between the entrance and Warlord Parjesh. Trash is centered around the stone path leading down toward the arena.",
+      "encounter_shape": "Primarily single-target and low-movement, but requires positioning and target switching when reinforcements are called."
+    }
+  },
+  "encounter_journal": {
+    "source_difficulty_view": "timewalking page view in pasted HTML; includes difficulty indicators for normal, heroic, mythic, mythic_plus, timewalking",
+    "summary": "Parjesh calls reinforcements and throws Impaling Spear in a line; players can use naga reinforcements to block it.",
+    "role_notes": {
+      "tank": [
+        "Stand behind naga reinforcements when Impaling Spear is thrown.",
+        "Pick up Hatecoil Shellbreakers when Call Reinforcements is cast."
+      ],
+      "healer": [
+        "Stand behind naga reinforcements when Impaling Spear is thrown.",
+        "Be ready for increased healing if a player is hit by Impaling Spear."
+      ],
+      "dps": [
+        "Stand behind naga reinforcements when Impaling Spear is thrown.",
+        "Kill summoned naga reinforcements."
+      ]
+    },
+    "mechanic_notes": [
+      {
+        "spell": "Crashing Wave",
+        "note": "Charge attack; on heroic/mythic variants it leaves Quicksand that slows and damages."
+      },
+      {
+        "spell": "Impaling Spear",
+        "note": "Line attack that hits the first target; key positioning mechanic."
+      },
+      {
+        "spell": "Throw Spear",
+        "note": "Random target damage plus damage-over-time."
+      },
+      {
+        "spell": "Call Reinforcements",
+        "note": "Normal may call one add; higher difficulties call both Shellbreaker and Crestrider."
+      },
+      {
+        "spell": "Bellowing Roar",
+        "note": "Shellbreaker cast; interruptible and can lead to Motivated damage buff."
+      },
+      {
+        "spell": "Lightning Strike",
+        "note": "Crestrider casts random target lightning; interruptible."
+      },
+      {
+        "spell": "Restoration",
+        "note": "Crestrider healing channel on higher difficulties; interruptible."
+      },
+      {
+        "spell": "Enrage",
+        "note": "At 30% remaining health, Parjesh gains 30% haste."
+      }
+    ],
+    "abilities": [
+      {
+        "spell_id": 191900,
+        "name": "Crashing Wave",
+        "display_name": "Crashing Wave",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 191919,
+        "name": "Crashing Wave",
+        "display_name": "Crashing Wave",
+        "schools": 16,
+        "modes": [
+          1,
+          2,
+          8,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 191946,
+        "name": "Impaling Spear",
+        "display_name": "Impaling Spear",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 191975,
+        "name": "Impaling Spear",
+        "display_name": "Impaling Spear",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 191977,
+        "name": "Impaling Spear",
+        "display_name": "Impaling Spear",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 192053,
+        "name": "Quicksand",
+        "display_name": "Quicksand",
+        "schools": 8,
+        "modes": [
+          2,
+          8,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 192072,
+        "name": "Call Reinforcements",
+        "display_name": "Call Reinforcements",
+        "schools": 1,
+        "modes": [
+          1
+        ]
+      },
+      {
+        "spell_id": 192073,
+        "name": "Call Reinforcements",
+        "display_name": "Call Reinforcements",
+        "schools": 1,
+        "modes": [
+          1
+        ]
+      },
+      {
+        "spell_id": 192094,
+        "name": "Impaling Spear",
+        "display_name": "Impaling Spear",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 192131,
+        "name": "Throw Spear",
+        "display_name": "Throw Spear",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 196563,
+        "name": "Call Reinforcements",
+        "display_name": "Call Reinforcements",
+        "schools": 1,
+        "modes": [
+          2,
+          8,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 197064,
+        "name": "Enrage",
+        "display_name": "Enrage",
+        "schools": 1,
+        "modes": [
+          1,
+          2,
+          8,
+          23,
+          24
+        ]
+      },
+      {
+        "spell_id": 209858,
+        "name": "Necrotic Wound",
+        "display_name": "Necrotic Wound",
+        "schools": 1,
+        "modes": [
+          8,
+          23
+        ]
+      }
+    ]
+  },
+  "loot_summary": {
+    "raw_drop_rows_found": 124,
+    "gear_like_drop_rows_found": 72,
+    "note": "This is boss-page drop data from Wowhead, but it still needs normalization. Some rows are currencies, global drops, timewalking items or uncommon drops; not all are useful boss-specific upgrade candidates."
+  },
+  "data_quality": {
+    "confidence": "medium-low",
+    "good_for": [
+      "boss identity and NPC ID",
+      "dungeon link and coordinates",
+      "first-pass encounter mechanics",
+      "first-pass boss-page drop table extraction"
+    ],
+    "not_good_enough_yet_for": [
+      "current retail item-level scaling formula",
+      "final boss-to-loot upgrade scoring",
+      "clean group recommendation without character snapshots",
+      "trash route strategy"
+    ],
+    "next_source_to_process": "Lady Hatecoil boss page or Blizzard API journal encounter for Warlord Parjesh"
+  }
+}
