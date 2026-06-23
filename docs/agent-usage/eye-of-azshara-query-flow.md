@@ -4,6 +4,10 @@ Status: `agent_usage_candidate`
 Scope: World of Warcraft Retail / Legion / Eye of Azshara  
 Purpose: tell MILES how to answer dungeon, boss, loot, route, and upgrade questions using the current repository structure.
 
+This document is the Eye of Azshara-specific implementation of the generic standard:
+
+- `docs/agent-usage/game-data-query-flow.md`
+
 > Important: loot data for Eye of Azshara is currently candidate data. It is useful for routing and early reasoning, but it is not yet verified against Blizzard API or in-game observations.
 
 ## File layers
